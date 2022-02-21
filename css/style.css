@@ -41,7 +41,11 @@
   font-size: 4rem;
 }
 
-
 .img-max-height {
   max-height: 80vh;
+}
+
+li a.btn {
+  text-indent: 0;
+  border: none;
 }

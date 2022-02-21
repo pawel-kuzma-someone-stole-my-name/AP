@@ -1,0 +1,584 @@
+{\rtf1\adeflang1025\ansi\ansicpg1250\uc1\adeff44\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi31507\deflang1045\deflangfe1045\themelang1045\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\f2\fbidi \fmodern\fcharset238\fprq1{\*\panose 02070309020205020404}Courier New;}{\f34\fbidi \froman\fcharset238\fprq2{\*\panose 02040503050406030204}Cambria Math;}
+{\f44\fbidi \fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Liberation Serif{\*\falt Times New Roman};}{\f45\fbidi \fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Liberation Sans{\*\falt Arial};}
+{\flomajor\f31500\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbmajor\f31501\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fhimajor\f31502\fbidi \fswiss\fcharset238\fprq2{\*\panose 020f0302020204030204}Calibri Light;}{\fbimajor\f31503\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\flominor\f31504\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbminor\f31505\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fhiminor\f31506\fbidi \fswiss\fcharset238\fprq2{\*\panose 020f0502020204030204}Calibri;}{\fbiminor\f31507\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f931\fbidi \froman\fcharset0\fprq2 Times New Roman;}
+{\f930\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\f932\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f933\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f934\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f935\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f936\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f937\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f951\fbidi \fmodern\fcharset0\fprq1 Courier New;}
+{\f950\fbidi \fmodern\fcharset204\fprq1 Courier New Cyr;}{\f952\fbidi \fmodern\fcharset161\fprq1 Courier New Greek;}{\f953\fbidi \fmodern\fcharset162\fprq1 Courier New Tur;}{\f954\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f955\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f956\fbidi \fmodern\fcharset186\fprq1 Courier New Baltic;}{\f957\fbidi \fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f1271\fbidi \froman\fcharset0\fprq2 Cambria Math;}
+{\f1270\fbidi \froman\fcharset204\fprq2 Cambria Math Cyr;}{\f1272\fbidi \froman\fcharset161\fprq2 Cambria Math Greek;}{\f1273\fbidi \froman\fcharset162\fprq2 Cambria Math Tur;}{\f1276\fbidi \froman\fcharset186\fprq2 Cambria Math Baltic;}
+{\f1277\fbidi \froman\fcharset163\fprq2 Cambria Math (Vietnamese);}{\flomajor\f31510\fbidi \froman\fcharset0\fprq2 Times New Roman;}{\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\fdbmajor\f31520\fbidi \froman\fcharset0\fprq2 Times New Roman;}{\fdbmajor\f31519\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbmajor\f31521\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\fdbmajor\f31522\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fdbmajor\f31523\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbmajor\f31524\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\fdbmajor\f31525\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fdbmajor\f31526\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhimajor\f31530\fbidi \fswiss\fcharset0\fprq2 Calibri Light;}
+{\fhimajor\f31529\fbidi \fswiss\fcharset204\fprq2 Calibri Light Cyr;}{\fhimajor\f31531\fbidi \fswiss\fcharset161\fprq2 Calibri Light Greek;}{\fhimajor\f31532\fbidi \fswiss\fcharset162\fprq2 Calibri Light Tur;}
+{\fhimajor\f31533\fbidi \fswiss\fcharset177\fprq2 Calibri Light (Hebrew);}{\fhimajor\f31534\fbidi \fswiss\fcharset178\fprq2 Calibri Light (Arabic);}{\fhimajor\f31535\fbidi \fswiss\fcharset186\fprq2 Calibri Light Baltic;}
+{\fhimajor\f31536\fbidi \fswiss\fcharset163\fprq2 Calibri Light (Vietnamese);}{\fbimajor\f31540\fbidi \froman\fcharset0\fprq2 Times New Roman;}{\fbimajor\f31539\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fbimajor\f31541\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbimajor\f31542\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbimajor\f31543\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fbimajor\f31544\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbimajor\f31545\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbimajor\f31546\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\flominor\f31550\fbidi \froman\fcharset0\fprq2 Times New Roman;}{\flominor\f31549\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flominor\f31551\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\flominor\f31552\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flominor\f31553\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flominor\f31554\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\flominor\f31555\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flominor\f31556\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbminor\f31560\fbidi \froman\fcharset0\fprq2 Times New Roman;}
+{\fdbminor\f31559\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbminor\f31561\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbminor\f31562\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fdbminor\f31563\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbminor\f31564\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbminor\f31565\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fdbminor\f31566\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhiminor\f31570\fbidi \fswiss\fcharset0\fprq2 Calibri;}{\fhiminor\f31569\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}
+{\fhiminor\f31571\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\fhiminor\f31572\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}{\fhiminor\f31573\fbidi \fswiss\fcharset177\fprq2 Calibri (Hebrew);}
+{\fhiminor\f31574\fbidi \fswiss\fcharset178\fprq2 Calibri (Arabic);}{\fhiminor\f31575\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}{\fhiminor\f31576\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}
+{\fbiminor\f31580\fbidi \froman\fcharset0\fprq2 Times New Roman;}{\fbiminor\f31579\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fbiminor\f31581\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\fbiminor\f31582\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbiminor\f31583\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fbiminor\f31584\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\fbiminor\f31585\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbiminor\f31586\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;
+\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;
+\red192\green192\blue192;\red0\green0\blue0;\red0\green0\blue0;}{\*\defchp \fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap \ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }
+\noqfpromote {\stylesheet{\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \snext0 \sqformat Normal;}{
+\s1\ql \li0\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0 \rtlch\fcs1 \ab\af45\afs34\alang1025 \ltrch\fcs0 \b\fs34\lang1045\langfe1045\loch\f45\hich\af45\dbch\af31505\cgrid\langnp1045\langfenp1045 
+\sbasedon0 \snext0 \slink25 \sqformat heading 1;}{\s2\ql \li0\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \ab\af45\afs28\alang1025 \ltrch\fcs0 
+\b\fs28\lang1045\langfe1045\loch\f45\hich\af45\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext0 \slink26 \sqformat heading 2;}{\s3\ql \li0\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\outlinelevel2\rin0\lin0\itap0 \rtlch\fcs1 
+\ab\af45\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang1045\langfe1045\loch\f45\hich\af45\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext0 \slink27 \sqformat heading 3;}{
+\s4\ql \li0\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\outlinelevel3\rin0\lin0\itap0 \rtlch\fcs1 \ab\af45\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang1045\langfe1045\loch\f45\hich\af45\dbch\af31505\cgrid\langnp1045\langfenp1045 
+\sbasedon0 \snext0 \slink28 \sqformat heading 4;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs22\alang1025 \ltrch\fcs0 \fs22\lang1045\langfe1045\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1045\langfenp1045 \snext11 \ssemihidden \sunhideused 
+Normal Table;}{\s15\ql \li0\ri0\nowidctlpar\tx1584\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon68 \snext0 \spriority0 
+Chapter Heading;}{\s16\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext16 Text Body;}{
+\s17\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext17 \slink18 header;}{\*\cs18 \additive 
+\rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \slink17 \slocked \ssemihidden Nag\'b3\'f3wek Znak;}{\s19\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext19 \sqformat caption;}{\s20\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon40 \snext20 Lower Case List;}{\s21\ql \li1440\ri1440\sa120\nowidctlpar\wrapdefault\faauto\rin1440\lin1440\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext21 Block Text;}{\s22\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af44\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext22 \slink23 annotation text;}{\*\cs23 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20 \sbasedon10 \slink22 \slocked \ssemihidden 
+Tekst komentarza Znak;}{\s24\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \snext24 Triangle List;}
+{\*\cs25 \additive \rtlch\fcs1 \ab\af31503\afs32 \ltrch\fcs0 \b\fs32\kerning32\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink1 \slocked \spriority9 Nag\'b3\'f3wek 1 Znak;}{\*\cs26 \additive \rtlch\fcs1 \ab\ai\af31503\afs28 \ltrch\fcs0 
+\b\i\fs28\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink2 \slocked \ssemihidden \spriority9 Nag\'b3\'f3wek 2 Znak;}{\*\cs27 \additive \rtlch\fcs1 \ab\af31503\afs26 \ltrch\fcs0 \b\fs26\loch\f31502\hich\af31502\dbch\af31501 
+\sbasedon10 \slink3 \slocked \ssemihidden \spriority9 Nag\'b3\'f3wek 3 Znak;}{\*\cs28 \additive \rtlch\fcs1 \ab\af0\afs28 \ltrch\fcs0 \b\fs28 \sbasedon10 \slink4 \slocked \ssemihidden \spriority9 Nag\'b3\'f3wek 4 Znak;}{
+\s29\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \snext29 Heart List;}{
+\s30\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \snext30 Arrowhead List;}{
+\s31\qc \li0\ri0\sb240\sa120\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \ab\af45\afs32\alang1025 \ltrch\fcs0 \b\fs32\lang1045\langfe1045\loch\f45\hich\af45\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext0 Contents Header;}{
+\s32\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \snext32 Square List;}{
+\s33\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon37 \snext33 Nag\'b3\'f3wek tabeli;}{
+\s34\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon16 \snext34 List;}{
+\s35\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af2\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f2\hich\af2\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext35 \slink36 Plain Text;}{\*\cs36 \additive 
+\rtlch\fcs1 \af2\afs20 \ltrch\fcs0 \f2\fs20 \sbasedon10 \slink35 \slocked \ssemihidden Zwyk\'b3y tekst Znak;}{\s37\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext37 \slink38 footnote text;}{\*\cs38 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20 \sbasedon10 \slink37 \slocked \ssemihidden 
+Tekst przypisu dolnego Znak;}{\s39\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \snext39 
+Bullet List;}{\s40\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \snext40 Numbered List;}{
+\s41\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \snext41 Diamond List;}{
+\s42\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \snext42 Hand List;}{\s43\ql \li0\ri0\nowidctlpar
+\tqc\tx4818\tqc\tx9638\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext43 G\'b3\'f3wka i stopka;}{
+\s44\ql \li0\ri0\sa140\sl264\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext44 \slink45 
+Body Text;}{\*\cs45 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \slink44 \slocked \ssemihidden Tekst podstawowy Znak;}{\s46\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon40 \snext46 Upper Case List;}{\s47\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \snext47 Box List;}{\s48\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon40 \snext48 Upper Roman List;}{\s49\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \snext49 Tick List;}{\s50\ql \li0\ri0\sb240\sa120\keepn\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af45\afs28\alang1025 \ltrch\fcs0 
+\fs28\lang1045\langfe1045\loch\f45\hich\af45\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext44 Nag\'b3\'f3wek1;}{\s51\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext51 Indeks;}{\s52\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \snext52 Star List;}{\s53\ql \li0\ri0\nowidctlpar\tx1584\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon68 \snext0 Section Heading;}{\s54\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext54 \slink55 footer;}{\*\cs55 \additive \rtlch\fcs1 \af44\afs24 \ltrch\fcs0 \f44\fs24 \sbasedon10 \slink54 \slocked \ssemihidden Stopka Znak;}{\*
+\ts56\tsrowd\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs22\alang1025 \ltrch\fcs0 \fs22\lang1045\langfe1045\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1045\langfenp1045 
+\sbasedon11 \snext56 \spriority39 Table Grid;}{\s57\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 
+\snext57 Implies List;}{\s58\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \ab\af44\afs20\alang1025 \ltrch\fcs0 \b\fs20\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 
+\sbasedon22 \snext22 \slink59 annotation subject;}{\*\cs59 \additive \rtlch\fcs1 \ab\af44\afs20 \ltrch\fcs0 \b\f44\fs20 \sbasedon23 \slink58 \slocked \ssemihidden Temat komentarza Znak;}{\s60\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 
+\rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon16 \snext37 Zawarto\'9c\'e6 tabeli;}{\s61\ql \fi-288\li288\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin288\itap0 
+\rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext61 Endnote;}{\s62\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 
+\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \snext62 Dashed List;}{\s63\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 
+\ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext63 Lower Roman List;}{\*\cs64 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\super \sbasedon10 footnote reference;}{
+\s65\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext65 \slink66 endnote text;}{\*\cs66 
+\additive \rtlch\fcs1 \af44\afs20 \ltrch\fcs0 \f44\fs20 \sbasedon10 \slink65 \slocked \ssemihidden Tekst przypisu ko\'f1cowego Znak;}{\*\cs67 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\super \sbasedon10 endnote reference;}{
+\s68\ql \li0\ri0\nowidctlpar\tx431\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon1 \snext0 Numbered Heading 1;}{
+\s69\ql \li0\ri0\nowidctlpar\tx431\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon2 \snext0 Numbered Heading 2;}{
+\s70\ql \li0\ri0\nowidctlpar\tx431\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon3 \snext0 Numbered Heading 3;}{
+\s71\ql \fi-288\li288\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin288\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext71 Footnote;}{
+\s72\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext0 Contents 1;}{
+\s73\ql \fi-431\li1440\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1440\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext0 Contents 2;}{
+\s74\ql \fi-431\li2160\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin2160\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext0 Contents 3;}{
+\s75\ql \fi-431\li2880\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin2880\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext0 Contents 4;}{\*\cs76 
+\additive \rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \fs16 \sbasedon10 \ssemihidden \sunhideused \styrsid751664 annotation reference;}}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid149881\rsid734740\rsid751664\rsid1195506\rsid8150257\rsid8747713
+\rsid11151313\rsid11430489\rsid15608788}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\author Pawe\'b3 Ku\'9fma}{\operator Pawe\'b3 Ku\'9fma}
+{\creatim\yr2022\mo2\dy20\hr17\min22}{\revtim\yr2022\mo2\dy20\hr18\min31}{\version4}{\edmins69}{\nofpages5}{\nofwords1401}{\nofchars8407}{\nofcharsws9789}{\vern41}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}
+\paperw11905\paperh16837\margl1440\margr1440\margt1417\margb1417\gutter0\ltrsect 
+\widowctrl\ftnbj\aenddoc\hyphhotz425\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\horzdoc\dghspace120\dgvspace120
+\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale170\rsidroot734740 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\*\pnseclvl1
+\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5
+\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang 
+{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \fi566\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 WSTEP
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Generalnie temat jest bardzo obszerny, i ka\'bf\loch\f0 \hich\f0 dy typ API zas\'b3\loch\f0 \hich\f0 uguje na oddzielne AP. W tej prezentacji skupi\'b3\loch\f0 \hich\f0 em si\'ea\loch\f0 \hich\f0 
+ na konkretach skondensowanych w pigu\'b3\loch\f0 \hich\f0 ce, logicznym kontek\'9c\loch\f0 \hich\f0 cie u\'bf\loch\f0 \hich\f0 ycia danego API oraz chcia\'b3\loch\f0 \hich\f0 em troch\'ea\loch\f0 \hich\f0  zg\'b3\'ea\loch\f0 \hich\f0 bi\'e6\loch\f0 
+\hich\f0  wiedz\'ea\hich\af0\dbch\af31505\loch\f0 \hich\f0  na temat API RESTowych z racji tego, \'bf\loch\f0 \hich\f0 e s\'b9\loch\f0 \hich\f0  najbardziej powszechne i wi\'ea\loch\f0 \hich\f0 kszo\'9c\'e6\loch\f0 \hich\f0  z nas z automatu gdy s\'b3
+\loch\f0 \hich\f0 yszy pytanie \'84\loch\f0 \hich\f0 Co to jest API\'94\loch\f0 \hich\f0  ma skojarzenie \'84\loch\f0 \hich\f0 Restowe\'94}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\highlight7\insrsid11430489\charrsid15608788 
+\par }\pard \ltrpar\ql \li566\ri0\widctlpar\wrapdefault\faauto\rin0\lin566\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \line \hich\af0\dbch\af31505\loch\f0 2
+\par }\pard \ltrpar\ql \fi566\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Od strony technicznej API to kod, kt\'f3\loch\f0 \hich\f0 
+ry kontroluje wszystkie punkty dost\'ea\loch\f0 powe aplikacji lub ser\hich\af0\dbch\af31505\loch\f0 \hich\f0 wera. Do serwer\'f3\loch\f0 \hich\f0 w tych mo\'bf\loch\f0 \hich\f0 na wys\'b3\loch\f0 \hich\f0 a\'e6\loch\f0 \hich\f0  zewn\'ea\loch\f0 
+\hich\f0 trzne \'bf\'b9\loch\f0 \hich\f0 danie, kt\'f3\loch\f0 \hich\f0 re to API obs\'b3\loch\f0 \hich\f0 uguje jako t\'b3\loch\f0 \hich\f0 umacz. To w\'b3\loch\f0 \hich\f0 a\'9c\loch\f0 \hich\f0 nie Interfejs Programowania Aplikacji prze\'9c\loch\f0 
+\hich\f0 le zapytania do aplikacji oraz pozwoli odes\'b3\loch\f0 \hich\f0 a\'e6\loch\f0 \hich\f0  jej informacj\'ea\loch\f0 \hich\f0  zwrotn\'b9.
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 3
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 M\'f3\loch\f0 \hich\f0 wi\'b9\loch\f0 \hich\f0 c API wi\'ea\loch\f0 \hich\f0 kszo\'9c\'e6\loch\f0  z nas ma natychmia\hich\af0\dbch\af31505\loch\f0 
+stowe skojarzenie z API webowym. Skojarzenie to mocno ogranicza ten termin.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 
+
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 4
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Jako, \'bf\loch\f0 \hich\f0 e na internetach jest ten przyk\'b3\loch\f0 \hich\f0 ad wiele razy powielany, sam postanowi\'b3\loch\f0 \hich\f0 em go powieli\'e6\loch\f0 
+, kto jest API. Klient przychodzi do restauracji, menu, kelner, czy kuchnia?
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 7
+\par \hich\af0\dbch\af31505\loch\f0 Nazw\hich\af0\dbch\af31505\loch\f0 \hich\f0 a same przez siebie definiuj\'ea\loch\f0 \hich\f0  czym dok\'b3\loch\f0 \hich\f0 adnie jest ten styl architektoniczny. Wywo\'b3\loch\f0 \hich\f0 ujemy zdalne funkcj\'ea\loch\f0 
+\hich\f0  / procedur\'ea\loch\f0 \hich\f0 , zamiast lokalnie to za pomoc\'b9\loch\f0 \hich\f0  protoko\'b3\loch\f0 \hich\f0 u HTTP. B\'ea\loch\f0 \hich\f0 d\'ea\loch\f0 \hich\f0  tutaj czepliwy gdy\'bf\loch\f0 \hich\f0 
+ teoretycznie funkcja jest bytem (podprogramem) kt\'f3\loch\f0 \hich\f0 ry ma wej\'9c\loch\f0 cie i wy\hich\af0\dbch\af31505\loch\f0 j\loch\af0\dbch\af31505\hich\f0 \'9c\loch\f0 \hich\f0 cie, za\'9c\loch\f0 \hich\f0 
+ procedura nie zwraca nic, zmienia stan globalny. W tym podej\'9c\loch\f0 \hich\f0 ciu API jednak mo\'bf\loch\f0 \hich\f0 emy oczekiwa\'e6\loch\f0  na odpowiedzi od API.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \line }{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 
+\par \hich\af0\dbch\af31505\loch\f0 9
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Zosta\'b3\loch\f0 \hich\f0  zaprojektowany tak, aby aplikacje zbudowane w r\'f3\'bf\loch\f0 \hich\f0 nych j\'ea\loch\f0 \hich\f0 zykach i na r\'f3\'bf\loch\f0 \hich\f0 nych platformach mog\'b3\loch\f0 \hich\f0 y si
+\'ea\loch\f0 \hich\f0  komunikowa\'e6.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 
+\par \hich\af0\dbch\af31505\loch\f0 Narzuca w\hich\af0\dbch\af31505\loch\f0 \hich\f0 budowane regu\'b3\loch\f0 \hich\f0 y, kt\'f3\loch\f0 \hich\f0 re zwi\'ea\loch\f0 \hich\f0 kszaj\'b9\loch\f0 \hich\f0  jego z\'b3\loch\f0 \hich\f0 o\'bf\loch\f0 \hich\f0 ono
+\'9c\'e6\loch\f0 \hich\f0  i obci\'b9\'bf\loch\f0 \hich\f0 enie, co mo\'bf\loch\f0 \hich\f0 e prowadzi\'e6\loch\f0 \hich\f0  do d\'b3\loch\f0 \hich\f0 u\'bf\loch\f0 \hich\f0 szych czas\'f3\loch\f0 \hich\f0 w \'b3\loch\f0 \hich\f0 
+adowania strony. Jednak te standardy oferuj\'b9\loch\f0 \hich\f0  r\'f3\loch\f0 \hich\f0 wnie\'bf\loch\f0 \hich\f0  wbudowane zgodno\'9c\loch\f0 \hich\f0 ci, kt\'f3\loch\f0 \hich\f0 re mog\'b9\loch\f0 \hich\f0  sprawi\'e6\loch\f0 \hich\f0 , \'bf\loch\f0 
+\hich\f0 e b\'ea\loch\f0 \hich\f0 d\'b9\loch\f0  one preferowane w scenariuszach korporacyjnych
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 12
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 L\hich\af0\dbch\af31505\loch\f0 INIA CZASU\line \hich\f0 
+te na szaro nie sa brane pod uwag\'ea\loch\f0  podczas tego AP\line \hich\f0 te kr\'f3\loch\f0 tkie czarne to wariancje RPC}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \line \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\highlight7\insrsid11430489\charrsid15608788 
+\par }\pard \ltrpar\ql \fi566\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 
+\par \ltrrow}\trowd \irow0\irowband0\ltrrow\ts11\trgaph10\trleft0\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind10\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr
+\brdrs\brdrw15\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth1848\clcbpatraw8 \cellx1848\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx3675\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx5502\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx7329\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1828\clcbpatraw8 \cellx9157\pard\plain \ltrpar\s60\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 timeline\cell \hich\af0\dbch\af31505\loch\f0 1\cell 
+\hich\af0\dbch\af31505\loch\f0 2 \cell \hich\af0\dbch\af31505\loch\f0 4\cell \hich\af0\dbch\af31505\loch\f0 3\cell }\pard\plain \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch\fcs1 
+\af44\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\af44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \trowd \irow0\irowband0\ltrrow
+\ts11\trgaph10\trleft0\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind10\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1848\clcbpatraw8 \cellx1848\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx3675\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx5502\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx7329\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1828\clcbpatraw8 \cellx9157\row \ltrrow}\pard\plain \ltrpar\s60\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 jezyk\cell \hich\af0\dbch\af31505\loch\f0 xml / json\cell 
+\hich\af0\dbch\af31505\loch\f0 xml\cell \hich\af0\dbch\af31505\loch\f0 graphgl aka json\cell \hich\af0\dbch\af31505\loch\f0 json / xml - inne plain text csv rss\cell }\pard\plain \ltrpar\ql \li0\ri0\sa160\sl259\slmult1
+\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\af44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid11430489\charrsid15608788 \trowd \irow1\irowband1\ltrrow\ts11\trgaph10\trleft0\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind10\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb
+\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth1848\clcbpatraw8 \cellx1848\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx3675\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx5502\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx7329\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1828\clcbpatraw8 \cellx9157\row \ltrrow}\pard\plain \ltrpar\s60\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \cell \hich\af0\dbch\af31505\loch\f0 rpc\cell \hich\af0\dbch\af31505\loch\f0 soap\cell 
+\hich\af0\dbch\af31505\loch\f0 graphgl\cell \hich\af0\dbch\af31505\loch\f0 rest\cell }\pard\plain \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch\fcs1 \af44\afs24\alang1025 
+\ltrch\fcs0 \fs24\lang1045\langfe1045\loch\af44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \trowd \irow2\irowband2\ltrrow
+\ts11\trgaph10\trleft0\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind10\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1848\clcbpatraw8 \cellx1848\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx3675\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx5502\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx7329\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1828\clcbpatraw8 \cellx9157\row \ltrrow}\pard\plain \ltrpar\s60\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 \hich\f0 protoko\'b3\loch\f0 y\cell \hich\af0\dbch\af31505\loch\f0 
+http\cell \hich\af0\dbch\af31505\loch\f0 \hich\f0 jest sam w sobie protoko\'b3\loch\f0 \hich\f0 em kt\'f3\loch\f0 \hich\f0 ry nak\'b3\loch\f0 \hich\f0 ada si\'ea\loch\f0  na inne np: http, tcp, smtp\cell \hich\af0\dbch\af31505\loch\f0 \hich\f0 
+sam w sobie jest protoko\'b3\loch\f0 \hich\f0 em, kt\'f3\loch\f0 \hich\f0 ry nak\'b3\loch\f0 \hich\f0 ada si\'ea\loch\f0  na http\cell \hich\af0\dbch\af31505\loch\f0 http\cell }\pard\plain \ltrpar\ql \li0\ri0\sa160\sl259\slmult1
+\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\af44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid11430489\charrsid15608788 \trowd \irow3\irowband3\ltrrow\ts11\trgaph10\trleft0\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind10\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb
+\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth1848\clcbpatraw8 \cellx1848\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx3675\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx5502\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx7329\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1828\clcbpatraw8 \cellx9157\row \ltrrow}\pard\plain \ltrpar\s60\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 \hich\f0 po co s\'b9\loch\f0 ? (kontekst logiczny)\cell 
+\hich\af0\dbch\af31505\loch\f0 akcje / funkcje / procedury / komendy\cell \hich\af0\dbch\af31505\loch\f0 \hich\f0 brak - wysy\'b3\loch\f0 \hich\f0 asz kopert\'ea\hich\af0\dbch\af31505\loch\f0 \hich\f0  w ustandaryzowany na ka\'bf\loch\f0 \hich\f0 dy spos
+\'f3\loch\f0 \hich\f0 b i  z ka\'bf\loch\f0 \hich\f0 dej strony i otrzymujesz r\'f3\loch\f0 \hich\f0 wnie sztywn\'b9\~\loch\f0 \hich\f0 odpowied\'9f\loch\f0 \hich\f0  (mo\'bf\loch\f0 \hich\f0 na wskaza\'e6\loch\f0  jako tag xml)\cell 
+\hich\af0\dbch\af31505\loch\f0 \hich\f0 mapuje relacje mi\'ea\loch\f0 dzy obiektami w bazie danych, tworzy grafy\cell \hich\af0\dbch\af31505\loch\f0 modelowanie domeny, encje (CRUD) create read update delete dla wszsytkich\hich\af0\dbch\af31505\loch\f0 
+\hich\f0  Twoich danych, to nie tylk crud, ale wszystko si\'ea\loch\f0 \hich\f0  kr\'ea\loch\f0 \hich\f0 ci dooko\'b3\'b9\loch\f0  niego\cell }\pard\plain \ltrpar\ql \li0\ri0\sa160\sl259\slmult1
+\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\af44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid11430489\charrsid15608788 \trowd \irow4\irowband4\ltrrow\ts11\trgaph10\trleft0\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind10\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb
+\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth1848\clcbpatraw8 \cellx1848\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx3675\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx5502\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx7329\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1828\clcbpatraw8 \cellx9157\row \ltrrow}\pard\plain \ltrpar\s60\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 typ zapytania\cell \hich\af0\dbch\af31505\loch\f0 
+GET, pobierz POST wszystko inne\cell \hich\af0\dbch\af31505\loch\f0 POST \cell \hich\af0\dbch\af31505\loch\f0 GET (tylko query), POST (query oraz mutation)\cell \hich\af0\dbch\af31505\loch\f0 w sumie to wszystkie GET POST PUT PATCH OPTION DELETE\cell 
+}\pard\plain \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \trowd \irow5\irowband5\ltrrow
+\ts11\trgaph10\trleft0\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind10\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1848\clcbpatraw8 \cellx1848\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx3675\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx5502\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx7329\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1828\clcbpatraw8 \cellx9157\row \ltrrow}\pard\plain \ltrpar\s60\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 \hich\f0 wz\'f3\loch\f0 r requesty\cell 
+\hich\af0\dbch\af31505\loch\f0 POST /deleteFoo, \hich\af0\dbch\af31505\loch\f0 body: \{id:1\}\cell \hich\af0\dbch\af31505\loch\f0 <?xml version="1.0" encoding="UTF-8"?>
+\par \hich\af0\dbch\af31505\loch\f0 <soapenv:Envelope
+\par \hich\af0\dbch\af31505\loch\f0   duzo lini
+\par \hich\af0\dbch\af31505\loch\f0  <soapenv:Header>
+\par \hich\af0\dbch\af31505\loch\f0  duzo lini
+\par \hich\af0\dbch\af31505\loch\f0  </soapenv:Header>
+\par \hich\af0\dbch\af31505\loch\f0  <soapenv:Body>
+\par \hich\af0\dbch\af31505\loch\f0  duzo lini
+\par \hich\af0\dbch\af31505\loch\f0    <getThis >
+\par \tab \hich\af0\dbch\af31505\loch\f0 ciekawostka nazwa metody!
+\par \tab \hich\af0\dbch\af31505\loch\f0 \hich\f0 jeszcze wi\'ea\loch\f0 cej lini
+\par \hich\af0\dbch\af31505\loch\f0    </getThis>
+\par \hich\af0\dbch\af31505\loch\f0  </soapenv:Body>
+\par \hich\af0\dbch\af31505\loch\f0 </soapenv:Envelope>\cell \hich\af0\dbch\af31505\loch\f0 api/graphql\line body: \{
+\par \{\hich\af0\dbch\af31505\loch\f0 \hich\f0  \'84\loch\f0 \hich\f0 cos\'93\loch\f0 : \line  \{\hich\f0  \'84\loch\f0 \hich\f0 mniejsze co\'9c\loch\f0 ":
+\par \hich\af0\dbch\af31505\loch\f0  \{\hich\f0  \'84\loch\f0 \hich\f0 cosik\'93,\line \loch\f0 \hich\f0     \'84\loch\f0 \hich\f0 co\'9c\'93,\line \loch\f0 \hich\f0     \'84\loch\f0 \hich\f0 kto\'9c\'93
+\par \hich\af0\dbch\af31505\loch\f0  \} 
+\par \}
+\par \}\cell \hich\af0\dbch\af31505\loch\f0 DELETE /foos/1\cell }\pard\plain \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch\fcs1 \af44\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \trowd \irow6\irowband6\lastrow \ltrrow
+\ts11\trgaph10\trleft0\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind10\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1848\clcbpatraw8 \cellx1848\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx3675\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx5502\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx7329\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1828\clcbpatraw8 \cellx9157\row }\pard \ltrpar\ql \fi566\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \line \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 
+\hich\af0\dbch\af31505\loch\f0 16}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Z k\'b9\loch\f0 \hich\f0 d takie por\'f3\loch\f0 \hich\f0 wnanie? Przegrzebuj\'b9\loch\f0 \hich\f0 c inernet napotka\'b3\loch\f0 
+\hich\f0 em si\'ea\loch\f0 \hich\f0  cz\'ea\loch\f0 sto na takie pytanie}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \line \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 
+\hich\af0\dbch\af31505\loch\f0 17}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Roy Fielding w 2000 napisa
+\'b3\loch\f0 \hich\f0  prac\'ea\~\loch\f0 \hich\f0 doktoranck\'b9\loch\f0 \hich\f0  gdzie zaprezentowa\'b3\loch\f0 \hich\f0  wzorze\'e6\loch\f0  REST (link do pracy a sam RESTA jest opisany w 5 rozdziale)}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid11430489\charrsid15608788 \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 
+\par \hich\af0\dbch\af31505\loch\f0 24\line \hich\f0 Tak wi\'ea\loch\f0 c, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid734740\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 o\hich\af0\dbch\af31505\loch\f0 \hich\f0 m\'f3\loch\f0 \hich\f0 wili\'9c
+\loch\f0 my sobie}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0  techniczn}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid734740\charrsid15608788 \loch\af0\dbch\af31505\hich\f0 \'b9}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0  definicja REST}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid734740\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 a}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 \hich\f0 . Jak to wygl\'b9\loch\f0 \hich\f0 da w prawdziwym \'9c\loch\f0 wiecie\hich\af0\dbch\af31505\loch\f0 ?
+\par }\pard \ltrpar\ql \fi566\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid734740\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 T\hich\af0\dbch\af31505\loch\f0 en\hich\af0\dbch\af31505\loch\f0  model}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 \hich\f0  dos\'b3\loch\f0 \hich\f0 ownie i w przeno\'9c\loch\f0 \hich\f0 ni koreluje si\'ea\loch\f0 \hich\f0  z nasz\'b9\loch\f0 \hich\f0  frontow
+\'b9\loch\f0 \hich\f0  grafik\'b9\loch\f0 \hich\f0 , kt\'f3\loch\f0 \hich\f0 ra zosta\'b3\loch\f0 \hich\f0 a zainspirowana wydarzeniami na faktach autentycznych (ala p\'b3\loch\f0 acze\hich\af0\dbch\af31505\loch\f0 \hich\f0 
+k z halmarku), gdzie pierwszym skojarzeniem prawdopodobnie nas wszystkich na pytanie co to jest API by\'b3\loch\f0 \hich\f0 o \'84\loch\f0 \hich\f0 takie RESTowe\'94}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 
+\par 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11151313\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 W}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 \hich\f0 iele serwis\'f3\loch\f0 
+\hich\f0 w \'b3\loch\f0 \hich\f0 amie zasady w taki czy inny spos\'f3\loch\f0 b, ale nadal potocznie \hich\af0\dbch\af31505\loch\f0 \hich\f0 okre\'9c\loch\f0 \hich\f0 la si\'ea\loch\f0  je mianem RESTowymi. Dlatego Leon\hich\af0\dbch\af31505\loch\f0 
+\hich\f0 ard Richardson stworzy\'b3\loch\f0 \hich\f0  model, kt\'f3\loch\f0 \hich\f0 ry dzieli REST na poziomy zgodno\'9c\loch\f0 ci.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 
+\par 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid751664\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 25
+\par \hich\af0\dbch\af31505\loch\f0 Zazwyczaj\hich\af0\dbch\af31505\loch\f0  model \hich\af0\dbch\af31505\loch\f0 ten \hich\af0\dbch\af31505\loch\f0 jes\hich\af0\dbch\af31505\loch\f0 t prze\hich\af0\dbch\af31505\loch\f0 dstawiany 
+\hich\af0\dbch\af31505\loch\f0 \hich\f0 jako piramida gdzie 0 jest na samym dole za\'9c\hich\af0\dbch\af31505\loch\f0 \hich\f0  3 na g\'f3\loch\f0 rze.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid1195506\charrsid15608788 
+\par 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 0 \hich\f0 \endash }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid1195506\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 SWAMP
+\hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid149881\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Bagno POX (Plain Old XML) oznacza, \'bf\loch\f0 \hich\f0 e u\'bf\loch\f0 \hich\f0 
+ywasz HTTP. Technicznie rzecz bior\'b9\loch\f0 \hich\f0 c, us\'b3\loch\f0 \hich\f0 ugi REST mog\'b9\loch\f0 \hich\f0  by\'e6\loch\f0 \hich\f0  \'9c\loch\f0 \hich\f0 wiadczone za po\'9c\loch\f0 \hich\f0 rednictwem dowolnego protoko\'b3\loch\f0 
+u warstwy aplikacji, o\hich\af0\dbch\af31505\loch\f0 \hich\f0  ile s\'b9\loch\f0 \hich\f0  zgodne z okre\'9c\loch\f0 \hich\f0 lonymi w\'b3\loch\f0 \hich\f0 a\'9c\loch\f0 \hich\f0 ciwo\'9c\loch\f0 \hich\f0 ciami. W praktyce w zasadzie ka\'bf\loch\f0 
+\hich\f0 dy korzysta z HTTP. Us\'b3\loch\f0 \hich\f0 ugi te maj\'b9\loch\f0 \hich\f0  pojedynczy identyfikator URI i u\'bf\loch\f0 \hich\f0 ywaj\'b9\loch\f0 \hich\f0  jednej metody HTTP (zazwyczaj POST). S\'b9\loch\f0 \hich\f0 
+ to najbardziej prymitywne sposoby budowania aplikacji SOA za pomoc\'b9\loch\f0  jed\hich\af0\dbch\af31505\loch\f0 n\hich\af0\dbch\af31505\loch\f0 \hich\f0 ej metody POST i u\'bf\loch\f0 \hich\f0 ywania XML do komunikacji mi\'ea\loch\f0 \hich\f0 dzy us
+\'b3\loch\f0 \hich\f0 ugami. Poziom dojrza\'b3\loch\f0 \hich\f0 o\'9c\loch\f0 \hich\f0 ci zero nie korzysta z \'bf\loch\f0 adnych funkcji URI, http i HATEOAS. }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid149881\charrsid15608788 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1195506\charrsid15608788 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 1 \hich\f0 \endash \loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid149881\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 Zasoby
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 to podstawowe fragm\hich\af0\dbch\af31505\loch\f0 \hich\f0 enty danych, na kt\'f3\loch\f0 \hich\f0 rych dzia\'b3\loch\f0 \hich\f0 a aplikacja. B\'ea\loch\f0 \hich\f0 d\'b9\loch\f0 \hich\f0 
+ one cz\'ea\loch\f0 \hich\f0 sto odpowiada\'e6\loch\f0  modelom w aplikacji\hich\af0\dbch\af31505\loch\f0 \hich\f0 . Projektowanie interfejs\'f3\loch\f0 \hich\f0 w API na poziomie 1 polega na u\'bf\loch\f0 \hich\f0 ywaniu r\'f3\'bf\loch\f0 \hich\f0 
+nych adres\'f3\loch\f0 w URL do interakcji \hich\af0\dbch\af31505\loch\f0 \hich\f0 z r\'f3\'bf\loch\f0 nymi zasobami w aplikacji.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid149881\charrsid15608788 \hich\af0\dbch\af31505\loch\f0  
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid1195506\charrsid15608788 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 2 \hich\f0 \endash \loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid1195506\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 
+\hich\f0 Dzi\'ea\loch\f0 ki czasownikom HT\hich\af0\dbch\af31505\loch\f0 TP}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid1195506\charrsid15608788 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\highlight7\insrsid1195506\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 \hich\f0 mamy dost\'ea\loch\f0 p do tego samego \hich\af0\dbch\af31505\loch\f0 zasobu\hich\af0\dbch\af31505\loch\f0  / adresu, ale winnym \hich\af0\dbch\af31505\loch\f0 
+\hich\f0 kontek\'9c\loch\f0 cie}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid1195506\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 \hich\f0 . Je\'9c\loch\f0 \hich\f0 li chcemy uzyska\'e6\loch\f0 \hich\f0  list\'ea\loch\f0 \hich\f0  stron, wysy
+\'b3\loch\f0 \hich\f0 amy \'bf\'b9\loch\f0 danie GET do /page}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid8747713\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 s}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid1195506\charrsid15608788 
+\hich\af0\dbch\af31505\loch\f0 \hich\f0 , ale je\'9c\loch\f0 \hich\f0 li chcemy utworzy\'e6\loch\f0 \hich\f0  now\'b9\loch\f0 \hich\f0  stron\'ea\loch\f0 \hich\f0 , u\'bf\loch\f0 ywamy POST}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\highlight7\insrsid8747713\charrsid15608788 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid8747713\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 do /page\hich\af0\dbch\af31505\loch\f0 s}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\highlight7\insrsid1195506\charrsid15608788 
+\par 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 3 \hich\f0 \endash \loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid8150257\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 \hich\f0 
+Ten poziom jest tym, na kt\'f3\loch\f0 \hich\f0 ry wszyscy spadaj\'b9\loch\f0 \hich\f0 . Sk\'b3\loch\f0 \hich\f0 adaj\'b9\loch\f0 \hich\f0  si\'ea\loch\f0 \hich\f0  na to dwie cz\'ea\'9c\loch\f0 \hich\f0 ci: negocjacje tre\'9c\loch\f0 \hich\f0 
+ci i HATEOAS. Negocjacje tre\'9c\loch\f0 \hich\f0 ci koncentruj\'b9\loch\f0 \hich\f0  si\'ea\loch\f0 \hich\f0  na r\'f3\'bf\loch\f0 \hich\f0 nych reprezentacjach konkretnego zasobu, a HATEOAS dotyczy wykrywalno\'9c\loch\f0 \hich\f0 ci dzia\'b3\loch\f0 
+\hich\f0 a\'f1\loch\f0  na zasobie. Negocjac\hich\af0\dbch\af31505\loch\f0 \hich\f0 ja tre\'9c\loch\f0 \hich\f0 ci Og\'f3\loch\f0 \hich\f0 lnie rzecz bior\'b9\loch\f0 \hich\f0 c, zasoby mog\'b9\loch\f0 \hich\f0  mie\'e6\loch\f0 \hich\f0 
+ wiele prezentacji, g\'b3\'f3\loch\f0 \hich\f0 wnie dlatego, \'bf\loch\f0 \hich\f0 e mo\'bf\loch\f0 \hich\f0 e istnie\'e6\loch\f0 \hich\f0  wielu r\'f3\'bf\loch\f0 \hich\f0 nych klient\'f3\loch\f0 \hich\f0 w oczekuj\'b9\loch\f0 \hich\f0 cych r\'f3\'bf
+\loch\f0 \hich\f0 nych reprezentacji. Pro\'9c\loch\f0 \hich\f0 ba o odpowiedni\'b9\loch\f0 \hich\f0  prezentacj\'ea\loch\f0 \hich\f0  przez klienta nazywana jest negocjacj\'b9\loch\f0 \hich\f0  tre\'9c\loch\f0 ci. HTTP ma przepis
+\hich\af0\dbch\af31505\loch\f0 y\hich\af0\dbch\af31505\loch\f0 \hich\f0  dotycz\'b9\loch\f0 \hich\f0 ce kilku mechanizm\'f3\loch\f0 \hich\f0 w "negocjacji tre\'9c\loch\f0 \hich\f0 
+ci" - procesu wyboru najlepszej reprezentacji dla danej odpowiedzi, gdy dost\'ea\loch\f0 pnych jest wiele reprezentacji.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid15608788\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 https://blog.restcase.com/4-maturity-levels-of-rest-api-design/}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid15608788 
+\par 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid15608788\charrsid15608788 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Wiele us\'b3\loch\f0 \hich\f0 ug, kt\'f3\loch\f0 \hich\f0 re potocznie okre\'9c\loch\f0 la\hich\af0\dbch\af31505\loch\f0 \hich\f0 
+my jako REST, technicznie nimi nie s\'b9\loch\f0 \hich\f0 , dopiero te spe\'b3\loch\f0 \hich\f0 niaj\'b9\loch\f0 \hich\f0 ce te wszystkie 4 poziomy s\'b9\loch\f0 \hich\f0  w pe\'b3\loch\f0 \hich\f0 ni zgodne z architekur\'b9\loch\f0 \hich\f0 
+ REST a co za tym idzie mo\'bf\loch\f0 \hich\f0 emy nazwa\'e6\loch\f0  je RESTful.
+\par 
+\par }\pard \ltrpar\ql \fi150\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Por\'f3\hich\af0\dbch\af31505\loch\f0 \hich\f0 
+wnywanie API vs API generalnie nie ma sensu poniewa\'bf\loch\f0 \hich\f0  te technologie mog\'b9\loch\f0 \hich\f0  si\'ea\loch\f0 \hich\f0  na siebie nak\'b3\loch\f0 \hich\f0 ada\'e6\loch\f0 \hich\f0  / kompletowa\'e6\loch\f0  
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 Np.:
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0  stworzy\'e6\loch\f0 \hich\f0  API RESTowe kt\'f3\loch\f0 \hich\f0 re pod spodem korzysta z RPC tak samo na odwr\'f3\loch\f0 t
+\par }\pard \ltrpar\ql \fi150\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \line }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 
+\hich\af0\dbch\af31505\loch\f0  HYPERLINK ""}}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid734740\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 \hich\f0 B\'b3\'b9\loch\f0 \hich\f0 d! Nieprawid\'b3\loch\f0 \hich\f0 owy odsy\'b3\loch\f0 
+\hich\f0 acz typu hiper\'b3\'b9\loch\f0 cze.}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 nie ma sensu RCP vs REST
+\line }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0  HYPERLINK "https://web.a\hich\af0\dbch\af31505\loch\f0 
+rchive.org/web/20141104223736/http://etherealbits.com/2012/12/debunking-the-myths-of-rpc-rest/"}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid734740\charrsid15608788 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90bf0000000680074007400700073003a002f002f007700650062002e0061007200630068006900760065002e006f00720067002f007700650062002f003200300031003400310031003000340032003200330037003300
+36002f0068007400740070003a002f002f0065007400680065007200650061006c0062006900740073002e0063006f006d002f0032003000310032002f00310032002f0064006500620075006e006b0069006e0067002d007400680065002d006d0079007400680073002d006f0066002d007200700063002d007200650073
+0074002f000000795881f43b1d7f48af2c825dc485276300000000a5ab0003}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 
+https://web.archive.org/web/20141104223736/http://etherealbits.com/2012/12/debunking-the-myths-of-rpc-rest/}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid11430489\charrsid15608788 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 
+\par 
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 RESTOWE http VERBy\line 
+\par 
+\par \ltrrow}\trowd \irow0\irowband0\ltrrow\ts11\trgaph10\trleft-108\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind-98\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr
+\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth9910\clcbpatraw8 \cellx9802\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 
+\hich\af0\dbch\af31505\loch\f0 C R U D - lista /customers\hich\af0\dbch\af31505\loch\f0  , encja /customers/\{id\}\cell }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \trowd \irow0\irowband0\ltrrow\ts11\trgaph10\trleft-108\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind-98\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 
+\clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth9910\clcbpatraw8 \cellx9802\row \ltrrow}\trowd \irow1\irowband1\ltrrow
+\ts11\trgaph10\trleft-108\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind-98\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth2312\clcbpatraw8 \cellx2204\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth2291\clcbpatraw8 
+\cellx4495\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth5307\clcbpatraw8 \cellx9802\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 POST\cell \hich\af0\dbch\af31505\loch\f0 CREATE\cell \hich\af0\dbch\af31505\loch\f0 
+201 (Created), header 'Location' z linkiem do stworzonego zasobu /customers/\{id\}
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 404 (Not Found), 409 (Conflict) gdy encja istnieje\cell }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid11430489\charrsid15608788 \trowd \irow1\irowband1\ltrrow\ts11\trgaph10\trleft-108\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind-98\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb
+\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth2312\clcbpatraw8 \cellx2204\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth2291\clcbpatraw8 \cellx4495\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth5307\clcbpatraw8 
+\cellx9802\row \ltrrow}\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 GET\cell \hich\af0\dbch\af31505\loch\f0 READ\cell 
+\hich\af0\dbch\af31505\loch\f0 200 (OK)
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 404 (Not Fou\hich\af0\dbch\af31505\loch\f0 nd), 409 (Conflict) gdy encja istnieje\cell }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \trowd \irow2\irowband2\ltrrow\ts11\trgaph10\trleft-108\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind-98\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 
+\clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth2312\clcbpatraw8 \cellx2204\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr
+\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth2291\clcbpatraw8 \cellx4495\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth5307\clcbpatraw8 \cellx9802\row \ltrrow}\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 PUT
+\cell \hich\af0\dbch\af31505\loch\f0 UPDATE / REPLACE}{\rtlch\fcs1 \af0 \ltrch\fcs0 \strike\f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 \hich\f0  / CREATE mo\'bf\loch\f0 \hich\f0 esz ale nie b\'ea\loch\f0 dziesz RESTful}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \cell \hich\af0\dbch\af31505\loch\f0 200 (OK), 204 (No Content), 404 (Not Found), 422 (UNPROCESSABLE ENTITY), \hich\af0\dbch\af31505\loch\f0 405 (Method Not Allowed)
+\hich\af0\dbch\af31505\loch\f0  , 422 (UNPROCESSABLE ENTITY)\cell }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 
+\trowd \irow3\irowband3\ltrrow\ts11\trgaph10\trleft-108\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind-98\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr
+\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth2312\clcbpatraw8 \cellx2204\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth2291\clcbpatraw8 \cellx4495\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth5307\clcbpatraw8 
+\cellx9802\row \ltrrow}\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 PATCH\cell \hich\af0\dbch\af31505\loch\f0 UPDATE MODIFY\line 
+\cell \hich\af0\dbch\af31505\loch\f0 405 (\hich\af0\dbch\af31505\loch\f0 Method Not Allowed), \hich\af0\dbch\af31505\loch\f0 200 (OK) 204 (No Content). 404 (Not Found), 422 (UNPROCESSABLE ENTITY)\cell }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1
+\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \trowd \irow4\irowband4\ltrrow
+\ts11\trgaph10\trleft-108\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind-98\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth2312\clcbpatraw8 \cellx2204\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth2291\clcbpatraw8 
+\cellx4495\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth5307\clcbpatraw8 \cellx9802\row \ltrrow}\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 DELETE\cell \hich\af0\dbch\af31505\loch\f0 DELETE\cell \hich\af0\dbch\af31505\loch\f0 
+405 (Method Not Allowed), \hich\af0\dbch\af31505\loch\f0 204 (No Content). 404 (Not Found), 422 (UNPROCESSABLE ENTITY)\cell }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \trowd \irow5\irowband5\lastrow \ltrrow\ts11\trgaph10\trleft-108\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind-98\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl
+\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth2312\clcbpatraw8 \cellx2204\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 
+\clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth2291\clcbpatraw8 \cellx4495\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth5307\clcbpatraw8 \cellx9802\row }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 
+\par 
+\par }\pard \ltrpar\ql \fi150\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 PUT VS PATH \hich\f0 \endash \loch\f0 \hich\f0  put potrzebuje ca\'b3
+\hich\af0\dbch\af31505\loch\f0 ej encji do modyfikacji \loch\af0\dbch\af31505\hich\f0 \u-3872\'3f\hich\af0\dbch\af31505\loch\f0 \hich\f0  dlatego nazywamy to zast\'b9\loch\f0 \hich\f0 pieniem, patch mo\'bf\loch\f0 \hich\f0 e modyfikowa\'e6\loch\f0 
+\hich\f0  poszczeg\'f3\loch\f0 lny properties danej encji
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 400 > 403 > 404 > 422
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 400
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Serwer nie mo\'bf\loch\f0 \hich\f0 e lub nie chce przetworzy\'e6\loch\f0 \hich\f0  \'bf\'b9\loch\f0 \hich\f0 dania z powodu czego\'9c\loch\f0 \hich\f0 , co jest postrzegane jako b\'b3\'b9\loch\f0 d klienta (np. 
+\hich\af0\dbch\af31505\loch\f0 \hich\f0 nieprawid\'b3\loch\f0 \hich\f0 owa sk\'b3\loch\f0 \hich\f0 adnia \'bf\'b9\loch\f0 \hich\f0 dania, nieprawid\'b3\loch\f0 \hich\f0 owe obramowanie wiadomo\'9c\loch\f0 \hich\f0 ci \'bf\'b9\loch\f0 \hich\f0 
+dania lub zwodnicze kierowanie \'bf\'b9\loch\f0 dania).
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 403
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Serwer zrozumia\'b3\loch\f0 \hich\f0  \'bf\'b9\loch\f0 danie, ale odmawia jego autoryzacji.
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Serwer, kt\'f3\loch\f0 \hich\f0 ry chce upubliczni\'e6\loch\f0 \hich\f0 , dlaczego \'bf\'b9\loch\f0 \hich\f0 danie zosta\'b3\hich\af0\dbch\af31505\loch\f0 \hich\f0 o odrzucone, mo\'bf\loch\f0 \hich\f0 e opisa\'e6
+\loch\f0 \hich\f0  ten pow\'f3\loch\f0 \hich\f0 d w tre\'9c\loch\f0 \hich\f0 ci odpowiedzi (je\'9c\loch\f0 li istnieje).
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Je\'9c\loch\f0 \hich\f0 li w \'bf\'b9\loch\f0 \hich\f0 daniu zosta\'b3\loch\f0 \hich\f0 y podane dane uwierzytelniaj\'b9\loch\f0 \hich\f0 ce, serwer uznaje je za niewystarczaj\'b9\loch\f0 \hich\f0 
+ce do udzielenia dost\'ea\loch\f0 \hich\f0 pu. Klient NIE POWINIEN automatycznie powtarza\'e6\loch\f0 \hich\f0  \'bf\'b9\loch\f0 dania z tymi samymi da\hich\af0\dbch\af31505\loch\f0 \hich\f0 nymi uwierzytelniaj\'b9\loch\f0 \hich\f0 cymi. Klient MO\'af
+\loch\f0 \hich\f0 E powt\'f3\loch\f0 \hich\f0 rzy\'e6\loch\f0 \hich\f0  \'bf\'b9\loch\f0 \hich\f0 danie z nowymi lub innymi danymi uwierzytelniaj\'b9\loch\f0 \hich\f0 cymi. Jednak\'bf\loch\f0 \hich\f0 e, \'bf\'b9\loch\f0 \hich\f0 danie mo\'bf\loch\f0 
+\hich\f0 e zosta\'e6\loch\f0 \hich\f0  zabronione z powod\'f3\loch\f0 \hich\f0 w niezwi\'b9\loch\f0 \hich\f0 zanych z danymi uwierzytelniaj\'b9\loch\f0 cymi.
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Serwer \'9f\loch\f0 \hich\f0 r\'f3\loch\f0 \hich\f0 d\'b3\loch\f0 \hich\f0 owy, kt\'f3\loch\f0 \hich\f0 ry chce "ukry\'e6\loch\f0 \hich\f0 " bie\'bf\'b9\loch\f0 ce istnienie zab\hich\af0\dbch\af31505\loch\f0 
+\hich\f0 ronionego zasobu docelowego MO\'af\loch\f0 \hich\f0 E zamiast tego odpowiedzie\'e6\loch\f0  kodem statusu 404 Nie znaleziono.
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 404
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Serwer \'9f\loch\f0 \hich\f0 r\'f3\loch\f0 \hich\f0 d\'b3\loch\f0 \hich\f0 owy nie znalaz\'b3\loch\f0 \hich\f0  aktualnej reprezentacji dla zasobu docelowego lub nie chce ujawni\'e6\loch\f0 \hich\f0 , \'bf\loch\f0 
+e taka istnieje.
+\par \hich\af0\dbch\af31505\loch\f0 Kod statusu 404 nie wskazuje, czy ten brak r\hich\af0\dbch\af31505\loch\f0 \hich\f0 eprezentacji jest tymczasowy czy trwa\'b3\loch\f0 \hich\f0 y; kod statusu 410 Gone jest preferowany zamiast 404, je\'9c\loch\f0 \hich\f0 
+li serwer \'9f\loch\f0 \hich\f0 r\'f3\loch\f0 \hich\f0 d\'b3\loch\f0 \hich\f0 owy wie, przypuszczalnie poprzez jakie\'9c\loch\f0 \hich\f0  konfigurowalne \'9c\loch\f0 \hich\f0 rodki, \'bf\loch\f0 \hich\f0 e stan b\'ea\loch\f0 \hich\f0 
+dzie prawdopodobnie trwa\'b3\loch\f0 y.
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Odpowied\'9f\loch\f0 \hich\f0  404 jest domy\'9c\hich\af0\dbch\af31505\loch\f0 \hich\f0 lnie buforowana; tj. o ile definicja metody lub jawne kontrole buforowania nie wskazuj\'b9\loch\f0  inaczej1.
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 422
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Serwer rozumie typ zawarto\'9c\loch\f0 \hich\f0 ci encji \'bf\'b9\loch\f0 \hich\f0 dania (st\'b9\loch\f0 \hich\f0 d kod statusu 415 Unsupported Media Type jest niew\'b3\loch\f0 \hich\f0 a\'9c\loch\f0 \hich\f0 
+ciwy), a sk\'b3\loch\f0 \hich\f0 adnia encji \'bf\'b9\loch\f0 \hich\f0 dania jest poprawna (st\'b9\loch\f0 d \hich\af0\dbch\af31505\loch\f0 \hich\f0 kod statusu 400 Bad Request jest niew\'b3\loch\f0 \hich\f0 a\'9c\loch\f0 \hich\f0 ciwy), ale nie by\'b3
+\loch\f0 \hich\f0  w stanie przetworzy\'e6\loch\f0  zawartych w niej instrukcji.
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \tab \hich\af0\dbch\af31505\loch\f0 REST: https://web.archive.org/web/20141029023515/https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
+\par }\pard \ltrpar\ql \fi566\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 
+\par \hich\af0\dbch\af31505\loch\f0 http://sebastianczech.com/2017/\hich\af0\dbch\af31505\loch\f0 02/20/cechy-dobrego-restful-api/
+\par 
+\par }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0  HYPERLINK "https://ichi.pro/pl/porownanie-stylow-architektonicznych-api-soap-vs-rest-vs-graphql-vs-rpc-145837527850746"}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid734740\charrsid15608788 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90bf0000000680074007400700073003a002f002f0069006300680069002e00700072006f002f0070006c002f0070006f0072006f0077006e0061006e00690065002d007300740079006c006f0077002d00610072006300
+68006900740065006b0074006f006e00690063007a006e007900630068002d006100700069002d0073006f00610070002d00760073002d0072006500730074002d00760073002d006700720061007000680071006c002d00760073002d007200700063002d0031003400350038003300370035003200370038003500300037
+00340036000000795881f43b1d7f48af2c825dc485276300000000a5ab0003}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 
+https://ichi.pro/pl/porownanie-stylow-architektonicznych-api-soap-vs-rest-vs-graphql-vs-rpc-1458375278\hich\af0\dbch\af31505\loch\f0 50746}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid11430489\charrsid15608788 
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 https://www.ibm.com/docs/pl/rational-soft-arch/9.6.1?topic=standards-soap
+\par 
+\par }\pard \ltrpar\ql \li566\ri0\widctlpar\wrapdefault\faauto\rin0\lin566\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 \hich\af0\dbch\af31505\loch\f0 https://www.redhat.com/en/topics/api\line \line 
+https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/
+\par }\pard \ltrpar\ql \fi566\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 
+\par \hich\af0\dbch\af31505\loch\f0 https://www.guru99.com/soap-simple-object-access-\hich\af0\dbch\af31505\loch\f0 protocol.html
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 https://restfulapi.net/soap-vs-rest-apis/
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid15608788 
+\par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
+9cb2400825e982c78ec7a27cc0c8992416c9d8b2a755fbf74cd25442a820166c2cd933f79e3be372bd1f07b5c3989ca74aaff2422b24eb1b475da5df374fd9ad
+5689811a183c61a50f98f4babebc2837878049899a52a57be670674cb23d8e90721f90a4d2fa3802cb35762680fd800ecd7551dc18eb899138e3c943d7e503b6
+b01d583deee5f99824e290b4ba3f364eac4a430883b3c092d4eca8f946c916422ecab927f52ea42b89a1cd59c254f919b0e85e6535d135a8de20f20b8c12c3b0
+0c895fcf6720192de6bf3b9e89ecdbd6596cbcdd8eb28e7c365ecc4ec1ff1460f53fe813d3cc7f5b7f020000ffff0300504b030414000600080000002100a5d6
+a7e7c0000000360100000b0000005f72656c732f2e72656c73848fcf6ac3300c87ef85bd83d17d51d2c31825762fa590432fa37d00e1287f68221bdb1bebdb4f
+c7060abb0884a4eff7a93dfeae8bf9e194e720169aaa06c3e2433fcb68e1763dbf7f82c985a4a725085b787086a37bdbb55fbc50d1a33ccd311ba548b6309512
+0f88d94fbc52ae4264d1c910d24a45db3462247fa791715fd71f989e19e0364cd3f51652d73760ae8fa8c9ffb3c330cc9e4fc17faf2ce545046e37944c69e462
+a1a82fe353bd90a865aad41ed0b5b8f9d6fd010000ffff0300504b0304140006000800000021006b799616830000008a0000001c0000007468656d652f746865
+6d652f7468656d654d616e616765722e786d6c0ccc4d0ac3201040e17da17790d93763bb284562b2cbaebbf600439c1a41c7a0d29fdbd7e5e38337cedf14d59b
+4b0d592c9c070d8a65cd2e88b7f07c2ca71ba8da481cc52c6ce1c715e6e97818c9b48d13df49c873517d23d59085adb5dd20d6b52bd521ef2cdd5eb9246a3d8b
+4757e8d3f729e245eb2b260a0238fd010000ffff0300504b03041400060008000000210041daf6e5a6070000e6200000160000007468656d652f7468656d652f
+7468656d65312e786d6cec59cd8b1bc915bf07f23f347d97f5d5ad8fc1f222b524cfda33f660c90e7bac914add65557789aed28cc56208de532e81c026e49085
+bded21842cecc22eb9e48f31d8249b3f22afaa5bdd5552c9f3810326cc0886eed2efbdfad57bafde7baabaffd9ab983a1738e584253db77eafe63a3899b13949
+c29efb7c3aae745c870b94cc116509eeb91bccddcf1efcfa57f7d19188708c1d904ff811eab99110aba36a95cf6018f17b6c8513f86ec1d21809784dc3ea3c45
+97a037a6d546add6aac68824ae93a018d49e32b1b974566849b0583b4f170b32c3ee83ed24230a332582cb81194d27720a9c4b9e29195d64beac4b20dff080a6
+ce05a23d17a69db3cb297e255c87222ee08b9e5b537f6ef5c1fd2a3aca85a83820abc98dd55f2e970bcc970d35671a9e17937a9eefb5fa857e05a0621f376a8f
+5aa356a14f01d06c060bceb8983adb8dc0cbb11a287bb4e81eb687cdba81d7f437f738f77df931f00a94e9f7f6f0e371005634f00a94e1fd3dbc3fe80e86a67e
+05caf0ad3d7cbbd61f7a6d43bf02459424cb3d74cd6f3583ed6a0bc882d1632bbceb7be37623575ea2201a8a2093532c5822ae08b918bd64e91870124f912089
+23362bbc403388ed0051729e12e7848411c4df0a258cc370ad511bd79af05f7e3cf5a41c8b8e30d2a4253d20c4f786242d87cf52b2123df711687535c8bb9f7f
+7efbe6c7b76f7e7afbd5576fdffc3d9f5ba932e48e5112ea72bf7cf787ff7cf35be7df3f7cfbcbd77fcca6dec5731dfffe6fbf7bff8f7f7e483dacb834c5bb3f
+7dfffec7efdffdf9f7fffaebd716edfd149debf0298931779ee04be7198b618116fef83cbd99c434424497e82721470992b358f48f4464a09f6c104516dc009b
+767c9142c6b1011fae5f1a842751ba16c4a2f171141bc053c6e880a5562b3c967369669eae93d03e79bad671cf10bab0cd1da0c4f0f268bd828c4b6c2a83081b
+34cf284a040a71828523bf634b8c2dabfb8210c3aea7649632ce16c2f982380344ac26999273239a4aa16312835f363682e06fc336a72f9c01a3b6550ff18589
+84bd81a885fc1453c38c0fd15aa0d8a6728a62aa1bfc0489c84672b249673a6ec405783ac49439a339e6dc26f33485f56a4e7f0c69c6eef653ba894d642ac8d2
+a6f30431a623876c1944285ed9b01392443af673be841045ce191336f8293377887c073fa0e4a0bb5f402fa04f707536780e1956972803447eb34e2dbe7c8899
+11bf930d5d206c4b35fd3436526c3f25d6e818ac4323b44f30a6e812cd31769e7f6e6130602bc3e625e947116495636c0bac47c88c55f99e608e1dd5e3ece7c9
+13c28d909de0901de073bad9493c1b94c4283da4f909785db7f9084a5d6c0b80a774b6d4814f087486102f56a33ce5a0430bee835acf22641430f9ceedf1ba49
+0dff5d678fc1be7c69d0b8c6be04197c631948ecbacc076d3345d498a00c9829822ec3966e41c4707f29228bab125b5be516e6a62ddd004d92d1f4c424b9b203
+dae97dfcff5def031dc6bbbf7c63d96c1fa7dfb12b3692d50d3b9d43c9e478a7bf3984dbed6a0296cec9a7dfd40cd13a39c35047f633d65d4f73d7d3b8fff73d
+cda1fd7cd7c91cea37ee3a19173a8cbb4e263f5cf9389d4cd9bc405f230f3cb2f31e75fa135f75f8b320944ec486e213aece7f38fcac998f61508aabe3505c9c
+09ae227894d50ee63170618a948c9332f11b22a249845670485477a59290e7aa43eeac1887b323356cd52df1741d9fb27976f459afcb63ceacc07224caf19a5f
+8cc37995c8d0ad76799c57a8576c4375faba2520656f42429bcc24d1b490686f07a591d4592f18cd4242adeca3b0e85a5874a4faadabf65800b5c22bf0bbdb81
+5feb3dd7f7400484e0580e7af4b9f453e6eaad7795333fa6a70f19d38800e8b3b711507aba2bb91e5c9e5c5d166ad7f0b441420b379384b28ceaf37804bf86f3
+e894a3d7a171535f774b971af4a429d47c105a258d76e7432c6eeb6b90dbcd0d34d133054d9ccb9edb6afa103233b4eab90b383b86c77805b1c3e54f2f4443b8
+96998934dbf0b7c92cab948b21e25166709574b26c101381538792b8e7cae5176ea089ca218a5bbd0109e19325d785b4f2a99103a79b4ec68b059e09ddedda88
+b474f60a193ecb15d66f95f8edc15292adc1dd93687ee99cd375fa0c4188f9edba34e09c70b842a867d69c13b81a2b1259197f3b85294fbbfadd948aa16c1cd1
+5584f28aa227f30cae52794147bd1536d0def23583413593e485f03c94055637aa514d8baa9171385875af169296d3926659338dac22aba63d8b19336ccbc08e
+2d6f57e435565b13434ed32b7c96ba77536e779beb76fa84a24a80c10bfb59aaee350a8246ad9ccca02619efa76199b3f351b3766c177805b5eb14092debb7b6
+6a77ec56d408eb743078abca0f72bb510b438b6d7ba92cadaed4f5db6e76fe1292c7109add35155cb9122eb153040dd144f52459da802df24ae45b039e9c754a
+7aee9735bfef050d3fa8d43afea8e235bd5aa5e3f79b95beef37eb23bf5e1b0e1aafa1b08828aefbd975fe18ee31e826bfd457e37b17fbf1f6aae6de8cc555a6
+aeeaab8ab8bad8af378c8bfdec2adf99ca1b7bd7219074be6c35c6dd6677d0aa749bfd71c51b0e3a956ed01a5486ada03d1c0f03bfd31dbf769d0b05f6facdc0
+6b8d3a95563d082a5eab26e977ba95b6d768f4bd76bf33f2faaff33606569ea58fdc16605ec5ebc17f010000ffff0300504b0304140006000800000021000dd1
+909fb60000001b010000270000007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73848f4d0ac2301484f78277
+086f6fd3ba109126dd88d0add40384e4350d363f2451eced0dae2c082e8761be9969bb979dc9136332de3168aa1a083ae995719ac16db8ec8e4052164e89d93b
+64b060828e6f37ed1567914b284d262452282e3198720e274a939cd08a54f980ae38a38f56e422a3a641c8bbd048f7757da0f19b017cc524bd62107bd5001996
+509affb3fd381a89672f1f165dfe514173d9850528a2c6cce0239baa4c04ca5bbabac4df000000ffff0300504b01022d0014000600080000002100e9de0fbfff
+0000001c0200001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d0014000600080000002100a5d6a7e7
+c0000000360100000b00000000000000000000000000300100005f72656c732f2e72656c73504b01022d00140006000800000021006b799616830000008a0000
+001c00000000000000000000000000190200007468656d652f7468656d652f7468656d654d616e616765722e786d6c504b01022d001400060008000000210041
+daf6e5a6070000e62000001600000000000000000000000000d60200007468656d652f7468656d652f7468656d65312e786d6c504b01022d0014000600080000
+0021000dd1909fb60000001b0100002700000000000000000000000000b00a00007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d010000ab0b00000000}
+{\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d
+617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d6169
+6e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363
+656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}
+{\*\latentstyles\lsdstimax376\lsdlockeddef0\lsdsemihiddendef0\lsdunhideuseddef0\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdqformat1 \lsdlocked0 Normal;\lsdqformat1 \lsdlocked0 heading 1;\lsdqformat1 \lsdlocked0 heading 2;
+\lsdqformat1 \lsdlocked0 heading 3;\lsdqformat1 \lsdlocked0 heading 4;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 5;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 6;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 7;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 8;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 9;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 6;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 7;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 8;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 9;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 1;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 2;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 4;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 5;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 6;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 7;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 8;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 9;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal Indent;
+\lsdsemihidden1 \lsdlocked0 footnote text;\lsdsemihidden1 \lsdlocked0 annotation text;\lsdsemihidden1 \lsdlocked0 header;\lsdsemihidden1 \lsdlocked0 footer;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index heading;\lsdqformat1 \lsdlocked0 caption;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 table of figures;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 envelope address;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 envelope return;\lsdsemihidden1 \lsdlocked0 footnote reference;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation reference;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 line number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 page number;\lsdsemihidden1 \lsdlocked0 endnote reference;
+\lsdsemihidden1 \lsdlocked0 endnote text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 table of authorities;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 macro;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 toa heading;\lsdsemihidden1 \lsdlocked0 List;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 5;\lsdqformat1 \lsdpriority10 \lsdlocked0 Title;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Closing;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Signature;\lsdsemihidden1 \lsdunhideused1 \lsdpriority1 \lsdlocked0 Default Paragraph Font;\lsdsemihidden1 \lsdlocked0 Body Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Message Header;\lsdqformat1 \lsdpriority11 \lsdlocked0 Subtitle;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Salutation;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Date;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text First Indent;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text First Indent 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Note Heading;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent 3;
+\lsdsemihidden1 \lsdlocked0 Block Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Hyperlink;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 FollowedHyperlink;\lsdqformat1 \lsdpriority22 \lsdlocked0 Strong;\lsdqformat1 \lsdpriority20 \lsdlocked0 Emphasis;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Document Map;\lsdsemihidden1 \lsdlocked0 Plain Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 E-mail Signature;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Top of Form;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Bottom of Form;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal (Web);\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Acronym;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Address;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Cite;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Code;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Definition;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Keyboard;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Preformatted;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Sample;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Typewriter;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Variable;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal Table;\lsdsemihidden1 \lsdlocked0 annotation subject;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 No List;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Simple 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Simple 2;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Simple 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Colorful 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Colorful 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Colorful 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 6;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 7;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 8;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 6;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 7;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 8;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table 3D effects 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table 3D effects 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table 3D effects 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Contemporary;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Elegant;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Professional;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Subtle 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Subtle 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Web 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Web 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Web 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Balloon Text;\lsdpriority39 \lsdlocked0 Table Grid;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Theme;\lsdsemihidden1 \lsdlocked0 Placeholder Text;\lsdqformat1 \lsdpriority1 \lsdlocked0 No Spacing;
+\lsdpriority60 \lsdlocked0 Light Shading;\lsdpriority61 \lsdlocked0 Light List;\lsdpriority62 \lsdlocked0 Light Grid;\lsdpriority63 \lsdlocked0 Medium Shading 1;\lsdpriority64 \lsdlocked0 Medium Shading 2;\lsdpriority65 \lsdlocked0 Medium List 1;
+\lsdpriority66 \lsdlocked0 Medium List 2;\lsdpriority67 \lsdlocked0 Medium Grid 1;\lsdpriority68 \lsdlocked0 Medium Grid 2;\lsdpriority69 \lsdlocked0 Medium Grid 3;\lsdpriority70 \lsdlocked0 Dark List;\lsdpriority71 \lsdlocked0 Colorful Shading;
+\lsdpriority72 \lsdlocked0 Colorful List;\lsdpriority73 \lsdlocked0 Colorful Grid;\lsdpriority60 \lsdlocked0 Light Shading Accent 1;\lsdpriority61 \lsdlocked0 Light List Accent 1;\lsdpriority62 \lsdlocked0 Light Grid Accent 1;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 1;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 1;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 1;\lsdsemihidden1 \lsdlocked0 Revision;\lsdqformat1 \lsdpriority34 \lsdlocked0 List Paragraph;
+\lsdqformat1 \lsdpriority29 \lsdlocked0 Quote;\lsdqformat1 \lsdpriority30 \lsdlocked0 Intense Quote;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 1;\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 1;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 1;
+\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 1;\lsdpriority70 \lsdlocked0 Dark List Accent 1;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 1;\lsdpriority72 \lsdlocked0 Colorful List Accent 1;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 1;
+\lsdpriority60 \lsdlocked0 Light Shading Accent 2;\lsdpriority61 \lsdlocked0 Light List Accent 2;\lsdpriority62 \lsdlocked0 Light Grid Accent 2;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 2;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 2;
+\lsdpriority65 \lsdlocked0 Medium List 1 Accent 2;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 2;\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 2;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 2;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 2;
+\lsdpriority70 \lsdlocked0 Dark List Accent 2;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 2;\lsdpriority72 \lsdlocked0 Colorful List Accent 2;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 2;\lsdpriority60 \lsdlocked0 Light Shading Accent 3;
+\lsdpriority61 \lsdlocked0 Light List Accent 3;\lsdpriority62 \lsdlocked0 Light Grid Accent 3;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 3;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 3;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 3;
+\lsdpriority66 \lsdlocked0 Medium List 2 Accent 3;\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 3;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 3;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 3;\lsdpriority70 \lsdlocked0 Dark List Accent 3;
+\lsdpriority71 \lsdlocked0 Colorful Shading Accent 3;\lsdpriority72 \lsdlocked0 Colorful List Accent 3;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 3;\lsdpriority60 \lsdlocked0 Light Shading Accent 4;\lsdpriority61 \lsdlocked0 Light List Accent 4;
+\lsdpriority62 \lsdlocked0 Light Grid Accent 4;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 4;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 4;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 4;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 4;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 4;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 4;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 4;\lsdpriority70 \lsdlocked0 Dark List Accent 4;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 4;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 4;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 4;\lsdpriority60 \lsdlocked0 Light Shading Accent 5;\lsdpriority61 \lsdlocked0 Light List Accent 5;\lsdpriority62 \lsdlocked0 Light Grid Accent 5;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 5;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 5;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 5;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 5;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 5;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 5;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 5;\lsdpriority70 \lsdlocked0 Dark List Accent 5;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 5;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 5;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 5;\lsdpriority60 \lsdlocked0 Light Shading Accent 6;\lsdpriority61 \lsdlocked0 Light List Accent 6;\lsdpriority62 \lsdlocked0 Light Grid Accent 6;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 6;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 6;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 6;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 6;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 6;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 6;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 6;\lsdpriority70 \lsdlocked0 Dark List Accent 6;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 6;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 6;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 6;\lsdqformat1 \lsdpriority19 \lsdlocked0 Subtle Emphasis;\lsdqformat1 \lsdpriority21 \lsdlocked0 Intense Emphasis;
+\lsdqformat1 \lsdpriority31 \lsdlocked0 Subtle Reference;\lsdqformat1 \lsdpriority32 \lsdlocked0 Intense Reference;\lsdqformat1 \lsdpriority33 \lsdlocked0 Book Title;\lsdsemihidden1 \lsdunhideused1 \lsdpriority37 \lsdlocked0 Bibliography;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority39 \lsdlocked0 TOC Heading;\lsdpriority41 \lsdlocked0 Plain Table 1;\lsdpriority42 \lsdlocked0 Plain Table 2;\lsdpriority43 \lsdlocked0 Plain Table 3;\lsdpriority44 \lsdlocked0 Plain Table 4;
+\lsdpriority45 \lsdlocked0 Plain Table 5;\lsdpriority40 \lsdlocked0 Grid Table Light;\lsdpriority46 \lsdlocked0 Grid Table 1 Light;\lsdpriority47 \lsdlocked0 Grid Table 2;\lsdpriority48 \lsdlocked0 Grid Table 3;\lsdpriority49 \lsdlocked0 Grid Table 4;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 1;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 1;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 1;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 1;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 1;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 2;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 2;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 2;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 2;
+\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 3;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 3;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 3;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 3;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 3;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 4;
+\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 4;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 4;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 4;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 4;
+\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 4;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 5;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 5;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 5;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 5;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 5;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 6;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 6;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 6;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 6;
+\lsdpriority46 \lsdlocked0 List Table 1 Light;\lsdpriority47 \lsdlocked0 List Table 2;\lsdpriority48 \lsdlocked0 List Table 3;\lsdpriority49 \lsdlocked0 List Table 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful;\lsdpriority52 \lsdlocked0 List Table 7 Colorful;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 List Table 2 Accent 1;\lsdpriority48 \lsdlocked0 List Table 3 Accent 1;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 1;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 1;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 1;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 List Table 2 Accent 2;\lsdpriority48 \lsdlocked0 List Table 3 Accent 2;\lsdpriority49 \lsdlocked0 List Table 4 Accent 2;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 2;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 3;
+\lsdpriority47 \lsdlocked0 List Table 2 Accent 3;\lsdpriority48 \lsdlocked0 List Table 3 Accent 3;\lsdpriority49 \lsdlocked0 List Table 4 Accent 3;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 3;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 4;\lsdpriority47 \lsdlocked0 List Table 2 Accent 4;
+\lsdpriority48 \lsdlocked0 List Table 3 Accent 4;\lsdpriority49 \lsdlocked0 List Table 4 Accent 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 4;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 4;
+\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 List Table 2 Accent 5;\lsdpriority48 \lsdlocked0 List Table 3 Accent 5;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 5;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 5;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 5;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 List Table 2 Accent 6;\lsdpriority48 \lsdlocked0 List Table 3 Accent 6;\lsdpriority49 \lsdlocked0 List Table 4 Accent 6;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 6;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Mention;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Smart Hyperlink;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Hashtag;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Unresolved Mention;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Smart Link;}}{\*\datastore 01050000
+02000000180000004d73786d6c322e534158584d4c5265616465722e362e3000000000000000000000060000
+d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff090006000000000000000000000001000000010000000000000000100000feffffff00000000feffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e500000000000000000000000090c8
+98c07f26d801feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000105000000000000}}
