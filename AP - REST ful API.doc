@@ -39,14 +39,15 @@
 {\fbiminor\f31581\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbiminor\f31582\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbiminor\f31583\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
 {\fbiminor\f31584\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbiminor\f31585\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbiminor\f31586\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}
 {\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;
-\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red0\green0\blue0;\red0\green0\blue0;}{\*\defchp \fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap 
-\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af43\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang1045\langfe1045\loch\f43\hich\af43\dbch\af31505\cgrid\langnp1045\langfenp1045 \snext0 \sqformat \spriority0 Normal;}{\s1\ql \li0\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0 \rtlch\fcs1 \ab\af44\afs34\alang1025 
-\ltrch\fcs0 \b\fs34\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext0 \slink15 \sqformat heading 1;}{\s2\ql \li0\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 
-\ab\af44\afs28\alang1025 \ltrch\fcs0 \b\fs28\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext0 \slink16 \sqformat heading 2;}{
-\s3\ql \li0\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\outlinelevel2\rin0\lin0\itap0 \rtlch\fcs1 \ab\af44\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 
-\sbasedon0 \snext0 \slink17 \sqformat heading 3;}{\s4\ql \li0\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\outlinelevel3\rin0\lin0\itap0 \rtlch\fcs1 \ab\af44\afs24\alang1025 \ltrch\fcs0 
-\b\fs24\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext0 \slink18 \sqformat heading 4;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*
+\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red0\green0\blue0;\red0\green0\blue0;\chyperlink\ctint255\cshade255\red5\green99\blue193;\red96\green94\blue92;\red225\green223\blue221;}
+{\*\defchp \fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap \ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{
+\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af43\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f43\hich\af43\dbch\af31505\cgrid\langnp1045\langfenp1045 \snext0 \sqformat \spriority0 Normal;}{
+\s1\ql \li0\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0 \rtlch\fcs1 \ab\af44\afs34\alang1025 \ltrch\fcs0 \b\fs34\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 
+\sbasedon0 \snext0 \slink15 \sqformat heading 1;}{\s2\ql \li0\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \ab\af44\afs28\alang1025 \ltrch\fcs0 
+\b\fs28\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext0 \slink16 \sqformat heading 2;}{\s3\ql \li0\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\outlinelevel2\rin0\lin0\itap0 \rtlch\fcs1 
+\ab\af44\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext0 \slink17 \sqformat heading 3;}{
+\s4\ql \li0\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\outlinelevel3\rin0\lin0\itap0 \rtlch\fcs1 \ab\af44\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang1045\langfe1045\loch\f44\hich\af44\dbch\af31505\cgrid\langnp1045\langfenp1045 
+\sbasedon0 \snext0 \slink18 \sqformat heading 4;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*
 \ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa160\sl259\slmult1
 \widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang1045\langfe1045\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1045\langfenp1045 \snext11 \ssemihidden \sunhideused 
 Normal Table;}{\*\cs15 \additive \rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\fs32\kerning32\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink1 \slocked \spriority9 Nag\'b3\'f3wek 1 Znak;}{\*\cs16 \additive \rtlch\fcs1 \ab\ai\af0\afs28 \ltrch\fcs0 
@@ -106,19 +107,21 @@ Body Text;}{\*\cs45 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \slink44 
 \s73\ql \fi-431\li1440\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1440\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext0 Contents 2;}{
 \s74\ql \fi-431\li2160\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin2160\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext0 Contents 3;}{
 \s75\ql \fi-431\li2880\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin2880\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext0 Contents 4;}{\*\cs76 
-\additive \rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \fs16 \sbasedon10 \ssemihidden \sunhideused \styrsid751664 annotation reference;}}{\*\listtable{\list\listtemplateid919521572{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
-\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
-\'01o;}{\levelnumbers;}\f2\fs20\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}
+\additive \rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \fs16 \sbasedon10 \ssemihidden \sunhideused \styrsid751664 annotation reference;}{\*\cs77 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf19 \sbasedon10 \sunhideused \styrsid11299500 Hyperlink;}{\*\cs78 \additive 
+\rtlch\fcs1 \af0 \ltrch\fcs0 \cf20\chshdng0\chcfpat0\chcbpat21 \sbasedon10 \ssemihidden \sunhideused \styrsid11299500 Unresolved Mention;}}{\*\listtable{\list\listtemplateid919521572{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\'01o;}{\levelnumbers;}\f2\fs20\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}
 \f10\fs20\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2880
 \jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }
 {\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23
 \leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
 \levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
 \levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1218854943}}{\*\listoverridetable{\listoverride\listid1218854943\listoverridecount0\ls1}}{\*\pgptbl {\pgp
-\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp5\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp3\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid149881\rsid734740\rsid751664\rsid1195506\rsid2698004\rsid3888797
-\rsid3950585\rsid5657909\rsid5797392\rsid6647288\rsid7340613\rsid8128750\rsid8150257\rsid8747713\rsid10102699\rsid11151313\rsid11430489\rsid12273224\rsid12527990\rsid13007453\rsid14118520\rsid15608788\rsid15667986\rsid16481695}{\mmathPr\mmathFont34
-\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\author Pawe\'b3 Ku\'9fma}{\operator Pawe\'b3 Ku\'9fma}{\creatim\yr2022\mo2\dy20\hr17\min22}{\revtim\yr2022\mo2\dy21\hr13\min22}{\version14}
-{\edmins370}{\nofpages6}{\nofwords1718}{\nofchars10313}{\nofcharsws12007}{\vern41}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw11905\paperh16837\margl1440\margr1440\margt1417\margb1417\gutter0\ltrsect 
+\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp8\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp6\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp3\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp4\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0
+\ri0\sb0\sa0}}{\*\rsidtbl \rsid149881\rsid734740\rsid751664\rsid1195506\rsid2698004\rsid3888797\rsid3950585\rsid5657909\rsid5797392\rsid6647288\rsid7340613\rsid8128750\rsid8150257\rsid8747713\rsid10102699\rsid11151313\rsid11299500\rsid11430489
+\rsid12273224\rsid12527990\rsid13007453\rsid14118520\rsid15608788\rsid15667986\rsid16481695}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\author Pawe\'b3 Ku\'9fma}
+{\operator Pawe\'b3 Ku\'9fma}{\creatim\yr2022\mo2\dy20\hr17\min22}{\revtim\yr2022\mo2\dy21\hr15\min16}{\version15}{\edmins484}{\nofpages7}{\nofwords1775}{\nofchars10654}{\nofcharsws12405}{\vern41}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/
+word/2003/wordml}}\paperw11905\paperh16837\margl1440\margr1440\margt1417\margb1417\gutter0\ltrsect 
 \widowctrl\ftnbj\aenddoc\hyphhotz425\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\horzdoc\dghspace120\dgvspace120
 \dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale150\rsidroot734740 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\*\pnseclvl1
 \pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5
@@ -374,7 +377,40 @@ o sformato\hich\af0\dbch\af31505\loch\f0 wany}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\
 ci" - procesu wyboru najlepszej reprezentacji dla danej odpowiedzi, gdy dost\'ea\loch\f0 pn\hich\af0\dbch\af31505\loch\f0 ych jest wiele reprezentacji.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \line 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid15608788\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 https://blog.restcase.com/4-maturity-levels-of-rest-api-design/
 \par 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid15608788 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500 
 \par 
+\par 
+\par }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500 \hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 HYPERLINK \hich\af0\dbch\af31505\loch\f0 "}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500\charrsid11299500 
+\hich\af0\dbch\af31505\loch\f0 https://blog.restcase.com/4-maturity-levels-of-rest-api-design/}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500 \hich\af0\dbch\af31505\loch\f0 "\hich\af0\dbch\af31505\loch\f0  }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\cs77\f0\ul\cf19\insrsid11299500\charrsid8066247 \hich\af0\dbch\af31505\loch\f0 https://blog.restcase.com/4-maturity-levels-of-rest-api-design/}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\insrsid11299500 
+\par }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500 \hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 HYPERLINK \hich\af0\dbch\af31505\loch\f0 "}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500\charrsid11299500 
+\hich\af0\dbch\af31505\loch\f0 https://blog.restcase.com/7-rules-for-rest-api-uri-design/}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500 \hich\af0\dbch\af31505\loch\f0 "\hich\af0\dbch\af31505\loch\f0  }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\cs77\f0\ul\cf19\insrsid11299500\charrsid8066247 \hich\af0\dbch\af31505\loch\f0 https://blog.restcase.com/7-rules-for-rest-api-uri-design/}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid11299500 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500\charrsid11299500 \hich\af0\dbch\af31505\loch\f0 https://blog.restcas\hich\af0\dbch\af31505\loch\f0 e.com/5-basic-rest-api-design-guidelines/}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500 \line 
+\hich\af0\dbch\af31505\loch\f0 tab\hich\af0\dbch\af31505\loch\f0 \hich\f0 ela wszystkich czasownik\'f3\loch\f0 w http
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500\charrsid5797392 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Wiele us\'b3\loch\f0 \hich\f0 ug, kt\'f3\loch\f0 \hich\f0 re potocznie okre\'9c\loch\f0 \hich\f0 lamy jako REST, technicznie nimi nie s\'b9\loch\f0 
 \hich\f0 , dopiero te spe\'b3\loch\f0 \hich\f0 niaj\'b9\loch\f0 \hich\f0 ce te wszystkie 4 poziomy s\'b9\loch\f0 \hich\f0  w pe\'b3\loch\f0 \hich\f0 ni zgodne z architekur\'b9\loch\f0  REST a\hich\af0\dbch\af31505\loch\f0 \hich\f0  co za tym idzie mo\'bf
 \loch\f0 \hich\f0 emy nazwa\'e6\loch\f0  je RESTful.
@@ -639,8 +675,8 @@ fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e500000000000000000000000070c7
-56ad1d27d801feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e5000000000000000000000000a054
+f09b2d27d801feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
 0000000000000000000000000000000000000000000000000105000000000000}}
