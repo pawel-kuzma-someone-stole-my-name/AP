@@ -37,39 +37,80 @@
       <tbody>
         <tr>
           <td>GET</td>
-          <td>GET</td>
-          <td>HEAD</td>
-          <td>HEAD</td>
-          <td>POST</td>
-          <td>PUT</td>
-          <td>PATCH</td>
-          <td>DELETE</td>
-          <td>OPTIONS</td>
-        </tr>
-        <tr>
-          <td>collection</td>
-          <td>resource</td>
-          <td>collection</td>
-          <td>resource</td>
-          <td>collection</td>
-          <td>resource</td>
-          <td>resource</td>
-          <td>resource</td>
-          <td>any</td>
-        </tr>
-        <tr>
+          <td>kolekcja</td>
           <td>pobierz wszystkie zasoby w kolekcji</td>
+        </tr>
+        <tr>
+          <td>GET</td>
+          <td>zasób</td>
           <td>pobierz pojedynczy zasób</td>
+        </tr>
+        <tr>
+          <td>HEAD</td>
+          <td>kolekcja</td>
           <td>pobierz wszystkie zasoby w kolekcji (nagłówki)</td>
+        </tr>
+        <tr>
+          <td>HEAD</td>
+          <td>zasób</td>
           <td>pobierz pojedynczy zasób (nagłówki)</td>
-          <td>tworzenie nowego zasobu w kolekcji</td>
+        </tr>
+        <tr>
+          <td>POST</td>
+          <td>kolekcja</td>
+          <td>tworzenie nowego zasobu/kolekcji</td>
+        </tr>
+        <tr>
+          <td>PUT</td>
+          <td>zasób</td>
           <td>zastąp (cały) zasób</td>
-          <td>zaaktualizuj zasób</td>
+        </tr>
+        <tr>
+          <td>PATCH</td>
+          <td>zasób</td>
+          <td>zaktualizuj zasób</td>
+        </tr>
+        <tr>
+          <td>DELETE</td>
+          <td>zasób</td>
           <td>usuń zasób</td>
+        </tr>
+        <tr>
+          <td>OPTIONS</td>
+          <td>inny</td>
           <td>pobierz metody HTTP i inne opcje</td>
         </tr>
       </tbody>
     </table>
+
+    <p>Poprawne używanie nagłówków</p>
+
+    <!-- <table class="table">
+      <thead>
+        <tr>
+          <td>Nagłówki</td>
+          <td>dostarczają wymaganych informacji o obiekcie przesyłanym w treści żądaniu lub odpowiedzi</td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Nagłówek ogólny</td>
+          <td>Te pola nagłówka mają ogólne zastosowanie zarówno dla wiadomości żądania, jak i odpowiedzi</td>
+        </tr>
+        <tr>
+          <td>Nagłówek żądania klienta </td>
+          <td>Te pola nagłówka mają zastosowanie tylko dla wiadomości żądania.</td>
+        </tr>
+        <tr>
+          <td>Nagłówek odpowiedzi serwera</td>
+          <td>Te pola nagłówkowe mają zastosowanie tylko dla wiadomości odpowiedzi.</td>
+        </tr>
+        <tr>
+          <td>Nagłówek Podmiotu </td>
+          <td>Te pola nagłówka określają meta informacje o podmiocie-body lub, jeśli nie ma BODY, o zasobie zidentyfikowanym przez żądanie.</td>
+        </tr>
+      </tbody>
+    </table> -->
   </div>
   <div class="footer">
     <a
@@ -81,11 +122,11 @@
         aria-hidden="true"
       ></i></a>
   </div>
-  <script
+  <!--    <script
     src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
     crossorigin="anonymous"
-  ></script>
+  ></script>  -->
 </body>
 
 </html>

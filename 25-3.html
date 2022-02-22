@@ -27,24 +27,38 @@
 <body class="content-wrapper">
   <div class="content fs-2">
     <p class="title">
-      Bagno POX (The Swamp of POX)
+      HATEOAS (Hypertext As The Engine Of Application State)
     </p>
     <ul>
       <li>
-        Reguła 1: Myślniki (-) powinny być używane w celu poprawy czytelności URI - określane również jako spinal-case
-        <i>http://api.example.com/ap/be-or-not-to-be-rest/maturity-model</i>
+        rel – nazwa zasobu/relacji
       </li>
       <li>
-        Reguła 2: Podkreślenia (_) nie powinny być używane w URI.
-        <a href="#"><i>http://api.example.com/ap/be_or_not_to_be_rest/maturity-model</i></a>
+        href – URI do zasobu
       </li>
       <li>
-        Reguła 3: Małe litery powinny być preferowane w ścieżkach URI.
-        <i><s>http://api.EXAMPLE.com/ap/Be-Or-Not-To-Be-Rest/maturity-model</s></i>
+        method – metoda HTTP jakiej klient powinien użyć aby przejść do tej relacji
+      </li>
+    </ul>
+    <pre>
+  {
+    data: {...},
+    links: [ { rel: "next", method: "GET", href: "http://api.ap" } ]
+  }
+</pre>
+    <p class="title">
+      Negocjacje za pomocą nagłówków
+    </p>
+    <ul>
+      <li>
+        Accept - Nagłówek w żądaniu HTTP wskazuje, jakie typy zawartości, wyrażone jako typy MIME, klient jest w stanie zrozumieć.
+        <i>Accept: text/html,application/json,application/xml;q=0.9,*/*;q=0.8</i>
       </li>
       <li>
-        Reguła 4: Rozszerzenia plików nie powinny być zawarte w URI.
-        <i><s>http://api.example.com/ap/be-or-not-to-be-rest/maturity-model.json</s></i>
+        Content-Type (w odpowiedzi) Nagłówek w odpowiedzi HTTP wskazuje, jaki typ zawartości, wyrażony jako typ MIME, serwer jest w stanie zwrócić.
+      </li>
+      <li>
+        Content-Type (w żądaniu) Nagłówek w żądaniu HTTP wskazuje, jaki typ zawartości, wyrażony jako typ MIME, klient wysyła aby serwer je zdeserializował.
       </li>
     </ul>
   </div>
@@ -58,11 +72,11 @@
         aria-hidden="true"
       ></i></a>
   </div>
-    <!-- <script
+  <!--    <script
     src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
     crossorigin="anonymous"
-  ></script> -->
+  ></script>  -->
 </body>
 
 </html>
