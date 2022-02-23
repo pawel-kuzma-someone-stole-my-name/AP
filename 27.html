@@ -33,6 +33,7 @@
             <th scope="col">RPC</th>
             <th scope="col">SOAP</th>
             <th scope="col">GraphQL</th>
+            <th scope="col">REST</th>
           </tr>
         </thead>
         <tbody>
@@ -41,18 +42,21 @@
             <td>początkowo tylko XML, potem json</td>
             <td>XML</td>
             <td>GraphQL</td>
+            <td>json / xml - inne plain text, csv, rss</td>
           </tr>
           <tr>
             <th scope="row">Protokół</th>
             <td>HTTP</td>
             <td>jest sam w sobie protokołem, który nakłada się na inne np: HTTP, TCP, SMTP</td>
             <td>jest sam w sobie protokołem, który nakłada się na HTTP</td>
+            <td>HTTP</td>
           </tr>
           <tr>
             <th scope="row">Metody HTTP</th>
             <td>GET (pobierz), POST (wszystko inne)</td>
             <td>POST</td>
             <td>GET (tylko query), POST (query oraz mutation)</td>
+            <td>GET, HEAD, POST, PUT, DELETE, OPTIONS, PATCH</td>
           </tr>
           <tr>
             <th scope="row">Wzór Requestu</th>
@@ -86,19 +90,48 @@
   }
 }
               </pre></td>
-          </tr>
-          <tr>
-            <th scope="row">po co są? (kontekst logiczny)</th>
-            <td>akcje / funkcje / procedury / komendy</td>
-            <td>brak - wysyłasz kopertę w ustandaryzowany sposób i otrzymujesz równie ustandaryzowaną odpowiedź</td>
-            <td>mapuje relacje między obiektami w bazie danych, tworzy grafy</td>
-          </tr>
+          <td>
+            GET, <i>api/foos</i></br>
+            GET, <i>api/foos/{id}</i></br>
+            HEAD, <i>api/foos</i></br>
+            HEAD, <i>api/foos/{id}</i></br>
+            POST, <i>api/foos</i>,</br>
+<pre>
+{
+  "name": "nazwa"
+  "description": "description"
+}
+</pre>
+            PUT, <i>api/foos</i>,
+<pre>
+{
+  "name": "fajniesza nazwa"
+  "description": "description"
+}
+</pre>
+            PATCH, <i>api/foos</i>,
+<pre>
+{
+  "name": "jeszcze fajniejsza"
+}
+</pre>
+            DELETE, <i>api/foos/{id}</i>
+            OPTIONS, <i>api/foos</i>
+          </td>
+        </tr>
+        <tr>
+          <th scope="row">po co są? (kontekst logiczny)</th>
+          <td>akcje / funkcje / procedury / komendy</td>
+          <td>brak - wysyłasz kopertę w ustandaryzowany sposób i otrzymujesz równie ustandaryzowaną odpowiedź</td>
+          <td>mapuje relacje między obiektami w bazie danych, tworzy grafy</td>
+          <td>modelowanie domeny, (CRUD) create read update delete dla wszsytkich zasobów, REST to nie sam crud - to również wszystko co się kręci dookołą niego</td>
+        </tr>
         </tbody>
       </table>
     </div>
   <div class="footer">
     <a
-      href="12.html"
+      href="26.html"
       type="button"
       class="btn btn-outline-primary"
     ><i
@@ -106,7 +139,7 @@
         aria-hidden="true"
       ></i></a>
     <a
-      href="14.html"
+      href="28.html"
       type="button"
       class="btn btn-outline-primary"
     ><i

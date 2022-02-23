@@ -1,7 +1,7 @@
 {\rtf1\adeflang1025\ansi\ansicpg1250\uc1\adeff43\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi0\deflang1045\deflangfe1045\themelang1045\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}
 {\f2\fbidi \fmodern\fcharset238\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\fbidi \froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fbidi \fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
 {\f34\fbidi \froman\fcharset238\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f42\fbidi \fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Segoe UI Emoji;}
-{\f43\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Liberation Serif{\*\falt Times New Roman};}{\f44\fbidi \fswiss\fcharset238\fprq2{\*\panose 020b0604020202020204}Liberation Sans{\*\falt Arial};}
+{\f43\fbidi \froman\fcharset238\fprq2{\*\panose 00000000000000000000}Liberation Serif{\*\falt Times New Roman};}{\f44\fbidi \fswiss\fcharset238\fprq2{\*\panose 00000000000000000000}Liberation Sans{\*\falt Arial};}
 {\flomajor\f31500\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbmajor\f31501\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}
 {\fhimajor\f31502\fbidi \fswiss\fcharset238\fprq2{\*\panose 020f0302020204030204}Calibri Light;}{\fbimajor\f31503\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}
 {\flominor\f31504\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbminor\f31505\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}
@@ -118,26 +118,26 @@ Body Text;}{\*\cs45 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \slink44 
 \levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
 \levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1218854943}}{\*\listoverridetable{\listoverride\listid1218854943\listoverridecount0\ls1}}{\*\pgptbl {\pgp
 \ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp8\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp6\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp3\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp4\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0
-\ri0\sb0\sa0}}{\*\rsidtbl \rsid149881\rsid604782\rsid734740\rsid751664\rsid1195506\rsid1263476\rsid1990666\rsid2698004\rsid2964510\rsid3348086\rsid3410753\rsid3412576\rsid3888797\rsid3950585\rsid4194669\rsid5593028\rsid5657909\rsid5797392\rsid6647288
-\rsid6960049\rsid7340613\rsid8066247\rsid8076758\rsid8128750\rsid8150257\rsid8335269\rsid8418343\rsid8747713\rsid10102699\rsid11151313\rsid11299500\rsid11430489\rsid11610846\rsid12273224\rsid12483092\rsid12527990\rsid13007453\rsid13447930\rsid13962453
-\rsid14118520\rsid15341880\rsid15349329\rsid15608788\rsid15612884\rsid15667986\rsid16481695}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\author Pawe\'b3 Ku\'9fma}
-{\operator Pawe\'b3 Ku\'9fma}{\creatim\yr2022\mo2\dy20\hr17\min22}{\revtim\yr2022\mo2\dy23\hr8\min34}{\version31}{\edmins764}{\nofpages5}{\nofwords1580}{\nofchars9486}{\nofcharsws11044}{\vern41}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/wo
-rd/2003/wordml}}\paperw11905\paperh16837\margl1440\margr1440\margt1417\margb1417\gutter0\ltrsect 
+\ri0\sb0\sa0}}{\*\rsidtbl \rsid149881\rsid734740\rsid751664\rsid1195506\rsid2698004\rsid3888797\rsid3950585\rsid5593028\rsid5657909\rsid5797392\rsid6647288\rsid7340613\rsid8066247\rsid8128750\rsid8150257\rsid8747713\rsid10102699\rsid11151313\rsid11299500
+\rsid11430489\rsid12273224\rsid12483092\rsid12527990\rsid13007453\rsid13447930\rsid13962453\rsid14118520\rsid15608788\rsid15667986\rsid16481695}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440
+\mintLim0\mnaryLim1}{\info{\author Pawe\'b3 Ku\'9fma}{\operator Pawe\'b3 Ku\'9fma}{\creatim\yr2022\mo2\dy20\hr17\min22}{\revtim\yr2022\mo2\dy22\hr6\min57}{\version18}{\edmins563}{\nofpages7}{\nofwords1861}{\nofchars11169}{\nofcharsws13004}{\vern41}}
+{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw11905\paperh16837\margl1440\margr1440\margt1417\margb1417\gutter0\ltrsect 
 \widowctrl\ftnbj\aenddoc\hyphhotz425\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\horzdoc\dghspace120\dgvspace120
-\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale190\rsidroot734740 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\*\pnseclvl1
+\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale150\rsidroot734740 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\*\pnseclvl1
 \pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5
 \pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang 
-{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid8076758 \rtlch\fcs1 \af43\afs24\alang1025 \ltrch\fcs0 
+{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \fi566\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af43\afs24\alang1025 \ltrch\fcs0 
 \fs24\lang1045\langfe1045\loch\af43\hich\af43\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 WSTEP
 \par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Generalnie temat jest bardzo obszerny, i ka\'bf\loch\f0 \hich\f0 dy typ API zas\'b3\loch\f0 \hich\f0 uguje na oddzielne AP. W tej prezentacji skupi\'b3\loch\f0 \hich\f0 em si\'ea\hich\af0\dbch\af31505\loch\f0 
 \hich\f0  na konkretach skondensowanych w pigu\'b3\loch\f0 \hich\f0 ce, logicznym kontek\'9c\loch\f0 \hich\f0 cie u\'bf\loch\f0 \hich\f0 ycia danego API oraz chcia\'b3\loch\f0 \hich\f0 em troch\'ea\loch\f0 \hich\f0  zg\'b3\'ea\loch\f0 \hich\f0 bi\'e6
 \loch\f0 \hich\f0  wiedz\'ea\loch\f0 \hich\f0  na temat API RESTowych z racji tego, \'bf\loch\f0 \hich\f0 e s\'b9\loch\f0 \hich\f0  najbardziej powszechne i wi\'ea\loch\f0 \hich\f0 kszo\'9c\'e6\loch\f0 \hich\f0  z nas z automatu gdy s\'b3\loch\f0 
 \hich\f0 yszy pytanie \'84\loch\f0 \hich\f0 Co to jest API\'94\loch\f0  ma skoj\hich\af0\dbch\af31505\loch\f0 a\hich\af0\dbch\af31505\loch\f0 \hich\f0 rzenie \'84\loch\f0 \hich\f0 Restowe\'94}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\insrsid11430489\charrsid5797392 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 
-\par \line \hich\af0\dbch\af31505\loch\f0 2
-\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Od strony technicznej API to kod, kt\'f3\loch\f0 \hich\f0 ry kontroluje wszystkie punkty dost\'ea\loch\f0 \hich\f0 powe aplikacji lub serwera. Do serwer\'f3\loch\f0 \hich\f0 w tych mo\'bf\loch\f0 \hich\f0 na wys\'b3
-\loch\f0 \hich\f0 a\'e6\loch\f0 \hich\f0  zewn\'ea\loch\f0 \hich\f0 trzne \'bf\'b9\loch\f0 \hich\f0 danie, kt\'f3\loch\f0 \hich\f0 re to API obs\'b3\loch\f0 \hich\f0 uguje jako t\'b3\loch\f0 \hich\f0 umacz. To w\'b3\loch\f0 \hich\f0 a\'9c\loch\f0 
-nie Interfejs Programowania Aplikacji pr\hich\af0\dbch\af31505\loch\f0 \hich\f0 ze\'9c\loch\f0 \hich\f0 le zapytania do aplikacji oraz pozwoli odes\'b3\loch\f0 \hich\f0 a\'e6\loch\f0 \hich\f0  jej informacj\'ea\loch\f0 \hich\f0  zwrotn\'b9.
+\par }\pard \ltrpar\ql \li566\ri0\widctlpar\wrapdefault\faauto\rin0\lin566\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \line \hich\af0\dbch\af31505\loch\f0 2
+\par }\pard \ltrpar\ql \fi566\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Od strony technicznej API to kod, kt\'f3\loch\f0 \hich\f0 
+ry kontroluje wszystkie punkty dost\'ea\loch\f0 \hich\f0 powe aplikacji lub serwera. Do serwer\'f3\loch\f0 \hich\f0 w tych mo\'bf\loch\f0 \hich\f0 na wys\'b3\loch\f0 \hich\f0 a\'e6\loch\f0 \hich\f0  zewn\'ea\loch\f0 \hich\f0 trzne \'bf\'b9\loch\f0 
+\hich\f0 danie, kt\'f3\loch\f0 \hich\f0 re to API obs\'b3\loch\f0 \hich\f0 uguje jako t\'b3\loch\f0 \hich\f0 umacz. To w\'b3\loch\f0 \hich\f0 a\'9c\loch\f0 nie Interfejs Programowania Aplikacji pr\hich\af0\dbch\af31505\loch\f0 \hich\f0 ze\'9c\loch\f0 
+\hich\f0 le zapytania do aplikacji oraz pozwoli odes\'b3\loch\f0 \hich\f0 a\'e6\loch\f0 \hich\f0  jej informacj\'ea\loch\f0 \hich\f0  zwrotn\'b9.
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 3
 \par \hich\af0\dbch\af31505\loch\f0 \hich\f0 M\'f3\loch\f0 \hich\f0 wi\'b9\loch\f0 \hich\f0 c API wi\'ea\loch\f0 \hich\f0 kszo\'9c\'e6\loch\f0  z nas ma natychmiastowe skojarzenie z API webowym. Skojarzenie to mocno ogranicza ten termin.}{\rtlch\fcs1 \af0 
@@ -162,31 +162,128 @@ nych platformach mog\'b3\loch\f0 \hich\f0 y si\'ea\loch\f0 \hich\f0  komunikowa\
 \loch\f0 \hich\f0 e b\'ea\loch\f0 \hich\f0 d\'b9\loch\f0  one preferowane w scenariuszach korporacyjnych
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 12
-\par \hich\af0\dbch\af31505\loch\f0 LINIA CZASU\line \hich\f0 te na szaro nie sa brane pod uwag\'ea\loch\f0  podczas tego AP\line \hich\f0 te kr\'f3\loch\f0 tkie czarne to wariancje RPC}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \line 
-\line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 16}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Z k\'b9\loch\f0 \hich\f0 d takie por\'f3\hich\af0\dbch\af31505\loch\f0 \hich\f0 wnanie? Przegrzebuj\'b9\loch\f0 c in}{\rtlch\fcs1 \af0 
-\ltrch\fcs0 \f0\highlight7\insrsid3348086 \hich\af0\dbch\af31505\loch\f0 t}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 ernet napotka\'b3\loch\f0 \hich\f0 em si\'ea\loch\f0 \hich\f0 
- cz\'ea\loch\f0 sto na takie pytanie}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \line \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 17}{\rtlch\fcs1 \af0 
-\ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Roy Fielding w 2000 napisa\'b3\loch\f0 \hich\f0  prac\'ea\~\loch\f0 \hich\f0 
-doktoranck\'b9\loch\f0 \hich\f0  gdzie zaprezentowa\'b3\loch\f0 \hich\f0  wzorze\'e6\loch\f0  REST (link do pracy a sam RESTA jest opisany w 5 rozdziale)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid14118520 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 LINIA CZASU\line \hich\f0 te na szaro nie sa brane pod uwag\'ea\loch\f0 
+ podczas tego AP\line \hich\f0 te kr\'f3\loch\f0 tkie czarne to wariancje RPC}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \line \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 
+\par }\pard \ltrpar\ql \fi566\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
+\par \ltrrow}\trowd \irow0\irowband0\ltrrow\ts11\trgaph10\trleft0\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind10\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr
+\brdrs\brdrw15\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth1848\clcbpatraw8 \cellx1848\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx3675\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx5502\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx7329\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1828\clcbpatraw8 \cellx9157\pard\plain \ltrpar\s60\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 \rtlch\fcs1 \af43\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af43\hich\af43\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 timeline\cell \hich\af0\dbch\af31505\loch\f0 1\cell 
+\hich\af0\dbch\af31505\loch\f0 2 \cell \hich\af0\dbch\af31505\loch\f0 4\cell \hich\af0\dbch\af31505\loch\f0 3\cell }\pard\plain \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch\fcs1 
+\af43\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\af43\hich\af43\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \trowd \irow0\irowband0\ltrrow
+\ts11\trgaph10\trleft0\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind10\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1848\clcbpatraw8 \cellx1848\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx3675\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx5502\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx7329\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1828\clcbpatraw8 \cellx9157\row \ltrrow}\pard\plain \ltrpar\s60\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 \rtlch\fcs1 \af43\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af43\hich\af43\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 jezyk\cell \hich\af0\dbch\af31505\loch\f0 xm
+\hich\af0\dbch\af31505\loch\f0 l / json\cell \hich\af0\dbch\af31505\loch\f0 xml\cell \hich\af0\dbch\af31505\loch\f0 graphgl aka json\cell \hich\af0\dbch\af31505\loch\f0 json / xml - inne plain text csv rss\cell }\pard\plain \ltrpar
+\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch\fcs1 \af43\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\af43\hich\af43\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \trowd \irow1\irowband1\ltrrow\ts11\trgaph10\trleft0\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind10\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 
+\clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth1848\clcbpatraw8 \cellx1848\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr
+\brdrs\brdrw15\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx3675\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx5502\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx7329\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1828\clcbpatraw8 \cellx9157\row \ltrrow}\pard\plain \ltrpar\s60\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 \rtlch\fcs1 \af43\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af43\hich\af43\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \cell \hich\af0\dbch\af31505\loch\f0 rpc\cell \hich\af0\dbch\af31505\loch\f0 soap\cell 
+\hich\af0\dbch\af31505\loch\f0 graphgl\cell \hich\af0\dbch\af31505\loch\f0 rest\cell }\pard\plain \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch\fcs1 \af43\afs24\alang1025 
+\ltrch\fcs0 \fs24\lang1045\langfe1045\loch\af43\hich\af43\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \trowd \irow2\irowband2\ltrrow
+\ts11\trgaph10\trleft0\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind10\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1848\clcbpatraw8 \cellx1848\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx3675\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx5502\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx7329\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1828\clcbpatraw8 \cellx9157\row \ltrrow}\pard\plain \ltrpar\s60\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 \rtlch\fcs1 \af43\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af43\hich\af43\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 protoko\'b3\loch\f0 y\cell \hich\af0\dbch\af31505\loch\f0 
+http\cell \hich\af0\dbch\af31505\loch\f0 \hich\f0 jest sam w sobie protoko\'b3\loch\f0 \hich\f0 em kt\'f3\loch\f0 \hich\f0 ry nak\'b3\loch\f0 \hich\f0 ada si\'ea\loch\f0  na inne np: http, tcp, smtp\cell \hich\af0\dbch\af31505\loch\f0 \hich\f0 
+sam w sobie jest protoko\'b3\loch\f0 \hich\f0 em, kt\'f3\loch\f0 \hich\f0 ry nak\'b3\loch\f0 \hich\f0 ada si\'ea\loch\f0  na http\cell \hich\af0\dbch\af31505\loch\f0 http\cell }\pard\plain \ltrpar\ql \li0\ri0\sa160\sl259\slmult1
+\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch\fcs1 \af43\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\af43\hich\af43\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid11430489\charrsid5797392 \trowd \irow3\irowband3\ltrrow\ts11\trgaph10\trleft0\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind10\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb
+\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth1848\clcbpatraw8 \cellx1848\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx3675\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx5502\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx7329\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1828\clcbpatraw8 \cellx9157\row \ltrrow}\pard\plain \ltrpar\s60\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 \rtlch\fcs1 \af43\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af43\hich\af43\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 po co s\'b9\hich\af0\dbch\af31505\loch\f0 
+? (kontekst logiczny)\cell \hich\af0\dbch\af31505\loch\f0 akcje / funkcje / procedury / komendy\cell \hich\af0\dbch\af31505\loch\f0 \hich\f0 brak - wysy\'b3\loch\f0 \hich\f0 asz kopert\'ea\loch\f0 \hich\f0  w ustandaryzowany na ka\'bf\loch\f0 \hich\f0 
+dy spos\'f3\loch\f0 \hich\f0 b i  z ka\'bf\loch\f0 \hich\f0 dej strony i otrzymujesz r\'f3\loch\f0 \hich\f0 wnie sztywn\'b9\~\loch\f0 \hich\f0 odpowied\'9f\loch\f0 \hich\f0  (mo\'bf\loch\f0 \hich\f0 na wskaza\'e6\loch\f0  jako tag xml)\cell 
+\hich\af0\dbch\af31505\loch\f0 \hich\f0 mapuje relacje mi\'ea\loch\f0 dzy obiektami w bazie danych, two\hich\af0\dbch\af31505\loch\f0 rzy grafy\cell \hich\af0\dbch\af31505\loch\f0 \hich\f0 
+modelowanie domeny, encje (CRUD) create read update delete dla wszsytkich Twoich danych, to nie tylk crud, ale wszystko si\'ea\loch\f0 \hich\f0  kr\'ea\loch\f0 \hich\f0 ci dooko\'b3\'b9\loch\f0  niego\cell }\pard\plain \ltrpar
+\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch\fcs1 \af43\afs24\alang1025 \ltrch\fcs0 \fs24\lang1045\langfe1045\loch\af43\hich\af43\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \trowd \irow4\irowband4\ltrrow\ts11\trgaph10\trleft0\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind10\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 
+\clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth1848\clcbpatraw8 \cellx1848\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr
+\brdrs\brdrw15\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx3675\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx5502\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx7329\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1828\clcbpatraw8 \cellx9157\row \ltrrow}\pard\plain \ltrpar\s60\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 \rtlch\fcs1 \af43\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af43\hich\af43\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 typ zapytania\cell \hich\af0\dbch\af31505\loch\f0 
+GET, pobierz POST wszystko inne\cell \hich\af0\dbch\af31505\loch\f0 POST \cell \hich\af0\dbch\af31505\loch\f0 GET (tylko query), POST (query oraz mutation)\cell \hich\af0\dbch\af31505\loch\f0 w sumie to wszystkie GET POST PUT PATCH OPTION DELETE\cell 
+}\pard\plain \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch\fcs1 \af43\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af43\hich\af43\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \trowd \irow5\irowband5\ltrrow
+\ts11\trgaph10\trleft0\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind10\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1848\clcbpatraw8 \cellx1848\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx3675\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx5502\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx7329\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1828\clcbpatraw8 \cellx9157\row \ltrrow}\pard\plain \ltrpar\s60\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 \rtlch\fcs1 \af43\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af43\hich\af43\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 wz\'f3\loch\f0 r requesty\cell 
+\hich\af0\dbch\af31505\loch\f0 POST /deleteFoo, body: \{id:1\}\cell \hich\af0\dbch\af31505\loch\f0 <?xml version="1.0" encoding="UTF-8"?>
+\par \hich\af0\dbch\af31505\loch\f0 <soapenv:Envelope
+\par \hich\af0\dbch\af31505\loch\f0   duzo lini
+\par \hich\af0\dbch\af31505\loch\f0  <soapenv:Header>
+\par \hich\af0\dbch\af31505\loch\f0  duzo lini
+\par \hich\af0\dbch\af31505\loch\f0  </soapenv:Header>
+\par \hich\af0\dbch\af31505\loch\f0  <soapenv:Body>
+\par \hich\af0\dbch\af31505\loch\f0  duzo lini
+\par \hich\af0\dbch\af31505\loch\f0    <getThis >
+\par \tab \hich\af0\dbch\af31505\loch\f0 ciekawostka nazwa metody!
+\par \tab \hich\af0\dbch\af31505\loch\f0 \hich\f0 jeszcze wi\'ea\loch\f0 cej lini
+\par \hich\af0\dbch\af31505\loch\f0    </getThis>
+\par \hich\af0\dbch\af31505\loch\f0  </soapenv:Body>
+\par \hich\af0\dbch\af31505\loch\f0 </soapenv:Envelope>\cell \hich\af0\dbch\af31505\loch\f0 api/graphql\line body: \{
+\par \{\hich\af0\dbch\af31505\loch\f0 \hich\f0  \'84\loch\f0 \hich\f0 cos\'93\loch\f0 : \line  \{\hich\f0  \'84\loch\f0 \hich\f0 mniejsze co\'9c\loch\f0 ":
+\par \hich\af0\dbch\af31505\loch\f0  \{\hich\f0  \'84\loch\f0 \hich\f0 cosik\'93,\line \loch\f0 \hich\f0     \'84\loch\f0 \hich\f0 co\'9c\'93,\line \loch\f0 \hich\f0     \'84\loch\f0 \hich\f0 kto\'9c\'93
+\par \hich\af0\dbch\af31505\loch\f0  \} 
+\par \}
+\par \}\cell \hich\af0\dbch\af31505\loch\f0 DELETE /foos/1\cell }\pard\plain \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch\fcs1 \af43\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1045\langfe1045\loch\af43\hich\af43\dbch\af31505\cgrid\langnp1045\langfenp1045 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \trowd \irow6\irowband6\lastrow \ltrrow
+\ts11\trgaph10\trleft0\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind10\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1848\clcbpatraw8 \cellx1848\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx3675\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx5502\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1827\clcbpatraw8 \cellx7329\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth1828\clcbpatraw8 \cellx9157\row }\pard \ltrpar\ql \fi566\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \line \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 
+\hich\af0\dbch\af31505\loch\f0 16}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Z k\'b9\loch\f0 \hich\f0 d takie por\'f3\hich\af0\dbch\af31505\loch\f0 \hich\f0 wnanie? Przegrzebuj\'b9\loch\f0 \hich\f0 
+c inernet napotka\'b3\loch\f0 \hich\f0 em si\'ea\loch\f0 \hich\f0  cz\'ea\loch\f0 sto na takie pytanie}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \line \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 17}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 
+\hich\af0\dbch\af31505\loch\f0 \hich\f0 Roy Fielding w 2000 napisa\'b3\loch\f0 \hich\f0  prac\'ea\~\loch\f0 \hich\f0 doktoranck\'b9\loch\f0 \hich\f0  gdzie zaprezentowa\'b3\loch\f0 \hich\f0  wzorze\'e6\loch\f0 
+ REST (link do pracy a sam RESTA jest opisany w 5 rozdziale)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid14118520 
 \par 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid14118520\charrsid14118520 \hich\af0\dbch\af31505\loch\f0 20
-\par \hich\af0\dbch\af31505\loch\f0 Expires \hich\f0 \endash \loch\f0 \hich\f0  data wyga\'9c\loch\f0 \hich\f0 ni\'ea\loch\f0 cia danych. Kiedy term\hich\af0\dbch\af31505\loch\f0 \hich\f0 in up\'b3\loch\f0 \hich\f0 ynie, zas\'f3\loch\f0 \hich\f0 b musi zosta
-\'e6\loch\f0 \hich\f0  pobrany z serwera i mo\'bf\loch\f0 \hich\f0 e by\'e6\loch\f0 \hich\f0  ponownie zapami\'ea\loch\f0 tany.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid14118520 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid14118520\charrsid14118520 \hich\af0\dbch\af31505\loch\f0 Expires \hich\f0 \endash \loch\f0 \hich\f0  data wyga\'9c
+\loch\f0 \hich\f0 ni\'ea\loch\f0 cia danych. Kiedy term\hich\af0\dbch\af31505\loch\f0 \hich\f0 in up\'b3\loch\f0 \hich\f0 ynie, zas\'f3\loch\f0 \hich\f0 b musi zosta\'e6\loch\f0 \hich\f0  pobrany z serwera i mo\'bf\loch\f0 \hich\f0 e by\'e6\loch\f0 
+\hich\f0  ponownie zapami\'ea\loch\f0 tany.
 \par \hich\af0\dbch\af31505\loch\f0 Cache-Control \hich\f0 \endash \loch\f0 \hich\f0  definiuje czy zas\'f3\loch\f0 \hich\f0 b powinien by\'e6\loch\f0 \hich\f0  zapami\'ea\loch\f0 \hich\f0 tany oraz na jak d\'b3\loch\f0 ugo.
 \par \hich\af0\dbch\af31505\loch\f0 ETag \hich\f0 \endash \loch\f0 \hich\f0  unikalny identyfikator / token, bezpo\'9c\loch\f0 \hich\f0 rednio powi\'b9\loch\f0 \hich\f0 zany z zapami\'ea\loch\f0 tanym zasobem. Zmienia s\hich\af0\dbch\af31505\loch\f0 \hich\f0 i
 \'ea\loch\f0 \hich\f0  w momencie aktualizacji warto\'9c\loch\f0 ci.
 \par \hich\af0\dbch\af31505\loch\f0 Last-Modified \hich\f0 \endash \loch\f0 \hich\f0  okre\'9c\loch\f0 \hich\f0 la, kiedy zas\'f3\loch\f0 \hich\f0 b zosta\'b3\loch\f0  zaktualizowany / zmodyfikowany.}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\insrsid11430489\charrsid5797392 \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 
-\par \hich\af0\dbch\af31505\loch\f0 24\line \hich\f0 Tak wi\'ea\loch\f0 c, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid734740\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 om\'f3\loch\f0 \hich\f0 wili\'9c\loch\f0 my sobie}{\rtlch\fcs1 \af0 
-\ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0  techniczn}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid734740\charrsid5797392 \loch\af0\dbch\af31505\hich\f0 \'b9}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0  definicja REST}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid734740\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 a}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 . Jak to wygl\'b9\loch\f0 \hich\f0 da w prawdziwym \'9c\loch\f0 wiecie?
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid734740\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 Ten model}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0  dos\'b3\loch\f0 
-\hich\f0 ownie i w przeno\'9c\loch\f0 \hich\f0 ni koreluje si\'ea\hich\af0\dbch\af31505\loch\f0 \hich\f0  z nasz\'b9\loch\f0 \hich\f0  frontow\'b9\loch\f0 \hich\f0  grafik\'b9\loch\f0 \hich\f0 , kt\'f3\loch\f0 \hich\f0 ra zosta\'b3\loch\f0 \hich\f0 
-a zainspirowana wydarzeniami na faktach autentycznych (ala p\'b3\loch\f0 \hich\f0 aczek z halmarku), gdzie pierwszym skojarzeniem prawdopodobnie nas wszystkich na pytanie co to jest API by\'b3\loch\f0 \hich\f0 o \'84\loch\f0 \hich\f0 takie RESTowe\'94}{
-\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 24\line \hich\f0 Tak wi\'ea\loch\f0 c, }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\highlight7\insrsid734740\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 om\'f3\loch\f0 \hich\f0 wili\'9c\loch\f0 my sobie}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0  techniczn}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid734740\charrsid5797392 \loch\af0\dbch\af31505\hich\f0 \'b9}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0  definicja REST}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\highlight7\insrsid734740\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 a}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 . Jak to wygl\'b9\loch\f0 \hich\f0 
+da w prawdziwym \'9c\loch\f0 wiecie?
+\par }\pard \ltrpar\ql \fi566\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid734740\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 Ten model}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0  dos\'b3\loch\f0 \hich\f0 ownie i w przeno\'9c\loch\f0 \hich\f0 ni koreluje si\'ea\hich\af0\dbch\af31505\loch\f0 \hich\f0  z nasz\'b9\loch\f0 \hich\f0  frontow\'b9
+\loch\f0 \hich\f0  grafik\'b9\loch\f0 \hich\f0 , kt\'f3\loch\f0 \hich\f0 ra zosta\'b3\loch\f0 \hich\f0 a zainspirowana wydarzeniami na faktach autentycznych (ala p\'b3\loch\f0 \hich\f0 
+aczek z halmarku), gdzie pierwszym skojarzeniem prawdopodobnie nas wszystkich na pytanie co to jest API by\'b3\loch\f0 \hich\f0 o \'84\loch\f0 \hich\f0 takie RESTowe\'94}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
 \par 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11151313\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 W}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 iele serwis\'f3\loch\f0 
 \hich\f0 w \'b3\loch\f0 amie zasady w \hich\af0\dbch\af31505\loch\f0 \hich\f0 taki czy inny spos\'f3\loch\f0 \hich\f0 b, ale nadal potocznie okre\'9c\loch\f0 \hich\f0 la si\'ea\loch\f0 \hich\f0  je mianem RESTowymi. Dlatego Leonard Richardson stworzy\'b3
@@ -195,18 +292,18 @@ a zainspirowana wydarzeniami na faktach autentycznych (ala p\'b3\loch\f0 \hich\f
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid751664\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 25
 \par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Zazwyczaj model ten jest przedstawiany jako piramida gdzie 0 jest na samym dole za\'9c\loch\f0 \hich\f0  3 na g\'f3\loch\f0 rze.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid1195506\charrsid5797392 
 \par 
-\par }\pard \ltrpar\ql \li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0\pararsid1263476 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 0 \hich\f0 \endash }{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\highlight7\insrsid1195506\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 SWAMP }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid149881\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Bagno POX (Plain Old XML) oznacza, \'bf\loch\f0 
-\hich\f0 e u\'bf\loch\f0 \hich\f0 ywasz HTTP. Technicznie rzecz bior\'b9\loch\f0 \hich\f0 c, us\'b3\loch\f0 \hich\f0 ugi REST mog\'b9\loch\f0 \hich\f0  by\'e6\loch\f0 \hich\f0  \'9c\loch\f0 \hich\f0 wiadczone za po\'9c\loch\f0 \hich\f0 
-rednictwem dowolnego protoko\'b3\loch\f0 \hich\f0 u warstwy aplikacji, o ile s\'b9\loch\f0 \hich\f0  zgodne z okre\'9c\loch\f0 \hich\f0 lonymi w\'b3\loch\f0 \hich\f0 a\'9c\loch\f0 \hich\f0 ciwo\'9c\loch\f0 \hich\f0 ciami. W praktyce w zasadzie ka\'bf
-\loch\f0 dy korz\hich\af0\dbch\af31505\loch\f0 \hich\f0 ysta z HTTP. Us\'b3\loch\f0 \hich\f0 ugi te maj\'b9\loch\f0 \hich\f0  pojedynczy identyfikator URI i u\'bf\loch\f0 \hich\f0 ywaj\'b9\loch\f0 \hich\f0  jednej metody HTTP (zazwyczaj POST). S\'b9
-\loch\f0  to najbardziej prymitywne sposoby budowania aplikacji SOA}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid16481695\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0  Architektura zorientowana na us\'b3\loch\f0 
-ugi (ang. service-oriented architecture, SOA)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid149881\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0  za pomoc\'b9\hich\af0\dbch\af31505\loch\f0 \hich\f0  jednej metody POST i u\'bf\loch\f0 
-\hich\f0 ywania XML do komunikacji mi\'ea\loch\f0 \hich\f0 dzy us\'b3\loch\f0 \hich\f0 ugami. Poziom dojrza\'b3\loch\f0 \hich\f0 o\'9c\loch\f0 \hich\f0 ci zero nie korzysta z \'bf\loch\f0 adnych funkcji URI, http i HATEOAS.}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\highlight7\insrsid16481695\charrsid5797392 \line \hich\af0\dbch\af31505\loch\f0 \hich\f0 ALE MIMO TO API POWINNO PRZESTRZEGA\'c6\loch\f0 \hich\f0  PEWNYCH REG\'d3\'a3\loch\f0 \hich\f0  (O TYM P\'d3\'8f\loch\f0 NIEJ)}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\highlight7\insrsid149881\charrsid5797392 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid149881\charrsid5797392 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10102699\charrsid5797392 \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid10102699\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 lista regu\'b3\loch\f0 :}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\highlight7\insrsid5797392\charrsid5797392 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 0 \hich\f0 \endash }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid1195506\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 SWAMP }{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid149881\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Bagno POX (Plain Old XML) oznacza, \'bf\loch\f0 \hich\f0 e u\'bf\loch\f0 \hich\f0 ywasz HTTP. Technicznie rzecz bior\'b9\loch\f0 \hich\f0 
+c, us\'b3\loch\f0 \hich\f0 ugi REST mog\'b9\loch\f0 \hich\f0  by\'e6\loch\f0 \hich\f0  \'9c\loch\f0 \hich\f0 wiadczone za po\'9c\loch\f0 \hich\f0 rednictwem dowolnego protoko\'b3\loch\f0 \hich\f0 u warstwy aplikacji, o ile s\'b9\loch\f0 \hich\f0 
+ zgodne z okre\'9c\loch\f0 \hich\f0 lonymi w\'b3\loch\f0 \hich\f0 a\'9c\loch\f0 \hich\f0 ciwo\'9c\loch\f0 \hich\f0 ciami. W praktyce w zasadzie ka\'bf\loch\f0 dy korz\hich\af0\dbch\af31505\loch\f0 \hich\f0 ysta z HTTP. Us\'b3\loch\f0 \hich\f0 ugi te maj
+\'b9\loch\f0 \hich\f0  pojedynczy identyfikator URI i u\'bf\loch\f0 \hich\f0 ywaj\'b9\loch\f0 \hich\f0  jednej metody HTTP (zazwyczaj POST). S\'b9\loch\f0  to najbardziej prymitywne sposoby budowania aplikacji SOA}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\highlight7\insrsid16481695\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0  Architektura zorientowana na us\'b3\loch\f0 ugi (ang. service-oriented architecture, SOA)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid149881\charrsid5797392 
+\hich\af0\dbch\af31505\loch\f0 \hich\f0  za pomoc\'b9\hich\af0\dbch\af31505\loch\f0 \hich\f0  jednej metody POST i u\'bf\loch\f0 \hich\f0 ywania XML do komunikacji mi\'ea\loch\f0 \hich\f0 dzy us\'b3\loch\f0 \hich\f0 ugami. Poziom dojrza\'b3\loch\f0 
+\hich\f0 o\'9c\loch\f0 \hich\f0 ci zero nie korzysta z \'bf\loch\f0 adnych funkcji URI, http i HATEOAS.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid16481695\charrsid5797392 \line \hich\af0\dbch\af31505\loch\f0 \hich\f0 
+ALE MIMO TO API POWINNO PRZESTRZEGA\'c6\loch\f0 \hich\f0  PEWNYCH REG\'d3\'a3\loch\f0 \hich\f0  (O TYM P\'d3\'8f\loch\f0 NIEJ)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid149881\charrsid5797392 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\insrsid149881\charrsid5797392 
+\par }\pard \ltrpar\ql \li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0\pararsid10102699 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10102699\charrsid5797392 \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid10102699\charrsid5797392 
+\hich\af0\dbch\af31505\loch\f0 \hich\f0 lista regu\'b3\loch\f0 :}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid5797392\charrsid5797392 
 \par \hich\af0\dbch\af31505\loch\f0 1}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid10102699\charrsid5797392 \line \hich\af0\dbch\af31505\loch\f0 \hich\f0 Aby URI by\'b3\loch\f0 \hich\f0 y \'b3\loch\f0 atwe do skanowa\hich\af0\dbch\af31505\loch\f0 
 \hich\f0 nia i interpretowania przez ludzi, u\'bf\loch\f0 \hich\f0 ywaj znaku my\'9c\loch\f0 \hich\f0 lnika (-) w celu poprawy czytelno\'9c\loch\f0 \hich\f0 ci nazw w d\'b3\loch\f0 \hich\f0 ugich segmentach \'9c\loch\f0 \hich\f0 cie\'bf\loch\f0 \hich\f0 
 ek. Wsz\'ea\loch\f0 \hich\f0 dzie tam, gdzie w jakimkolwiek j\'ea\loch\f0 \hich\f0 zyku u\'bf\loch\f0 \hich\f0 yto by spacji lub my\'9c\loch\f0 \hich\f0 lnika, nale\'bf\loch\f0 \hich\f0 y u\'bf\loch\f0 \hich\f0 y\'e6\loch\f0 \hich\f0  my\'9c\loch\f0 
@@ -219,92 +316,162 @@ lnika w URI.
 kowicie ukryty przez to podkre\'9c\loch\f0 lenie.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid13007453\charrsid5797392 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid5797392\charrsid5797392 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid5797392\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 3\line \hich\f0 Trudno by\'b3\loch\f0 o\hich\af0\dbch\af31505\loch\f0 \hich\f0  mi znale\'9f\'e6\loch\f0 \hich\f0  konkretny pow\'f3\loch\f0 
-\hich\f0 d, w specyfikacji znalaz\'b3\loch\f0 \hich\f0 em informacj\'ea\loch\f0 \hich\f0 , \'bf\loch\f0 \hich\f0 e tak powinno by\'e6\loch\f0  }{\rtlch\fcs1 \af42 \ltrch\fcs0 \f42\highlight7\insrsid5797392\charrsid5797392 \loch\af42\dbch\af31505\hich\f42 
-\u-10179\'3f\u-8694\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid5797392\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0  od strony klienta nie ma to znaczenia, ale dla niekt\'f3\loch\f0 \hich\f0 rych serwer\'f3\loch\f0 \hich\f0 w mo
-\'bf\loch\f0 \hich\f0 e mie\'e6\loch\f0 \hich\f0  np. dla IIS nie ma to znaczenia ale dla Apache ju\'bf\loch\f0  tak.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid5797392 
-\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid8076758 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid15667986 
-\par }\pard \ltrpar\ql \li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0\pararsid4194669 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid15667986\charrsid15667986 \hich\af0\dbch\af31505\loch\f0 4
-\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Interfejs API REST nie powinien zawiera\'e6\loch\f0 \hich\f0  sztucznych rozszerze\'f1\loch\f0 \hich\f0  plik\'f3\loch\f0 \hich\f0 w w URI, aby wskaza\'e6\loch\f0 \hich\f0  format tre\'9c\loch\f0 \hich\f0 ci wiadomo
-\'9c\loch\f0 \hich\f0 ci. Zamiast tego, powinny one polega\'e6\loch\f0 \hich\f0  na typie medi\'f3\loch\f0 w, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid15667986 \hich\af0\dbch\af31505\loch\f0 \hich\f0 przekazywanym za pomoc\'b9\loch\f0 
-\hich\f0  nagl\'f3\loch\f0 wka}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid15667986\charrsid15667986 \hich\af0\dbch\af31505\loch\f0  Content-Typ}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid15667986 \hich\af0\dbch\af31505\loch\f0 e}{
-\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid15667986\charrsid15667986 \hich\af0\dbch\af31505\loch\f0 \hich\f0 , aby okre\'9c\loch\f0 \hich\f0 li\'e6\loch\f0 \hich\f0 , jak przetwarza\'e6\loch\f0 \hich\f0  zawarto\'9c\'e6\loch\f0  cia
-\loch\af0\dbch\af31505\hich\f0 \'b3\loch\f0 a.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid15667986\charrsid5797392 
-\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid8076758 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1195506\charrsid5797392 
+\hich\f0 d, w specyfikacji znalaz\'b3\loch\f0 \hich\f0 em informacj\'ea\loch\f0 \hich\f0 , \'bf\loch\f0 \hich\f0 e tak powinno by\'e6\loch\f0  }{\rtlch\fcs1 \af42 \ltrch\fcs0 \f42\highlight7\insrsid5797392\charrsid5797392 \u-10179\'3f\u-8694\'3f}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid5797392\charrsid5797392  od strony klienta nie ma to znaczenia, ale dla niekt\'f3rych serwer\'f3w mo\'bfe mie\'e6 np. dla IIS nie ma to znaczenia ale dla Apache ju\'bf tak.}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid5797392 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid15667986 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid15667986\charrsid15667986 4
+\par }\pard \ltrpar\ql \li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0\pararsid15667986 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid15667986\charrsid15667986 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Interfejs API REST nie powinien zawiera\'e6
+\loch\f0 \hich\f0  sztucznych rozszerze\'f1\loch\f0 \hich\f0  plik\'f3\loch\f0 \hich\f0 w w URI, aby wskaza\'e6\loch\f0 \hich\f0  format tre\'9c\loch\f0 \hich\f0 ci wiadomo\'9c\loch\f0 \hich\f0 ci. Zamiast tego, powinny one polega\'e6\loch\f0 \hich\f0 
+ na typie medi\'f3\loch\f0 w, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid15667986 \hich\af0\dbch\af31505\loch\f0 \hich\f0 przekazywanym za pomoc\'b9\loch\f0 \hich\f0  nagl\'f3\loch\f0 wka}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\highlight7\insrsid15667986\charrsid15667986 \hich\af0\dbch\af31505\loch\f0  Content-Typ}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid15667986 \hich\af0\dbch\af31505\loch\f0 e}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\highlight7\insrsid15667986\charrsid15667986 \hich\af0\dbch\af31505\loch\f0 \hich\f0 , aby okre\'9c\loch\f0 \hich\f0 li\'e6\hich\af0\dbch\af31505\loch\f0 \hich\f0 , jak przetwarza\'e6\loch\f0 \hich\f0  zawarto\'9c\'e6\loch\f0 \hich\f0  cia\'b3\loch\f0 
+a.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid15667986\charrsid5797392 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1195506\charrsid5797392 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 1 \hich\f0 \endash \loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid149881\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 
 Zasoby to podstawowe fragmenty danych, na kt\'f3\loch\f0 \hich\f0 rych dzia\'b3\loch\f0 \hich\f0 a aplikacja. B\'ea\loch\f0 \hich\f0 d\'b9\loch\f0 \hich\f0  one cz\'ea\loch\f0 \hich\f0 sto odpowiada\'e6\loch\f0 \hich\f0 
- modelom w aplikacji. Projektowanie interfejs\'f3\loch\f0 \hich\f0 w API na poziomie 1 polega na u\'bf\loch\f0 \hich\f0 ywaniu r\'f3\'bf\loch\f0 \hich\f0 nych adres\'f3\loch\f0 \hich\f0 w URL do interakcji z r\'f3\'bf\hich\af0\dbch\af31505\loch\f0 
+ modelom w aplikacji. Projektowanie interfejs\'f3\loch\f0 \hich\f0 w API na poziomie 1 polega na u\'bf\loch\f0 \hich\f0 ywaniu r\'f3\'bf\loch\f0 \hich\f0 nych adres\'f3\loch\f0 w URL do interakcji z r\loch\af0\dbch\af31505\hich\f0 \'f3\'bf\loch\f0 
 nymi zasobami w aplikacji. }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid149881 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid3888797 
-\par }\pard \ltrpar\ql \li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0\pararsid4194669 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12527990\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 lista regu\'b3\loch\f0 :
+\par }\pard \ltrpar\ql \li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0\pararsid12527990 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12527990\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 lista regu\'b3\loch\f0 :
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid5593028 \hich\af0\dbch\af31505\loch\f0 2}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12527990\charrsid5797392 \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\highlight7\insrsid12527990\charrsid12527990 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Jest to jedna z najwa\'bf\loch\f0 \hich\f0 niejszych zasad do przestrzegania, poniewa\'bf\loch\f0 \hich\f0  ostatni znak w \'9c\loch\f0 \hich\f0 cie\'bf\loch\f0 
-\hich\f0 ce URI, uko\'9c\loch\f0 \hich\f0 nik (/) nie dodaje \'bf\loch\f0 \hich\f0 adnej warto\'9c\loch\f0 \hich\f0 ci semantycznej i mo\'bf\loch\f0 \hich\f0 e powodowa\'e6\loch\f0  zamieszanie. Interfejsy REST API nie powinny ocze
-\hich\af0\dbch\af31505\loch\f0 \hich\f0 kiwa\'e6\loch\f0 \hich\f0  uko\'9c\loch\f0 \hich\f0 nika ko\'f1\loch\f0 \hich\f0 cowego i nie powinny zawiera\'e6\loch\f0 \hich\f0  ich w linkach, kt\'f3\loch\f0 \hich\f0 re dostarczaj\'b9\loch\f0  klientom.}{
+\hich\f0 ce URI, uko\'9c\loch\f0 \hich\f0 nik (/) nie dodaje \'bf\loch\f0 \hich\f0 adnej warto\'9c\loch\f0 \hich\f0 ci semantycznej i mo\'bf\loch\f0 \hich\f0 e powodowa\'e6\loch\f0  zamieszanie. Interfejsy REST API nie powinny oc
+\hich\af0\dbch\af31505\loch\f0 \hich\f0 zekiwa\'e6\loch\f0 \hich\f0  uko\'9c\loch\f0 \hich\f0 nika ko\'f1\loch\f0 \hich\f0 cowego i nie powinny zawiera\'e6\loch\f0 \hich\f0  ich w linkach, kt\'f3\loch\f0 \hich\f0 re dostarczaj\'b9\loch\f0  klientom.}{
 \rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12527990 \hich\af0\dbch\af31505\loch\f0 \hich\f0  To jest tak jak kto\'9c\loch\f0 \hich\f0  co\'9c\loch\f0 \hich\f0  ci powiada / m\'f3\loch\f0 \hich\f0 wi i ko\'f1\loch\f0 \hich\f0 czy zdanie s\'b3
 \loch\f0 \hich\f0 owem wi\'ea\loch\f0 \hich\f0 c, huj wie czy si\'ea\loch\f0 \hich\f0  czego\'9c\loch\f0 \hich\f0  spodziewa\'e6\loch\f0 \hich\f0  czy b\'ea\loch\f0 \hich\f0 dzie kontynuowa\'b3\loch\f0 \hich\f0  swoje przemy\'9c\loch\f0 lenia dalej}{
 \rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12527990\charrsid5797392 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12273224 
+\par }\pard \ltrpar\ql \li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0\pararsid12273224 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12273224 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid13447930 \hich\af0\dbch\af31505\loch\f0 4}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid2698004\charrsid2698004 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid7340613 \hich\af0\dbch\af31505\loch\f0 Przeszuk\hich\af0\dbch\af31505\loch\f0 \hich\f0 uj\'b9\loch\f0 \hich\f0 c Internet napotka\'b3\loch\f0 \hich\f0 em si\'ea\loch\f0 \hich\f0  na wiele przyk\'b3
-\loch\f0 \hich\f0 ad\'f3\loch\f0 \hich\f0 w gdzie jest u\'bf\loch\f0 yta liczba mnoga jak i liczba pojedyncza \hich\f0 \endash \loch\f0 \hich\f0  osobi\'9c\loch\f0 \hich\f0 cie nauczono mnie aby by\'b3\loch\f0 \hich\f0 a to liczba mnoga, kt\'f3\loch\f0 
-\hich\f0 r\'b9\loch\f0 \hich\f0  stosuj\'ea\loch\f0  \hich\f0 \endash \loch\f0 \hich\f0  generalnie co by\'9c\loch\f0 \hich\f0  nie wybra\'b3\loch\f0 \hich\f0  B\'a5\loch\f0 \hich\f0 D\'8f\loch\f0  KONSEKWENTY}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\highlight7\insrsid2698004\charrsid2698004 
-\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid8076758 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid1195506\charrsid5797392 
+\par }\pard \ltrpar\ql \li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0\pararsid2698004 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid7340613 \hich\af0\dbch\af31505\loch\f0 Przesz\hich\af0\dbch\af31505\loch\f0 \hich\f0 ukuj\'b9\loch\f0 \hich\f0 
+c Internet napotka\'b3\loch\f0 \hich\f0 em si\'ea\loch\f0 \hich\f0  na wiele przyk\'b3\loch\f0 \hich\f0 ad\'f3\loch\f0 \hich\f0 w gdzie jest u\'bf\loch\f0 yta liczba mnoga jak i liczba pojedyncza \hich\f0 \endash \loch\f0 \hich\f0  osobi\'9c\loch\f0 
+\hich\f0 cie nauczono mnie aby by\'b3\loch\f0 \hich\f0 a to liczba mnoga, kt\'f3\loch\f0 \hich\f0 r\'b9\loch\f0 \hich\f0  stosuj\'ea\loch\f0  \hich\f0 \endash \loch\f0 \hich\f0  generalnie co by\'9c\loch\f0 \hich\f0  nie wybra\'b3\loch\f0 \hich\f0  B\'a5
+\loch\f0 \hich\f0 D\'8f\loch\f0  KONSEKWENTY}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid2698004\charrsid2698004 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid1195506\charrsid5797392 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 2 \hich\f0 \endash \loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid1195506\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 
-Dzi\'ea\loch\f0 \hich\f0 ki czasownikom HTTP mamy dost\'ea\hich\af0\dbch\af31505\loch\f0 \hich\f0 p do tego samego zasobu / adresu, ale winnym kontek\'9c\loch\f0 \hich\f0 cie. Je\'9c\loch\f0 \hich\f0 li chcemy uzyska\'e6\loch\f0 \hich\f0  list\'ea
-\loch\f0 \hich\f0  stron, wysy\'b3\loch\f0 \hich\f0 amy \'bf\'b9\loch\f0 danie GET do /page}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid8747713\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 s}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+Dzi\'ea\loch\f0 ki czasownikom HTTP mamy dos\hich\af0\dbch\af31505\loch\f0 \hich\f0 t\'ea\loch\f0 \hich\f0 p do tego samego zasobu / adresu, ale winnym kontek\'9c\loch\f0 \hich\f0 cie. Je\'9c\loch\f0 \hich\f0 li chcemy uzyska\'e6\loch\f0 \hich\f0  list
+\'ea\loch\f0 \hich\f0  stron, wysy\'b3\loch\f0 \hich\f0 amy \'bf\'b9\loch\f0 danie GET do /page}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid8747713\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 s}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\highlight7\insrsid1195506\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 , ale je\'9c\loch\f0 \hich\f0 li chcemy utworzy\'e6\loch\f0 \hich\f0  now\'b9\loch\f0 \hich\f0  stron\'ea\loch\f0 \hich\f0 , u\'bf\loch\f0 ywamy POST}{\rtlch\fcs1 \af0 
 \ltrch\fcs0 \f0\highlight7\insrsid8747713\charrsid5797392 \hich\af0\dbch\af31505\loch\f0  do /pages}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid1195506\charrsid5797392 
 \par 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid13962453 \hich\af0\dbch\af31505\loch\f0 3 \hich\f0 \endash }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid8150257\charrsid13962453 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Sk\'b3
 \loch\f0 \hich\f0 adaj\'b9\loch\f0 \hich\f0  si\'ea\loch\f0 \hich\f0  na to dwie cz\'ea\'9c\loch\f0 \hich\f0 ci: negocjacje tre\'9c\hich\af0\dbch\af31505\loch\f0 \hich\f0 ci i HATEOAS. Negocjacje tre\'9c\loch\f0 \hich\f0 ci koncentruj\'b9\loch\f0 
-\hich\f0  si\'ea\loch\f0 \hich\f0  na r\'f3\'bf\loch\f0 \hich\f0 nych reprezentacjach konkretnego zasobu. Negocjacja tre\'9c\loch\f0 ci }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid16481695\charrsid13962453 \hich\af0\dbch\af31505\loch\f0 o}{
-\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid8150257\charrsid13962453 \hich\af0\dbch\af31505\loch\f0 \hich\f0 g\'f3\loch\f0 \hich\f0 lnie rzecz bior\'b9\loch\f0 c,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid16481695\charrsid13962453 
-\hich\af0\dbch\af31505\loch\f0 \hich\f0  to wys\'b3\loch\f0 \hich\f0 anie przez klienta pro\'9c\loch\f0 \hich\f0 by aby zwr\'f3\loch\f0 \hich\f0 cony zas\'f3\loch\f0 \hich\f0 b by\'b3\loch\f0  odpowiednio sformatowany}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\highlight7\insrsid8150257\charrsid13962453 .}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid13962453\charrsid13962453 \hich\af0\dbch\af31505\loch\f0  
-\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 HATEOAS dotyczy wykrywalno\'9c\loch\f0 \hich\f0 ci dzia\'b3\loch\f0 \hich\f0 a\'f1\loch\f0  \hich\af0\dbch\af31505\loch\f0 \hich\f0 na zasobie, inaczej m\'f3\loch\f0 \hich\f0 wi\'b9\loch\f0 \hich\f0 
-c dodawanie do response danych kt\'f3\loch\f0 \hich\f0 re odkrywaj\'b9\loch\f0 \hich\f0  klientowi cz\'ea\'9c\'e6\loch\f0 \hich\f0  lub ca\'b3\loch\f0 \hich\f0 o\'9c\'e6\loch\f0  API.
-\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Zapewnia on \'b3\loch\f0 \hich\f0 atwo\'9c\'e6\loch\f0 \hich\f0  nawigacji po zasobie i dost\'ea\loch\f0 \hich\f0 pnych w nim akcjach. W ten spos\'f3\loch\f0 \hich\f0 b klient nie musi wiedzie\'e6\loch\f0 \hich\f0 
-, jak wchodzi\'e6\loch\f0 \hich\f0  w interakcj\'ea\loch\f0 \hich\f0  z aplikacj\'b9\loch\f0  w celu\hich\af0\dbch\af31505\loch\f0 \hich\f0  wykonania r\'f3\'bf\loch\f0 \hich\f0 nych akcji, poniewa\'bf\loch\f0 \hich\f0  wszystkie metadane b\'ea\loch\f0 
-\hich\f0 d\'b9\loch\f0  zawarte w odpowiedziach serwera.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489 
-\par }\pard \ltrpar\ql \li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0\pararsid4194669 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12483092 \hich\af0\dbch\af31505\loch\f0 accept}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\hich\f0  si\'ea\loch\f0 \hich\f0  na r\'f3\'bf\loch\f0 nych reprezentacjach konkretnego zasobu\hich\af0\dbch\af31505\loch\f0 \hich\f0 . Negocjacja tre\'9c\loch\f0 ci\hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\highlight7\insrsid16481695\charrsid13962453 \hich\af0\dbch\af31505\loch\f0 o}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid8150257\charrsid13962453 \hich\af0\dbch\af31505\loch\f0 \hich\f0 g\'f3\loch\f0 \hich\f0 lnie rzecz bior\'b9\loch\f0 c,}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid16481695\charrsid13962453 \hich\af0\dbch\af31505\loch\f0 \hich\f0  to wys\'b3\loch\f0 \hich\f0 anie przez klienta pro\'9c\loch\f0 \hich\f0 by aby zwr\'f3\loch\f0 \hich\f0 cony zas\'f3\loch\f0 \hich\f0 
+b by\'b3\loch\f0  odpowiednio sformatowany}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid8150257\charrsid13962453 .}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid13962453\charrsid13962453 \hich\af0\dbch\af31505\loch\f0  
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid13962453\charrsid13962453 \hich\af0\dbch\af31505\loch\f0 \hich\f0 HATEOAS dotyczy wykrywalno\'9c\loch\f0 \hich\f0 ci dzia\'b3\loch\f0 \hich\f0 a\'f1\loch\f0  na zasobie\hich\af0\dbch\af31505\loch\f0 
+\hich\f0 , inaczej m\'f3\loch\f0 \hich\f0 wi\'b9\loch\f0 \hich\f0 c dodawanie do response danych kt\'f3\loch\f0 \hich\f0 re odkrywaj\'b9\loch\f0 \hich\f0  klientowi cz\'ea\'9c\'e6\loch\f0 \hich\f0  lub ca\'b3\loch\f0 \hich\f0 o\'9c\'e6\loch\f0  API.}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid13962453\charrsid13962453 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid13962453\charrsid13962453 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Zapewnia on \'b3\loch\f0 \hich\f0 atwo\'9c\'e6\loch\f0 \hich\f0  nawigacji po zasobie i dost\'ea\loch\f0 \hich\f0 
+pnych w nim akcjach. W ten spos\'f3\loch\f0 \hich\f0 b klient nie musi wiedzie\'e6\loch\f0 \hich\f0 , jak wchodzi\'e6\loch\f0 \hich\f0  w interakcj\'ea\loch\f0 \hich\f0  z aplikacj\'b9\loch\f0 \hich\f0  w celu wykonania r\'f3\'bf\loch\f0 \hich\f0 
+nych akcji, poniewa\'bf\loch\f0 \hich\f0  wszystkie metadane b\'ea\loch\f0 \hich\f0 d\'b9\loch\f0  zawarte w odpowiedziach serwera.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489 
+
+\par }\pard \ltrpar\ql \li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0\pararsid12483092 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12483092 \hich\af0\dbch\af31505\loch\f0 accept}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\highlight7\insrsid12483092\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 :}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12483092 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12483092\charrsid12483092 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Accept: application/json - klient chce otrzyma\'e6\loch\f0 \hich\f0  odpowied\'9f\loch\f0 \hich\f0 
- w formacie JSON. Zadaniem serwera jest teraz okre\'9c\loch\f0 \hich\f0 lenie, czy mo\'bf\loch\f0 \hich\f0 e on zwr\'f3\loch\f0 \hich\f0 ci\'e6\loch\f0 \hich\f0  tak\'b9\loch\f0 \hich\f0  reprezentacj\'ea.
-\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Je\'9c\loch\f0 \hich\f0 li serwer nie mo\'bf\loch\f0 \hich\f0 e zwr\'f3\loch\f0 \hich\f0 ci\'e6\loch\f0 \hich\f0  JSON, musi poinformowa\'e6\loch\f0 \hich\f0  o tym klienta. S\'b3\loch\f0 \hich\f0 u\'bf\loch\f0 
-\hich\f0 y do tego kod stanu 406 Not Acceptable: idealnie by\'b3\loch\f0 \hich\f0 oby, gdyby serwer wskaza\'b3\loch\f0 \hich\f0  r\'f3\loch\f0 \hich\f0 wnie\'bf\loch\f0 \hich\f0 , jakie typy medi\'f3\loch\f0 \hich\f0 w mo\'bf\loch\f0 \hich\f0 e zwr\'f3
-\loch\f0 \hich\f0 ci\'e6\loch\f0 \hich\f0 ; nie jest jednak do tego zobowi\'b9\loch\f0 \hich\f0 zany. Mo\'bf\loch\f0 \hich\f0 e to zrobi\'e6\loch\f0 \hich\f0  za pomoc\'b9\loch\f0  C\hich\af0\dbch\af31505\loch\f0 o\hich\af0\dbch\af31505\loch\f0 
-ntent-Type w odpowiedzi.
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12483092\charrsid12483092 \hich\af0\dbch\af31505\loch\f0 Accept: appli\hich\af0\dbch\af31505\loch\f0 cation/json}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12483092\charrsid12483092 
+\hich\af0\dbch\af31505\loch\f0  - k}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12483092\charrsid12483092 \hich\af0\dbch\af31505\loch\f0 \hich\f0 lient chce otrzyma\'e6\loch\f0 \hich\f0  odpowied\'9f\loch\f0 \hich\f0 
+ w formacie JSON. Zadaniem serwera jest teraz okre\'9c\loch\f0 \hich\f0 lenie, czy mo\'bf\loch\f0 \hich\f0 e on zwr\'f3\loch\f0 \hich\f0 ci\'e6\loch\f0 \hich\f0  tak\'b9\loch\f0 \hich\f0  reprezentacj\'ea.}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\highlight7\insrsid12483092\charrsid12483092 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12483092\charrsid12483092 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Je\'9c\loch\f0 \hich\f0 li serwer nie mo\'bf\loch\f0 \hich\f0 e zwr\'f3\loch\f0 \hich\f0 ci\'e6\loch\f0 \hich\f0  JSON, musi poinformowa
+\'e6\loch\f0 \hich\f0  o tym klienta. S\'b3\loch\f0 \hich\f0 u\'bf\loch\f0 y do tego kod stanu 406 Not Acceptable:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12483092\charrsid12483092 \hich\af0\dbch\af31505\loch\f0  i}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\highlight7\insrsid12483092\charrsid12483092 \hich\af0\dbch\af31505\loch\f0 dealnie\hich\af0\dbch\af31505\loch\f0 \hich\f0  by\'b3\loch\f0 \hich\f0 oby, gdyby serwer wskaza\'b3\loch\f0 \hich\f0  r\'f3\loch\f0 \hich\f0 wnie\'bf\loch\f0 
+\hich\f0 , jakie typy medi\'f3\loch\f0 \hich\f0 w mo\'bf\loch\f0 \hich\f0 e zwr\'f3\loch\f0 \hich\f0 ci\'e6\loch\f0 \hich\f0 ; nie jest jednak do tego zobowi\'b9\loch\f0 zany.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12483092\charrsid12483092 
+\hich\af0\dbch\af31505\loch\f0 \hich\f0  Mo\'bf\loch\f0 \hich\f0 e to zrobi\'e6\loch\f0 \hich\f0  za pomoc\'b9\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12483092\charrsid12483092 \hich\af0\dbch\af31505\loch\f0 Content-Type}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12483092\charrsid12483092 \hich\af0\dbch\af31505\loch\f0  w odpowiedzi.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12483092\charrsid12483092 
 \par \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12483092 \hich\af0\dbch\af31505\loch\f0 content-type:\line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12483092\charrsid12483092 \hich\af0\dbch\af31505\loch\f0 \hich\f0 
-Drugim aspektem negocjacji zawarto\'9c\loch\f0 \hich\f0 ci jest identyfikacja przychodz\'b9\loch\f0 \hich\f0 cego nag\'b3\'f3\loch\f0 \hich\f0 wka Content-Type i okre\'9c\loch\f0 \hich\f0 lenie, czy serwer mo\'bf\loch\f0 \hich\f0 e deserializowa\'e6
-\loch\f0  te dane.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12483092 
-\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid8076758 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid6960049\charrsid6960049 \hich\af0\dbch\af31505\loch\f0 26}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11299500\charrsid6960049 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid6960049 \hich\af0\dbch\af31505\loch\f0 Wiele }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid6960049 \hich\af0\dbch\af31505\loch\f0 \hich\f0 serwis\'f3\loch\f0 w}{\rtlch\fcs1 \af0 
-\ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid6960049 \hich\af0\dbch\af31505\loch\f0 \hich\f0 , kt\'f3\loch\f0 re potocznie }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid6960049 \hich\af0\dbch\af31505\loch\f0 nazywamy}{\rtlch\fcs1 \af0 
-\ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid6960049 \hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 REST}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid6960049 \hich\af0\dbch\af31505\loch\f0 owymi}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\highlight7\insrsid11430489\charrsid6960049 \hich\af0\dbch\af31505\loch\f0 \hich\f0 , technicznie nimi nie s\'b9\loch\f0 , dopiero\hich\af0\dbch\af31505\loch\f0  te }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid6960049 
-\hich\af0\dbch\af31505\loch\f0 \hich\f0 kt\'f3\loch\f0 re }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid6960049 \hich\af0\dbch\af31505\loch\f0 \hich\f0 spe\'b3\loch\f0 \hich\f0 niaj\'b9\hich\af0\dbch\af31505\loch\f0 \hich\f0 
- wszystkie 4 poziomy s\'b9\loch\f0 \hich\f0  w pe\'b3\loch\f0 ni zgodne z }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid6960049\charrsid6960049 \hich\af0\dbch\af31505\loch\f0 \hich\f0 architektur\'b9}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\highlight7\insrsid11430489\charrsid6960049 \hich\af0\dbch\af31505\loch\f0 \hich\f0  REST a co za tym idzie mo\'bf\loch\f0 \hich\f0 emy nazwa\'e6\loch\f0  je RESTful.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid6960049\charrsid5797392 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid6960049\charrsid6960049 \hich\af0\dbch\af31505\loch\f0 27}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid15349329 \hich\af0\dbch\af31505\loch\f0 Tutaj \hich\af0\dbch\af31505\loch\f0 \hich\f0 chcia\'b3\loch\f0 \hich\f0 bym zaznaczy\'e6\loch\f0 \hich\f0  bardzo wa\'bf\loch\f0 \hich\f0 n\'b9\loch\f0  rzecz
-\hich\af0\dbch\af31505\loch\f0 \hich\f0 , kt\'f3\loch\f0 \hich\f0 ra przez internety przewala si\'ea\loch\f0  \hich\af0\dbch\af31505\loch\f0 \hich\f0 niemi\'b3\hich\af0\dbch\af31505\loch\f0 osiernie\hich\af0\dbch\af31505\loch\f0  
-\hich\af0\dbch\af31505\loch\f0 \hich\f0 cz\'ea\loch\f0 sto\hich\af0\dbch\af31505\loch\f0 , a mi\hich\af0\dbch\af31505\loch\f0 anowicie pytania po\hich\af0\dbch\af31505\loch\f0 \hich\f0 r\'f3\loch\f0 \hich\f0 wnuj\'b9\loch\f0 ce 
-\hich\af0\dbch\af31505\loch\f0 \hich\f0 API mi\'ea\loch\f0 \hich\f0 dzy sob\'b9\loch\f0 . Takie p}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid6960049 \hich\af0\dbch\af31505\loch\f0 \hich\f0 or\'f3\loch\f0 \hich\f0 
-wnywanie API vs API generalnie nie ma sensu poniewa\'bf\loch\f0 \hich\f0  te technologie mog\'b9\loch\f0 \hich\f0  si\'ea\loch\f0 \hich\f0  na siebie nak\'b3\loch\f0 \hich\f0 ada\'e6\loch\f0 \hich\f0  / kompletowa\'e6}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\highlight7\insrsid15349329 \hich\af0\dbch\af31505\loch\f0 \hich\f0 . A to kt\'f3\loch\f0 \hich\f0 re u\'bf\loch\f0 \hich\f0 y\'e6\hich\af0\dbch\af31505\loch\f0 \hich\f0 , lub kt\'f3\loch\f0 rej j\hich\af0\dbch\af31505\loch\f0 est 
-\hich\af0\dbch\af31505\loch\f0 \hich\f0 lepsze, zale\'bf\loch\f0 y od kontekstu i\hich\af0\dbch\af31505\loch\f0  zapotrzebowania.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid6960049 \hich\af0\dbch\af31505\loch\f0  
-\par \hich\af0\dbch\af31505\loch\f0 Np.:\hich\af0\dbch\af31505\loch\f0 \hich\f0  stworzy\'e6\loch\f0  API \hich\af0\dbch\af31505\loch\f0 \hich\f0 RESTowe kt\'f3\loch\f0 \hich\f0 re pod spodem korzysta z RPC tak samo na odwr\'f3\loch\f0 t
-\par \hich\af0\dbch\af31505\loch\f0 nie ma sensu RCP vs REST}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid8418343 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \line }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 
- HYPERLINK "https://web.archive.org/web/20141104223736/http://etherealbits.com/2012/12/debunking-the-myths-of-\hich\af0\dbch\af31505\loch\f0 rpc-rest/"}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid734740\charrsid5797392 {\*\datafield 
+Drugim aspektem negocjacji zawarto\'9c\loch\f0 \hich\f0 ci jest identyfikacja przychodz\'b9\loch\f0 \hich\f0 cego nag\'b3\'f3\loch\f0 \hich\f0 wka Content-Type i okre\'9c\loch\f0 \hich\f0 lenie, czy serwer mo\'bf\loch\f0 e deserializowa
+\loch\af0\dbch\af31505\hich\f0 \'e6\loch\f0  te dane.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12483092 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid12483092\charrsid12483092 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid12483092\charrsid5797392 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid15608788 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500 
+\par 
+\par 
+\par }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500 \hich\af0\dbch\af31505\loch\f0  HYPERLINK "}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500\charrsid11299500 \hich\af0\dbch\af31505\loch\f0 
+https://blog.restcase.com/4-maturity-levels-of-rest-api-design/}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500 \hich\af0\dbch\af31505\loch\f0 " }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid13962453 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b98000000680074007400700073003a002f002f0062006c006f0067002e00720065007300740063006100730065002e0063006f006d002f0034002d006d0061007400750072006900740079002d006c00650076006500
+6c0073002d006f0066002d0072006500730074002d006100700069002d00640065007300690067006e002f000000795881f43b1d7f48af2c825dc485276300000000a5ab0003}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \cs77\f0\ul\cf19\insrsid11299500\charrsid8066247 
+\hich\af0\dbch\af31505\loch\f0 https://blog.restcase.com/4-maturity-levels-of-rest-api-design/}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500 
+\par }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500 \hich\af0\dbch\af31505\loch\f0  HYPERLINK "}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500\charrsid11299500 \hich\af0\dbch\af31505\loch\f0 https://blo\hich\af0\dbch\af31505\loch\f0 
+g.restcase.com/7-rules-for-rest-api-uri-design/}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500 \hich\af0\dbch\af31505\loch\f0 " }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid13962453 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b8e000000680074007400700073003a002f002f0062006c006f0067002e00720065007300740063006100730065002e0063006f006d002f0037002d00720075006c00650073002d0066006f0072002d00720065007300
+74002d006100700069002d007500720069002d00640065007300690067006e002f000000795881f43b1d7f48af2c825dc485276300000000a5ab0003}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \cs77\f0\ul\cf19\insrsid11299500\charrsid8066247 \hich\af0\dbch\af31505\loch\f0 
+https://blog.restcase.com/7-rules-for-rest-api-uri-design/}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500\charrsid11299500 \hich\af0\dbch\af31505\loch\f0 https://blog.restcase.com/5-basic-rest-api-design-guidelines/}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500 \line \hich\af0\dbch\af31505\loch\f0 
+\hich\f0 tabela wszystkich czasownik\'f3\loch\f0 w http
+\par 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11299500\charrsid5797392 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Wiele us\'b3\loch\f0 \hich\f0 ug, kt\'f3\hich\af0\dbch\af31505\loch\f0 \hich\f0 re potocznie okre\'9c\loch\f0 \hich\f0 
+lamy jako REST, technicznie nimi nie s\'b9\loch\f0 \hich\f0 , dopiero te spe\'b3\loch\f0 \hich\f0 niaj\'b9\loch\f0 \hich\f0 ce te wszystkie 4 poziomy s\'b9\loch\f0 \hich\f0  w pe\'b3\loch\f0 \hich\f0 ni zgodne z architekur\'b9\loch\f0 \hich\f0 
+ REST a co za tym idzie mo\'bf\loch\f0 \hich\f0 emy nazwa\'e6\loch\f0  je RESTful.
+\par 
+\par }\pard \ltrpar\ql \fi150\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Por\'f3\loch\f0 \hich\f0 
+wnywanie API vs API generalnie nie ma sensu poniewa\'bf\loch\f0  te technolog\hich\af0\dbch\af31505\loch\f0 \hich\f0 ie mog\'b9\loch\f0 \hich\f0  si\'ea\loch\f0 \hich\f0  na siebie nak\'b3\loch\f0 \hich\f0 ada\'e6\loch\f0 \hich\f0  / kompletowa\'e6
+\loch\f0  
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 Np.:
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0  stworzy\'e6\loch\f0 \hich\f0  API RESTowe kt\'f3\loch\f0 \hich\f0 re pod spodem korzysta z RPC tak samo na odwr\'f3\loch\f0 t
+\par }\pard \ltrpar\ql \fi150\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \line }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
+\hich\af0\dbch\af31505\loch\f0  HYPERLINK ""}}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid13962453 \hich\af0\dbch\af31505\loch\f0 \hich\f0 B\'b3\'b9\loch\f0 \hich\f0 d! Nieprawid\'b3\loch\f0 \hich\f0 owy odsy\'b3\loch\f0 \hich\f0 
+acz typu hiper\'b3\'b9\loch\f0 cze.}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 nie ma sensu RCP vs REST\line }
+{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0  HYPERLINK "https://web.archive.org/web/2014\hich\af0\dbch\af31505\loch\f0 
+1104223736/http://etherealbits.com/2012/12/debunking-the-myths-of-rpc-rest/"}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid734740\charrsid5797392 {\*\datafield 
 00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90bf0000000680074007400700073003a002f002f007700650062002e0061007200630068006900760065002e006f00720067002f007700650062002f003200300031003400310031003000340032003200330037003300
 36002f0068007400740070003a002f002f0065007400680065007200650061006c0062006900740073002e0063006f006d002f0032003000310032002f00310032002f0064006500620075006e006b0069006e0067002d007400680065002d006d0079007400680073002d006f0066002d007200700063002d007200650073
-0074002f000000795881f43b1d7f48af2c825dc485276300000000a5ab0003006600}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 https://web.archive.org/web/20141104223736/http://etherealbits.com/
-\hich\af0\dbch\af31505\loch\f0 2012/12/debunking-the-myths-of-rpc-rest/}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
+0074002f000000795881f43b1d7f48af2c825dc485276300000000a5ab00030066}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 h\hich\af0\dbch\af31505\loch\f0 
+ttps://web.archive.org/web/20141104223736/http://etherealbits.com/2012/12/debunking-the-myths-of-rpc-rest/}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid11430489\charrsid5797392 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
 \par 
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 RESTOWE http VERBy\line 
+\par 
+\par \ltrrow}\trowd \irow0\irowband0\ltrrow\ts11\trgaph10\trleft-108\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind-98\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr
+\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth9910\clcbpatraw8 \cellx9802\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
+\hich\af0\dbch\af31505\loch\f0 C R U D - lista /customers , encja /customers/\{id\}\cell }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid11430489\charrsid5797392 \trowd \irow0\irowband0\ltrrow\ts11\trgaph10\trleft-108\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind-98\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb
+\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth9910\clcbpatraw8 \cellx9802\row \ltrrow}\trowd \irow1\irowband1\ltrrow
+\ts11\trgaph10\trleft-108\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind-98\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth2312\clcbpatraw8 \cellx2204\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth2291\clcbpatraw8 
+\cellx4495\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth5307\clcbpatraw8 \cellx9802\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 POST\cell \hich\af0\dbch\af31505\loch\f0 CREATE\cell \hich\af0\dbch\af31505\loch\f0 
+201 (Created), header 'Location' z linkiem do stworzonego zasobu /customers/\{id\}
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 404 (Not Found), 409 (Conflict) gdy encja istnieje\cell }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid11430489\charrsid5797392 \trowd \irow1\irowband1\ltrrow\ts11\trgaph10\trleft-108\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind-98\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb
+\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth2312\clcbpatraw8 \cellx2204\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth2291\clcbpatraw8 \cellx4495\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth5307\clcbpatraw8 
+\cellx9802\row \ltrrow}\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 GET\cell \hich\af0\dbch\af31505\loch\f0 READ\cell 
+\hich\af0\dbch\af31505\loch\f0 200 (OK)
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 404 (Not Found), 409 (Conflict) gdy encja istnieje\cell }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid11430489\charrsid5797392 \trowd \irow2\irowband2\ltrrow\ts11\trgaph10\trleft-108\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind-98\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb
+\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth2312\clcbpatraw8 \cellx2204\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth2291\clcbpatraw8 \cellx4495\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth5307\clcbpatraw8 
+\cellx9802\row \ltrrow}\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 PUT\cell \hich\af0\dbch\af31505\loch\f0 UPDATE / REPLACE}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \strike\f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0  / CREATE mo\'bf\hich\af0\dbch\af31505\loch\f0 \hich\f0 esz ale nie b\'ea\loch\f0 dziesz RESTful}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid11430489\charrsid5797392 \cell \hich\af0\dbch\af31505\loch\f0 200 (OK), 204 (No Content), 404 (Not Found), 422 (UNPROCESSABLE ENTITY), 405 (Method Not Allowed) , 422 (UNPROCESSABLE ENTITY)\cell }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1
+\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \trowd \irow3\irowband3\ltrrow
+\ts11\trgaph10\trleft-108\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind-98\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth2312\clcbpatraw8 \cellx2204\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth2291\clcbpatraw8 
+\cellx4495\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth5307\clcbpatraw8 \cellx9802\row \ltrrow}\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 PATCH\cell \hich\af0\dbch\af31505\loch\f0 UPDATE MODIFY\line \cell \hich\af0\dbch\af31505\loch\f0 
+405 (Method Not Allowed), 200 (OK) 204 (No Content). 404 (Not Found), 422 (UNP\hich\af0\dbch\af31505\loch\f0 ROCESSABLE ENTITY)\cell }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \trowd \irow4\irowband4\ltrrow\ts11\trgaph10\trleft-108\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind-98\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl
+\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth2312\clcbpatraw8 \cellx2204\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 
+\clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth2291\clcbpatraw8 \cellx4495\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth5307\clcbpatraw8 \cellx9802\row \ltrrow}\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 DELETE
+\cell \hich\af0\dbch\af31505\loch\f0 DELETE\cell \hich\af0\dbch\af31505\loch\f0 405 (Method Not Allowed), 204 (No Content). 404 (Not Found), 422 (UNPROCESSABLE ENTITY)\cell }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1
+\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \trowd \irow5\irowband5\lastrow \ltrrow
+\ts11\trgaph10\trleft-108\trftsWidth1\trpaddl10\trpaddr10\trpaddfl3\trpaddfr3\tblind-98\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 
+\clcbpat8\cltxlrtb\clftsWidth3\clwWidth2312\clcbpatraw8 \cellx2204\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth2291\clcbpatraw8 
+\cellx4495\clvertalt\clbrdrt\brdrs\brdrw5\brdrcf1 \clbrdrl\brdrs\brdrw5\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw5\brdrcf1 \clcbpat8\cltxlrtb\clftsWidth3\clwWidth5307\clcbpatraw8 \cellx9802\row }\pard \ltrpar
+\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
+\par 
+\par }\pard \ltrpar\ql \fi150\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 PUT VS PATH \hich\f0 \endash \loch\f0 \hich\f0  put potrzebuje ca\'b3\loch\f0 
+ej encji do modyfikacji \loch\af0\dbch\af31505\hich\f0 \u-3872\'3f\hich\af0\dbch\af31505\loch\f0 \hich\f0  dlatego nazywamy to zast\'b9\loch\f0 \hich\f0 pieniem, patch mo\'bf\loch\f0 \hich\f0 e modyfikowa\'e6\hich\af0\dbch\af31505\loch\f0 \hich\f0 
+ poszczeg\'f3\loch\f0 lny properties danej encji
 \par 
 \par \hich\af0\dbch\af31505\loch\f0 400 > 403 > 404 > 422
 \par 
@@ -325,15 +492,15 @@ d klienta (np. nieprawid\'b3\loch\f0 \hich\f0 owa sk\'b3\loch\f0 \hich\f0 adnia 
 ce istnienie zabronionego zasobu docelowego MO\'af\loch\f0 \hich\f0 E zamiast tego odpowiedzie\'e6\loch\f0  kodem statusu 404 Nie znaleziono.
 \par 
 \par \hich\af0\dbch\af31505\loch\f0 404
-\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Serwer \'9f\loch\f0 \hich\f0 r\'f3\loch\f0 \hich\f0 d\'b3\hich\af0\dbch\af31505\loch\f0 \hich\f0 owy nie znalaz\'b3\loch\f0 \hich\f0  aktualnej reprezentacji dla zasobu docelowego lub nie chce ujawni\'e6\loch\f0 
-\hich\f0 , \'bf\loch\f0 e taka istnieje.
-\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Kod statusu 404 nie wskazuje, czy ten brak reprezentacji jest tymczasowy czy trwa\'b3\loch\f0 \hich\f0 y; kod statusu 410 Gone jest preferowany zamiast 404, je\'9c\loch\f0 \hich\f0 li serwer \'9f\loch\f0 \hich\f0 r
-\'f3\loch\f0 \hich\f0 d\'b3\hich\af0\dbch\af31505\loch\f0 \hich\f0 owy wie, przypuszczalnie poprzez jakie\'9c\loch\f0 \hich\f0  konfigurowalne \'9c\loch\f0 \hich\f0 rodki, \'bf\loch\f0 \hich\f0 e stan b\'ea\loch\f0 \hich\f0 dzie prawdopodobnie trwa\'b3
-\loch\f0 y.
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Serwer \'9f\loch\f0 \hich\f0 r\'f3\loch\f0 \hich\f0 d\'b3\loch\f0 \hich\f0 owy nie znalaz\'b3\loch\f0 \hich\f0  aktualnej reprezentacji dla zasobu docelowego lub nie chce ujawni\'e6\loch\f0 \hich\f0 , \'bf\loch\f0 
+e taka istnieje.
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Kod statusu 404 nie wskazuje, czy ten brak reprezentacji jest tymczasowy czy trwa\'b3\loch\f0 \hich\f0 y; kod statusu 410 Gone jest preferowany zamiast 404, je\'9c\loch\f0 li \hich\af0\dbch\af31505\loch\f0 \hich\f0 
+serwer \'9f\loch\f0 \hich\f0 r\'f3\loch\f0 \hich\f0 d\'b3\loch\f0 \hich\f0 owy wie, przypuszczalnie poprzez jakie\'9c\loch\f0 \hich\f0  konfigurowalne \'9c\loch\f0 \hich\f0 rodki, \'bf\loch\f0 \hich\f0 e stan b\'ea\loch\f0 \hich\f0 
+dzie prawdopodobnie trwa\'b3\loch\f0 y.
 \par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Odpowied\'9f\loch\f0 \hich\f0  404 jest domy\'9c\loch\f0 \hich\f0 lnie buforowana; tj. o ile definicja metody lub jawne kontrole buforowania nie wskazuj\'b9\loch\f0  inaczej1.
 \par 
 \par \hich\af0\dbch\af31505\loch\f0 422
-\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Serwer rozumie typ zawarto\'9c\loch\f0 c\hich\af0\dbch\af31505\loch\f0 \hich\f0 i encji \'bf\'b9\loch\f0 \hich\f0 dania (st\'b9\loch\f0 \hich\f0 d kod statusu 415 Unsupported Media Type jest niew\'b3\loch\f0 
+\par \hich\af0\dbch\af31505\loch\f0 Serwer rozumie t\hich\af0\dbch\af31505\loch\f0 \hich\f0 yp zawarto\'9c\loch\f0 \hich\f0 ci encji \'bf\'b9\loch\f0 \hich\f0 dania (st\'b9\loch\f0 \hich\f0 d kod statusu 415 Unsupported Media Type jest niew\'b3\loch\f0 
 \hich\f0 a\'9c\loch\f0 \hich\f0 ciwy), a sk\'b3\loch\f0 \hich\f0 adnia encji \'bf\'b9\loch\f0 \hich\f0 dania jest poprawna (st\'b9\loch\f0 \hich\f0 d kod statusu 400 Bad Request jest niew\'b3\loch\f0 \hich\f0 a\'9c\loch\f0 \hich\f0 ciwy), ale nie by\'b3
 \loch\f0 \hich\f0  w stanie przetworzy\'e6\loch\f0  zawartych w niej instrukcji.
 \par 
@@ -341,38 +508,26 @@ ce istnienie zabronionego zasobu docelowego MO\'af\loch\f0 \hich\f0 E zamiast te
 \par 
 \par 
 \par 
-\par \tab \hich\af0\dbch\af31505\loch\f0 REST: https://we\hich\af0\dbch\af31505\loch\f0 b.archive.org/web/20141029023515/https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
-\par 
+\par \tab \hich\af0\dbch\af31505\loch\f0 REST\hich\af0\dbch\af31505\loch\f0 : https://web.archive.org/web/20141029023515/https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
+\par }\pard \ltrpar\ql \fi566\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
 \par \hich\af0\dbch\af31505\loch\f0 http://sebastianczech.com/2017/02/20/cechy-dobrego-restful-api/
 \par 
-\par }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0  HYPERLINK "https://ichi.pro/pl/porownanie-stylow-architektonicznych-api-soap-vs-rest-vs-graphql-vs-rpc-145837527850746"}{
-\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid734740\charrsid5797392 {\*\datafield 
+\par }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0  HYPERLINK "https://ichi.pro/pl/porownanie-stylow-architektonicznych-api-soap-vs-rest\hich\af0\dbch\af31505\loch\f0 
+-vs-graphql-vs-rpc-145837527850746"}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid734740\charrsid5797392 {\*\datafield 
 00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90bf0000000680074007400700073003a002f002f0069006300680069002e00700072006f002f0070006c002f0070006f0072006f0077006e0061006e00690065002d007300740079006c006f0077002d00610072006300
 68006900740065006b0074006f006e00690063007a006e007900630068002d006100700069002d0073006f00610070002d00760073002d0072006500730074002d00760073002d006700720061007000680071006c002d00760073002d007200700063002d0031003400350038003300370035003200370038003500300037
-00340036000000795881f43b1d7f48af2c825dc485276300000000a5ab0003003100}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 
-https://ichi.pro/pl/porownanie-stylow-architektonicznych-api-soap-vs-rest-vs-graphql-vs-rpc-145837527850746}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\insrsid11430489\charrsid5797392 
+00340036000000795881f43b1d7f48af2c825dc485276300000000a5ab00030031}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 https://ichi.pro/pl/porownanie-stylow-arc\hich\af0\dbch\af31505\loch\f0 
+hitektonicznych-api-soap-vs-rest-vs-graphql-vs-rpc-145837527850746}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
 \par 
 \par \hich\af0\dbch\af31505\loch\f0 https://www.ibm.com/docs/pl/rational-soft-arch/9.6.1?topic=standards-soap
 \par 
-\par \hich\af0\dbch\af31505\loch\f0 https://www.redhat.com/en/topics/api\line \line https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/
-\par 
-\par \hich\af0\dbch\af31505\loch\f0 https://www.guru99.com/soap-simple-object-access-protocol.h\hich\af0\dbch\af31505\loch\f0 tml
+\par }\pard \ltrpar\ql \li566\ri0\widctlpar\wrapdefault\faauto\rin0\lin566\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 https://www.redhat.com/en/topics/api\line \line 
+https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-\hich\af0\dbch\af31505\loch\f0 http-apis/
+\par }\pard \ltrpar\ql \fi566\li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
+\par \hich\af0\dbch\af31505\loch\f0 https://www.guru99.com/soap-simple-object-access-protocol.html
 \par 
 \par \hich\af0\dbch\af31505\loch\f0 https://restfulapi.net/soap-vs-rest-apis/
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489 
-\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid1990666 {\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666 \hich\af0\dbch\af31505\loch\f0  HYPERLINK "}{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\insrsid1990666\charrsid11299500 \hich\af0\dbch\af31505\loch\f0 https://blog.restcase.com/4-maturity-levels-of-rest-api-design/}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666 \hich\af0\dbch\af31505\loch\f0 " }{\rtlch\fcs1 \af0 \ltrch\fcs0 
-\f0\insrsid1990666 {\*\datafield 
-00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b98000000680074007400700073003a002f002f0062006c006f0067002e00720065007300740063006100730065002e0063006f006d002f0034002d006d0061007400750072006900740079002d006c00650076006500
-6c0073002d006f0066002d0072006500730074002d006100700069002d00640065007300690067006e002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000300}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \cs77\f0\ul\cf19\insrsid1990666\charrsid8066247 
-\hich\af0\dbch\af31505\loch\f0 https://blog.restcase.com/4-maturity-levels-of-rest-api-design/}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666 
-\par }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666 \hich\af0\dbch\af31505\loch\f0  HYPERLINK "}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666\charrsid11299500 \hich\af0\dbch\af31505\loch\f0 
-https://blog.restcase.com/7-rules-for-rest-api-uri-design/}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666 \hich\af0\dbch\af31505\loch\f0 " }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666 {\*\datafield 
-00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b8e000000680074007400700073003a002f002f0062006c006f0067002e00720065007300740063006100730065002e0063006f006d002f0037002d00720075006c00650073002d0066006f0072002d00720065007300
-74002d006100700069002d007500720069002d00640065007300690067006e002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000300}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \cs77\f0\ul\cf19\insrsid1990666\charrsid8066247 \hich\af0\dbch\af31505\loch\f0 
-https://blog.restcase.com/7-rules-for-rest-api-uri-design/}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666\charrsid11299500 \hich\af0\dbch\af31505\loch\f0 https://blog.restcase.com/5-basic-rest-api-design-guidelines/}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666\charrsid5797392 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
 \par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
 9cb2400825e982c78ec7a27cc0c8992416c9d8b2a755fbf74cd25442a820166c2cd933f79e3be372bd1f07b5c3989ca74aaff2422b24eb1b475da5df374fd9ad
 5689811a183c61a50f98f4babebc2837878049899a52a57be670674cb23d8e90721f90a4d2fa3802cb35762680fd800ecd7551dc18eb899138e3c943d7e503b6
@@ -514,8 +669,8 @@ fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e50000000000000000000000005068
-87db8728d801feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e500000000000000000000000050e0
+e405b127d801feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
 0000000000000000000000000000000000000000000000000105000000000000}}
