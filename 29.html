@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1"
+  >
+  <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+    rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+    crossorigin="anonymous"
+  >
+  <link
+    href="./css/style.css"
+    rel="stylesheet"
+  >
+  <link
+    href="./css/font-awesome.min.css"
+    rel="stylesheet"
+  >
+  <title>Co to jest API... aaaaa takie restowe?</title>
+</head>
+
+<body class="content-wrapper">
+  <div class="content to-top content-overflow fs-4">
+    <p class="title">Na zakończenie garść dobrych praktyk</p>
+    <table class="table">
+      <tbody>
+        <tr>
+          <td>200</td>
+          <td>OK</td>
+          <td>wszystko ok :)</td>
+        </tr>
+        <tr>
+          <td>201</td>
+          <td>CREATED</td>
+          <td>Nowy zasób został stworzony</td>
+        </tr>
+        <tr>
+          <td>204</td>
+          <td>NO CONTENT</td>
+          <td>Serwer pomyślnie przetworzył żądanie i nie zwraca żadnej zawartości</td>
+        </tr>
+        <tr>
+          <td>304</td>
+          <td>NOT MODIFIED</td>
+          <td>Wskazuje, że zasób nie został zmodyfikowany od wersji określonej przez nagłówki żądania If-Modified-Since
+            lub If-None-Match. W takim przypadku nie ma potrzeby retransmitowania zasobu, ponieważ klient nadal posiada
+            wcześniej pobraną kopię</td>
+        </tr>
+        <tr>
+          <td>400</td>
+          <td>BAD REQUEST</td>
+          <td>Serwer nie może lub nie chce przetworzyć żądania z powodu czegoś, co jest postrzegane jako błąd klienta
+            (np. nieprawidłowa składnia żądania, nieprawidłowe obramowanie wiadomości żądania lub zwodnicze kierowanie
+            żądania).</td>
+        </tr>
+        <tr>
+          <td>401</td>
+          <td>UNAUTHORIZED</td>
+          <td>Podobny do 403 Zabronione, ale przeznaczony do stosowania, gdy wymagane jest uwierzytelnienie, które nie
+            powiodło się lub nie zostało jeszcze dostarczone.</td>
+        </tr>
+        <tr>
+          <td>403</td>
+          <td>FORBIDDEN</td>
+          <td>Serwer zrozumiał żądanie, ale odmawia jego autoryzacji.
+            Serwer, który chce upublicznić, dlaczego żądanie zostało odrzucone, może opisać ten powód w treści
+            odpowiedzi (jeśli istnieje)
+          </td>
+        </tr>
+        <tr>
+          <td>404</td>
+          <td>NOT FOUND</td>
+          <td>Serwer źródłowy nie znalazł aktualnej reprezentacji dla zasobu docelowego lub nie chce ujawnić, że taka
+            istnieje
+          </td>
+        </tr>
+        <tr>
+          <td>422</td>
+          <td>UNPROCESSABLE ENTITY</td>
+          <td>Serwer rozumie typ zawartości encji żądania (stąd kod statusu 415 Unsupported Media Type jest niewłaściwy), a składnia encji żądania jest poprawna (stąd kod statusu 400 Bad Request jest niewłaściwy), ale nie był w stanie przetworzyć zawartych w niej instrukcji
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status">lista wszystkich status codes</a>
+    </p>
+    <p>
+      <a href="https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App">fajny artykuł</a>
+    </p>
+  </div>
+  <div class="footer">
+    <a
+      href="28.html"
+      type="button"
+      class="btn btn-outline-primary"
+    ><i
+        class="fa fa-arrow-circle-o-left"
+        aria-hidden="true"
+      ></i></a>
+    <a
+      href="30.html"
+      type="button"
+      class="btn btn-outline-primary"
+    ><i
+        class="fa fa-arrow-circle-o-right"
+        aria-hidden="true"
+      ></i></a>
+  </div>
+  <!-- <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"
+  ></script> -->
+</body>
+
+</html>

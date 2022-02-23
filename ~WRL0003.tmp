@@ -1,7 +1,7 @@
 {\rtf1\adeflang1025\ansi\ansicpg1250\uc1\adeff43\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi0\deflang1045\deflangfe1045\themelang1045\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}
 {\f2\fbidi \fmodern\fcharset238\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\fbidi \froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fbidi \fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
 {\f34\fbidi \froman\fcharset238\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f42\fbidi \fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Segoe UI Emoji;}
-{\f43\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Liberation Serif{\*\falt Times New Roman};}{\f44\fbidi \fswiss\fcharset238\fprq2{\*\panose 020b0604020202020204}Liberation Sans{\*\falt Arial};}
+{\f43\fbidi \froman\fcharset238\fprq2{\*\panose 00000000000000000000}Liberation Serif{\*\falt Times New Roman};}{\f44\fbidi \fswiss\fcharset238\fprq2{\*\panose 00000000000000000000}Liberation Sans{\*\falt Arial};}
 {\flomajor\f31500\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbmajor\f31501\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}
 {\fhimajor\f31502\fbidi \fswiss\fcharset238\fprq2{\*\panose 020f0302020204030204}Calibri Light;}{\fbimajor\f31503\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}
 {\flominor\f31504\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbminor\f31505\fbidi \froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}
@@ -120,11 +120,11 @@ Body Text;}{\*\cs45 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \slink44 
 \ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp8\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp6\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp3\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp4\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0
 \ri0\sb0\sa0}{\pgp\ipgp21\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp21\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp21\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp21\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp21\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0
 \sa0}{\pgp\ipgp13\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp13\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp13\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp21\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp19\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp13\itap0\li0\ri0\sb0\sa0}}
-{\*\rsidtbl \rsid149881\rsid604782\rsid734740\rsid751664\rsid752161\rsid986600\rsid1195506\rsid1263476\rsid1990666\rsid2454082\rsid2698004\rsid2964510\rsid2971114\rsid3162232\rsid3348086\rsid3410753\rsid3412576\rsid3888797\rsid3950585\rsid4194669
-\rsid5593028\rsid5657909\rsid5797392\rsid6647288\rsid6960049\rsid7039598\rsid7340613\rsid8066247\rsid8076758\rsid8128750\rsid8150257\rsid8335269\rsid8418343\rsid8747713\rsid9266632\rsid9529884\rsid10102699\rsid11081481\rsid11151313\rsid11299500
-\rsid11430489\rsid11610846\rsid12273224\rsid12483092\rsid12527990\rsid13007453\rsid13447930\rsid13962453\rsid14118520\rsid14379397\rsid15289120\rsid15341880\rsid15349329\rsid15608788\rsid15612884\rsid15667986\rsid16282126\rsid16481695}{\mmathPr
-\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\author Pawe\'b3 Ku\'9fma}{\operator Pawe\'b3 Ku\'9fma}{\creatim\yr2022\mo2\dy20\hr17\min22}{\revtim\yr2022\mo2\dy23\hr15\min56}
-{\version50}{\edmins998}{\nofpages5}{\nofwords1432}{\nofchars8594}{\nofcharsws10006}{\vern41}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw11905\paperh16837\margl1440\margr1440\margt1417\margb1417\gutter0\ltrsect 
+{\*\rsidtbl \rsid149881\rsid604782\rsid734740\rsid751664\rsid986600\rsid1195506\rsid1263476\rsid1990666\rsid2454082\rsid2698004\rsid2964510\rsid3348086\rsid3410753\rsid3412576\rsid3888797\rsid3950585\rsid4194669\rsid5593028\rsid5657909\rsid5797392
+\rsid6647288\rsid6960049\rsid7340613\rsid8066247\rsid8076758\rsid8128750\rsid8150257\rsid8335269\rsid8418343\rsid8747713\rsid9266632\rsid9529884\rsid10102699\rsid11151313\rsid11299500\rsid11430489\rsid11610846\rsid12273224\rsid12483092\rsid12527990
+\rsid13007453\rsid13447930\rsid13962453\rsid14118520\rsid14379397\rsid15341880\rsid15349329\rsid15608788\rsid15612884\rsid15667986\rsid16481695}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440
+\mintLim0\mnaryLim1}{\info{\author Pawe\'b3 Ku\'9fma}{\operator Pawe\'b3 Ku\'9fma}{\creatim\yr2022\mo2\dy20\hr17\min22}{\revtim\yr2022\mo2\dy23\hr13\min34}{\version44}{\edmins954}{\nofpages5}{\nofwords1480}{\nofchars8883}{\nofcharsws10343}{\vern41}}
+{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw11905\paperh16837\margl1440\margr1440\margt1417\margb1417\gutter0\ltrsect 
 \widowctrl\ftnbj\aenddoc\hyphhotz425\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\horzdoc\dghspace120\dgvspace120
 \dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale190\rsidroot734740 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\*\pnseclvl1
 \pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5
@@ -194,17 +194,8 @@ takie RESTowe\'94}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797
 \hich\f0 w \'b3\loch\f0 amie zasady w \hich\af0\dbch\af31505\loch\f0 \hich\f0 taki czy inny spos\'f3\loch\f0 \hich\f0 b, ale nadal potocznie okre\'9c\loch\f0 \hich\f0 la si\'ea\loch\f0 \hich\f0  je mianem RESTowymi. Dlatego Leonard Richardson stworzy\'b3
 \loch\f0 \hich\f0  model, kt\'f3\loch\f0 \hich\f0 ry dzieli REST na poziomy zgodno\'9c\loch\f0 ci.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
 \par 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid751664\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 25}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid751664 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid16282126 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Musz\'ea\loch\f0 \hich\f0  tutaj zaznaczy\'e6\loch\f0 \hich\f0 , \'bf\loch\f0 e\hich\af0\dbch\af31505\loch\f0 \hich\f0  w punktach kt\'f3\loch\f0 
-\hich\f0 re zaraz om\'f3\hich\af0\dbch\af31505\loch\f0 \hich\f0 wimy znajduj\'b9\hich\af0\dbch\af31505\loch\f0 \hich\f0  si\'ea\loch\f0  \hich\af0\dbch\af31505\loch\f0 \hich\f0 regu\'b3\loch\f0 \hich\f0 y. Regu\'b3\loch\f0 y te w
-\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 \hich\f0 przeszukuj\'b9\loch\f0 c \hich\af0\dbch\af31505\loch\f0 Internet\hich\af0\dbch\af31505\loch\f0 \hich\f0  s\'b9\loch\f0 \hich\f0  okre\'9c\loch\f0 lane na wielu stronach j
-\hich\af0\dbch\af31505\loch\f0 ako dobre praktyki. \hich\af0\dbch\af31505\loch\f0 \hich\f0 W tym momencie protestuj\'ea\loch\f0  i \hich\af0\dbch\af31505\loch\f0 \hich\f0 uwa\'bf\loch\f0 am\hich\af0\dbch\af31505\loch\f0 \hich\f0 , \'bf\loch\f0 e
-\hich\af0\dbch\af31505\loch\f0 \hich\f0  s\'b9\loch\f0  \hich\af0\dbch\af31505\loch\f0 \hich\f0 to zasady co z definicji m\'f3\loch\f0 \hich\f0 wi nam, \'bf\loch\f0 e \hich\af0\dbch\af31505\loch\f0 jes\hich\af0\dbch\af31505\loch\f0 \hich\f0 t to co\'9c
-\loch\f0 \hich\f0  co musimy przestrzega\'e6\loch\f0 , nie za\loch\af0\dbch\af31505\hich\f0 \'9c\hich\af0\dbch\af31505\loch\f0 \hich\f0  co\'9c\loch\f0 \hich\f0  co powinni\'9c\loch\f0 my ro\hich\af0\dbch\af31505\loch\f0 \hich\f0 bi\'e6
-\hich\af0\dbch\af31505\loch\f0  \loch\af0\dbch\af31505\hich\f0 \endash \hich\af0\dbch\af31505\loch\f0  a \hich\af0\dbch\af31505\loch\f0 \hich\f0 tym w\'b3\loch\f0 \hich\f0 a\'9c\loch\f0 \hich\f0 nie s\'b9\loch\f0  dla mnie dobre praktyki. 
-\hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid16282126\charrsid5797392 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid751664\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Zazwyczaj model ten jest przedstawiany jako piramida gdzie 0 jest na samym dole za\'9c\loch\f0 \hich\f0  3 na g\'f3\loch\f0 rze.}{
-\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid1195506\charrsid5797392 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid751664\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 25
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Zazwyczaj model ten jest przedstawiany jako piramida gdzie 0 jest na samym dole za\'9c\loch\f0 \hich\f0  3 na g\'f3\loch\f0 rze.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid1195506\charrsid5797392 
 \par 
 \par }\pard \ltrpar\ql \li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0\pararsid1263476 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 0 \hich\f0 \endash }{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\highlight7\insrsid1195506\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 SWAMP }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid149881\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Bagno POX (Plain Old XML) oznacza, \'bf\loch\f0 
@@ -304,7 +295,7 @@ ra przez internety przewala s\hich\af0\dbch\af31505\loch\f0 \hich\f0 i\'ea\loch\
 \hich\f0 dzy sob\'b9\loch\f0 . Takie p}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid6960049 \hich\af0\dbch\af31505\loch\f0 \hich\f0 or\'f3\loch\f0 \hich\f0 wnywanie API vs API generalnie nie ma sensu poniewa\'bf\loch\f0 \hich\f0 
  te technologie mog\'b9\loch\f0 \hich\f0  si\'ea\loch\f0 \hich\f0  na siebie nak\'b3\loch\f0 \hich\f0 ada\'e6\loch\f0 \hich\f0  / kompletowa\'e6}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid15349329 \hich\af0\dbch\af31505\loch\f0 \hich\f0 . A to kt
 \'f3\loch\f0 \hich\f0 re u\'bf\loch\f0 \hich\f0 y\'e6\loch\f0 \hich\f0 , lub kt\'f3\loch\f0 r}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid2454082 \hich\af0\dbch\af31505\loch\f0 a}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid15349329 
-\hich\af0\dbch\af31505\loch\f0 \hich\f0  jest lepsze, zale\'bf\loch\f0 y od kontekstu\hich\af0\dbch\af31505\loch\f0  i zapotrzebowania.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid6960049 \hich\af0\dbch\af31505\loch\f0  
+\hich\af0\dbch\af31505\loch\f0 \hich\f0  jest lepsze, zale\'bf\loch\f0 y od kontekst\hich\af0\dbch\af31505\loch\f0 u i zapotrzebowania.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid11430489\charrsid6960049 \hich\af0\dbch\af31505\loch\f0  
 \par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Np.: stworzy\'e6\loch\f0 \hich\f0  API RESTowe kt\'f3\loch\f0 \hich\f0 re pod spodem korzysta z RPC tak samo na odwr\'f3\loch\f0 t
 \par \hich\af0\dbch\af31505\loch\f0 nie ma sensu RCP vs REST}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid8418343 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid986600 
@@ -312,40 +303,64 @@ ra przez internety przewala s\hich\af0\dbch\af31505\loch\f0 \hich\f0 i\'ea\loch\
 \par \hich\af0\dbch\af31505\loch\f0 403
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid986600 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid986600\charrsid986600 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Je\'9c\loch\f0 \hich\f0 li w \'bf\'b9\loch\f0 
 \hich\f0 daniu zosta\'b3\loch\f0 \hich\f0 y podane dane uwierzytelniaj\'b9\loch\f0 \hich\f0 ce, serwer uznaje je za niewystarczaj\'b9\loch\f0 ce do udzielenia
-\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 dost\'ea\loch\f0 pu. Klient NIE\hich\af0\dbch\af31505\loch\f0 \hich\f0  POWINIEN automatycznie powtarza\'e6\loch\f0 \hich\f0  \'bf\'b9\loch\f0 \hich\f0 dania z tymi samymi danymi uwierzytelniaj\'b9\loch\f0 cymi.
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 dost\'ea\loch\f0 pu. Klient NI\hich\af0\dbch\af31505\loch\f0 \hich\f0 E POWINIEN automatycznie powtarza\'e6\loch\f0 \hich\f0  \'bf\'b9\loch\f0 \hich\f0 dania z tymi samymi danymi uwierzytelniaj\'b9\loch\f0 cymi.
 
 \par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Klient MO\'af\loch\f0 \hich\f0 E powt\'f3\loch\f0 \hich\f0 rzy\'e6\loch\f0 \hich\f0  \'bf\'b9\loch\f0 \hich\f0 danie z nowymi lub innymi danymi uwierzytelniaj\'b9\loch\f0 \hich\f0 cymi. Jednak\'bf\loch\f0 \hich\f0 
 e, \'bf\'b9\loch\f0 \hich\f0 danie mo\'bf\loch\f0 \hich\f0 e zosta\'e6
-\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 zabronione z powod\'f3\loch\f0 \hich\f0 w niezwi\'b9\loch\f0 \hich\f0 zanych z danymi uwierzytelniaj\'b9\loch\f0 cymi.\hich\af0\dbch\af31505\loch\f0 \hich\f0  Serwer \'9f\loch\f0 \hich\f0 r\'f3\loch\f0 \hich\f0 d
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 zabronione z powod\'f3\loch\f0 \hich\f0 w niezwi\'b9\loch\f0 \hich\f0 zanych z danymi uwierzytelniaj\'b9\loch\f0 cymi\hich\af0\dbch\af31505\loch\f0 \hich\f0 . Serwer \'9f\loch\f0 \hich\f0 r\'f3\loch\f0 \hich\f0 d
 \'b3\loch\f0 \hich\f0 owy, kt\'f3\loch\f0 \hich\f0 ry chce "ukry\'e6\loch\f0 \hich\f0 " bie\'bf\'b9\loch\f0 \hich\f0 ce istnienie zabronionego zasobu docelowego MO\'af\loch\f0 \hich\f0 E zamiast tego odpowiedzie\'e6\loch\f0 
  kodem statusu 404 Nie znaleziono
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid8076758 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid986600\charrsid986600 
 \par \hich\af0\dbch\af31505\loch\f0 404
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid986600 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid986600\charrsid986600 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Serwer \'9f\loch\f0 \hich\f0 r\'f3\loch\f0 \hich\f0 d
-\'b3\loch\f0 \hich\f0 owy nie znalaz\'b3\loch\f0 \hich\f0  aktualnej reprezentacji dla zasobu docelowego lub nie chce ujawni\'e6\loch\f0 \hich\f0 , \'bf\loch\f0 e ta\hich\af0\dbch\af31505\loch\f0 \hich\f0 
-ka istnieje. Kod statusu 404 nie wskazuje, czy ten brak reprezentacji jest tymczasowy czy trwa\'b3\loch\f0 \hich\f0 y; kod statusu 410 Gone jest preferowany zamiast 404, je\'9c\loch\f0 \hich\f0 li serwer \'9f\loch\f0 \hich\f0 r\'f3\loch\f0 \hich\f0 d\'b3
-\loch\f0 \hich\f0 owy wie, przypuszczalnie poprzez jakie\'9c\loch\f0 \hich\f0  konfigurowalne \'9c\loch\f0 \hich\f0 rodki, \'bf\loch\f0 \hich\f0 e stan b\'ea\loch\f0 dzie prawdopodo\hich\af0\dbch\af31505\loch\f0 b\hich\af0\dbch\af31505\loch\f0 \hich\f0 
-nie trwa\'b3\loch\f0 \hich\f0 y. Odpowied\'9f\loch\f0 \hich\f0  404 jest domy\'9c\loch\f0 \hich\f0 lnie buforowana; tj. o ile definicja metody lub jawne kontrole buforowania nie wskazuj\'b9\loch\f0  inaczej.}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\'b3\loch\f0 \hich\f0 owy nie znalaz\'b3\loch\f0 \hich\f0  aktualnej reprezentacji dla zasobu docelowego lub nie chce ujawni\'e6\loch\f0 \hich\f0 , \'bf\loch\f0 e t\hich\af0\dbch\af31505\loch\f0 \hich\f0 
+aka istnieje. Kod statusu 404 nie wskazuje, czy ten brak reprezentacji jest tymczasowy czy trwa\'b3\loch\f0 \hich\f0 y; kod statusu 410 Gone jest preferowany zamiast 404, je\'9c\loch\f0 \hich\f0 li serwer \'9f\loch\f0 \hich\f0 r\'f3\loch\f0 \hich\f0 d\'b3
+\loch\f0 \hich\f0 owy wie, przypuszczalnie poprzez jakie\'9c\loch\f0 \hich\f0  konfigurowalne \'9c\loch\f0 \hich\f0 rodki, \'bf\loch\f0 \hich\f0 e stan b\'ea\loch\f0 dzie prawdopod\hich\af0\dbch\af31505\loch\f0 o\hich\af0\dbch\af31505\loch\f0 \hich\f0 
+bnie trwa\'b3\loch\f0 \hich\f0 y. Odpowied\'9f\loch\f0 \hich\f0  404 jest domy\'9c\loch\f0 \hich\f0 lnie buforowana; tj. o ile definicja metody lub jawne kontrole buforowania nie wskazuj\'b9\loch\f0  inaczej.}{\rtlch\fcs1 \af0 \ltrch\fcs0 
 \f0\insrsid986600 
 \par 
 \par 
-\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid752161 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \line }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid7039598 
-\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 HYPERLINK \hich\af0\dbch\af31505\loch\f0 "}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid7039598\charrsid752161 \hich\af0\dbch\af31505\loch\f0 
-https://sztukakodu.pl/15-zasad-przy-budowie-rest-api-za-ktore-deweloperzy-cie-pokochaja/}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid7039598 \hich\af0\dbch\af31505\loch\f0 "\hich\af0\dbch\af31505\loch\f0  }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 
-\cs77\f0\ul\cf19\insrsid7039598\charrsid1666552 \hich\af0\dbch\af31505\loch\f0 https://sztukakodu.pl/15-zasad-przy-budowie-rest-api-za-ktore-deweloperzy-cie-pokochaja/}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {
-\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid7039598 
-\par }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid2971114 \hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 HYPERLINK \hich\af0\dbch\af31505\loch\f0 "}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid2971114\charrsid7039598 
-\hich\af0\dbch\af31505\loch\f0 https://github.com/PacktPublishing/Hands-On-RESTful-Web-Services-with-ASP.NET-Core-3}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid2971114 \hich\af0\dbch\af31505\loch\f0 "\hich\af0\dbch\af31505\loch\f0  }}{\fldrslt {\rtlch\fcs1 
-\af0 \ltrch\fcs0 \cs77\f0\ul\cf19\insrsid2971114\charrsid1666552 \hich\af0\dbch\af31505\loch\f0 https://github.com/PacktPublishing/Hands-On-RESTful-Web-Services-with-ASP.NET-Core-3}}}\sectd \ltrsect
-\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid7039598 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11081481 
-\par }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid3162232 \hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 HYPERLINK \hich\af0\dbch\af31505\loch\f0 "}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid3162232\charrsid11081481 
-\hich\af0\dbch\af31505\loch\f0 https://blog.consdata.tech/2021/03/3\hich\af0\dbch\af31505\loch\f0 1/rest-api-dobre-praktyki.html}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid3162232 \hich\af0\dbch\af31505\loch\f0 "\hich\af0\dbch\af31505\loch\f0  }}{\fldrslt {
-\rtlch\fcs1 \af0 \ltrch\fcs0 \cs77\f0\ul\cf19\insrsid3162232\charrsid1666552 \hich\af0\dbch\af31505\loch\f0 https://blog.consdata.tech/2021/03/3\hich\af0\dbch\af31505\loch\f0 1/rest-api-dobre-praktyki.html}}}\sectd \ltrsect
-\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11081481 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid3162232 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid3162232\charrsid3162232 \hich\af0\dbch\af31505\loch\f0 https://blog.consdata.tech/2022/01/17/http-idempotency.html}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid3162232 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid8076758 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \line }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 
+\hich\af0\dbch\af31505\loch\f0  HYPERLINK "https://web.archive.org/web/20141104223736/http://etherealbits.com/2012/12/debunking-the-myths-of-rpc-rest/"}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid734740\charrsid5797392 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90bf0000000680074007400700073003a002f002f007700650062002e0061007200630068006900760065002e006f00720067002f007700650062002f003200300031003400310031003000340032003200330037003300
+36002f0068007400740070003a002f002f0065007400680065007200650061006c0062006900740073002e0063006f006d002f0032003000310032002f00310032002f0064006500620075006e006b0069006e0067002d007400680065002d006d0079007400680073002d006f0066002d007200700063002d007200650073
+0074002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000300660000}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 
+https://web.archive.org/web/20141104223736/http://etherealbits.com/2012/12/debunking-the-myths-of-rpc-rest/}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid11430489\charrsid5797392 
+\par 
+\par \tab \hich\af0\dbch\af31505\loch\f0 REST: https://web.archive.org/web/20141029023515/https://www.ics.uci.edu/~fielding/pubs/dissertatio\hich\af0\dbch\af31505\loch\f0 n/top.htm
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 http://sebastianczech.com/2017/02/20/cechy-dobrego-restful-api/
+\par 
+\par }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0  HYPERLINK "https://ichi.pro/pl/porownanie-stylow-architektonicznych-api-soap-vs-rest-vs-graphql-vs-rpc-145837527850746"}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid734740\charrsid5797392 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90bf0000000680074007400700073003a002f002f0069006300680069002e00700072006f002f0070006c002f0070006f0072006f0077006e0061006e00690065002d007300740079006c006f0077002d00610072006300
+68006900740065006b0074006f006e00690063007a006e007900630068002d006100700069002d0073006f00610070002d00760073002d0072006500730074002d00760073002d006700720061007000680071006c002d00760073002d007200700063002d0031003400350038003300370035003200370038003500300037
+00340036000000795881f43b1d7f48af2c825dc485276300000000a5ab0003003100f3}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489\charrsid5797392 \hich\af0\dbch\af31505\loch\f0 
+https://ichi.pro/pl/porownanie-stylow-architektonicznych-api-soap-vs-rest-vs-graphql-vs-rpc-145837527850746}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid11430489\charrsid5797392 
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 https://ww\hich\af0\dbch\af31505\loch\f0 w.ibm.com/docs/pl/rational-soft-arch/9.6.1?topic=standards-soap
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 https://www.redhat.com/en/topics/api\line \line https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 https://www.guru99.com/soap-simple-object-access-protocol.html
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 https\hich\af0\dbch\af31505\loch\f0 ://restfulapi.net/soap-vs-rest-apis/
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid11430489 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid1990666 {\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666 \hich\af0\dbch\af31505\loch\f0  HYPERLINK "}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid1990666\charrsid11299500 \hich\af0\dbch\af31505\loch\f0 https://blog.restcase.com/4-maturity-levels-of-rest-api-design/}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666 \hich\af0\dbch\af31505\loch\f0 " }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid1990666 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b98000000680074007400700073003a002f002f0062006c006f0067002e00720065007300740063006100730065002e0063006f006d002f0034002d006d0061007400750072006900740079002d006c00650076006500
+6c0073002d006f0066002d0072006500730074002d006100700069002d00640065007300690067006e002f000000795881f43b1d7f48af2c825dc485276300000000a5ab00030000}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \cs77\f0\ul\cf19\insrsid1990666\charrsid8066247 
+\hich\af0\dbch\af31505\loch\f0 https\hich\af0\dbch\af31505\loch\f0 ://blog.restcase.com/4-maturity-levels-of-rest-api-design/}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid1990666 
+\par }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666 \hich\af0\dbch\af31505\loch\f0  HYPERLINK "}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666\charrsid11299500 \hich\af0\dbch\af31505\loch\f0 
+https://blog.restcase.com/7-rules-for-rest-api-uri-design/}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666 \hich\af0\dbch\af31505\loch\f0 " }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b8e000000680074007400700073003a002f002f0062006c006f0067002e00720065007300740063006100730065002e0063006f006d002f0037002d00720075006c00650073002d0066006f0072002d00720065007300
+74002d006100700069002d007500720069002d00640065007300690067006e002f000000795881f43b1d7f48af2c825dc485276300000000a5ab00030000}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \cs77\f0\ul\cf19\insrsid1990666\charrsid8066247 \hich\af0\dbch\af31505\loch\f0 
+https://blog.restcase.com/7-rules-for-rest-api-uri-design/}}}\sectd \ltrsect\sbknone\linex0\headery708\footery731\colsx360\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666\charrsid11299500 \hich\af0\dbch\af31505\loch\f0 https://blog.restcase.com/5-basic-rest-api-design-guidelines/}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid1990666\charrsid5797392 
 \par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
 9cb2400825e982c78ec7a27cc0c8992416c9d8b2a755fbf74cd25442a820166c2cd933f79e3be372bd1f07b5c3989ca74aaff2422b24eb1b475da5df374fd9ad
 5689811a183c61a50f98f4babebc2837878049899a52a57be670674cb23d8e90721f90a4d2fa3802cb35762680fd800ecd7551dc18eb899138e3c943d7e503b6
@@ -487,8 +502,8 @@ fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e50000000000000000000000004021
-e398c528d801feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e50000000000000000000000001087
+37b4b128d801feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
 0000000000000000000000000000000000000000000000000105000000000000}}
