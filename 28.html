@@ -25,113 +25,78 @@
 </head>
 
 <body class="content-wrapper">
-  <div class="content to-top to-left content-overflow fs-4">
-      <table class="table">
-        <thead>
-          <tr>
-            <th scope="col"></th>
-            <th scope="col">RPC</th>
-            <th scope="col">SOAP</th>
-            <th scope="col">GraphQL</th>
-            <th scope="col">REST</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row">Język</th>
-            <td>początkowo tylko XML, potem json</td>
-            <td>XML</td>
-            <td>GraphQL</td>
-            <td>json / xml - inne plain text, csv, rss</td>
-          </tr>
-          <tr>
-            <th scope="row">Protokół</th>
-            <td>HTTP</td>
-            <td>jest sam w sobie protokołem, który nakłada się na inne np: HTTP, TCP, SMTP</td>
-            <td>jest sam w sobie protokołem, który nakłada się na HTTP</td>
-            <td>HTTP</td>
-          </tr>
-          <tr>
-            <th scope="row">Metody HTTP</th>
-            <td>GET (pobierz), POST (wszystko inne)</td>
-            <td>POST</td>
-            <td>GET (tylko query), POST (query oraz mutation)</td>
-            <td>GET, HEAD, POST, PUT, DELETE, OPTIONS, PATCH</td>
-          </tr>
-          <tr>
-            <th scope="row">Wzór Requestu</th>
-            <td>POST, <i>api/delete-foo</i>,
-              <pre>
-{
-  "name": "nazwa"
-}
-              </pre></td>
-              <td>POST,
-                <pre>
-&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
-&lt;soapenv:Envelope
-  duzo lini
-  &lt;soapenv:Header&gt;
-    duzo lini
-  &lt;/soapenv:Header&gt;
-  &lt;soapenv:Body&gt;
-    duzo lini
-    &lt;getThis&gt;
-      ciekawostka nazwa metody!
-    &lt;/getThis&gt;
-  &lt;/soapenv:Body&gt;
-&lt;/soapenv:Envelope&gt;
-              </pre></td>
-              <td>POST, <i>api/grapghql</i>,
-                <pre>
-{
-  project(name: "GrapghQL") {
-    code
-  }
-}
-              </pre></td>
-          <td>
-            GET, <i>api/foos</i></br>
-            GET, <i>api/foos/{id}</i></br>
-            HEAD, <i>api/foos</i></br>
-            HEAD, <i>api/foos/{id}</i></br>
-            POST, <i>api/foos</i>,</br>
-<pre>
-{
-  "name": "nazwa"
-  "description": "description"
-}
-</pre>
-            PUT, <i>api/foos</i>,
-<pre>
-{
-  "name": "fajniesza nazwa"
-  "description": "description"
-}
-</pre>
-            PATCH, <i>api/foos</i>,
-<pre>
-{
-  "name": "jeszcze fajniejsza"
-}
-</pre>
-            DELETE, <i>api/foos/{id}</i>
-            OPTIONS, <i>api/foos</i>
+  <div class="content to-top content-overflow fs-4">
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">Status Codes</th>
+          <th scope="col"></th>
+          <th scope="col"></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>200</td>
+          <td>OK</td>
+          <td>wszystko ok :)</td>
+        </tr>
+        <tr>
+          <td>201</td>
+          <td>CREATED</td>
+          <td>Nowy zasób został stworzony</td>
+        </tr>
+        <tr>
+          <td>204</td>
+          <td>NO CONTENT</td>
+          <td>Serwer pomyślnie przetworzył żądanie i nie zwraca żadnej zawartości</td>
+        </tr>
+        <tr>
+          <td>304</td>
+          <td>NOT MODIFIED</td>
+          <td>Wskazuje, że zasób nie został zmodyfikowany od wersji określonej przez nagłówki żądania If-Modified-Since
+            lub If-None-Match. W takim przypadku nie ma potrzeby retransmitowania zasobu, ponieważ klient nadal posiada
+            wcześniej pobraną kopię</td>
+        </tr>
+        <tr>
+          <td>400</td>
+          <td>BAD REQUEST</td>
+          <td>Serwer nie może lub nie chce przetworzyć żądania z powodu czegoś, co jest postrzegane jako błąd klienta
+            (np. nieprawidłowa składnia żądania, nieprawidłowe obramowanie wiadomości żądania lub zwodnicze kierowanie
+            żądania).</td>
+        </tr>
+        <tr>
+          <td>401</td>
+          <td>UNAUTHORIZED</td>
+          <td>Podobny do 403 Zabronione, ale przeznaczony do stosowania, gdy wymagane jest uwierzytelnienie, które nie
+            powiodło się lub nie zostało jeszcze dostarczone.</td>
+        </tr>
+        <tr>
+          <td>403</td>
+          <td>FORBIDDEN</td>
+          <td>Serwer zrozumiał żądanie, ale odmawia jego autoryzacji.
+            Serwer, który chce upublicznić, dlaczego żądanie zostało odrzucone, może opisać ten powód w treści
+            odpowiedzi (jeśli istnieje)
           </td>
         </tr>
         <tr>
-          <th scope="row">po co są? (kontekst logiczny)</th>
-          <td>akcje / funkcje / procedury / komendy</td>
-          <td>brak - wysyłasz kopertę w ustandaryzowany sposób i otrzymujesz równie ustandaryzowaną odpowiedź</td>
-          <td>mapuje relacje między obiektami w bazie danych, tworzy grafy</td>
-          <td>modelowanie domeny, (CRUD) create read update delete dla wszsytkich zasobów, REST to nie sam crud - to również wszystko co się kręci dookołą niego</td>
+          <td>404</td>
+          <td>NOT FOUND</td>
+          <td>Serwer źródłowy nie znalazł aktualnej reprezentacji dla zasobu docelowego lub nie chce ujawnić, że taka
+            istnieje
+          </td>
         </tr>
-        </tbody>
-      </table>
-    </div>
+        <tr>
+          <td>422</td>
+          <td>UNPROCESSABLE ENTITY</td>
+          <td>Serwer rozumie typ zawartości encji żądania (stąd kod statusu 415 Unsupported Media Type jest niewłaściwy), a składnia encji żądania jest poprawna (stąd kod statusu 400 Bad Request jest niewłaściwy), ale nie był w stanie przetworzyć zawartych w niej instrukcji
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
   <div class="footer">
     <a
-      href="26.html"
+      href="27.html"
       type="button"
       class="btn btn-outline-primary"
     ><i
@@ -139,7 +104,7 @@
         aria-hidden="true"
       ></i></a>
     <a
-      href="28.html"
+      href="29.html"
       type="button"
       class="btn btn-outline-primary"
     ><i
@@ -147,7 +112,7 @@
         aria-hidden="true"
       ></i></a>
   </div>
-    <!-- <script
+  <!-- <script
     src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
     crossorigin="anonymous"
