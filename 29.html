@@ -25,74 +25,59 @@
 </head>
 
 <body class="content-wrapper">
-  <div class="content to-top content-overflow fs-4">
-    <p class="title">Na zakończenie garść dobrych praktyk</p>
-    <table class="table">
-      <tbody>
-        <tr>
-          <td>200</td>
-          <td>OK</td>
-          <td>wszystko ok :)</td>
-        </tr>
-        <tr>
-          <td>201</td>
-          <td>CREATED</td>
-          <td>Nowy zasób został stworzony</td>
-        </tr>
-        <tr>
-          <td>204</td>
-          <td>NO CONTENT</td>
-          <td>Serwer pomyślnie przetworzył żądanie i nie zwraca żadnej zawartości</td>
-        </tr>
-        <tr>
-          <td>304</td>
-          <td>NOT MODIFIED</td>
-          <td>Wskazuje, że zasób nie został zmodyfikowany od wersji określonej przez nagłówki żądania If-Modified-Since
-            lub If-None-Match. W takim przypadku nie ma potrzeby retransmitowania zasobu, ponieważ klient nadal posiada
-            wcześniej pobraną kopię</td>
-        </tr>
-        <tr>
-          <td>400</td>
-          <td>BAD REQUEST</td>
-          <td>Serwer nie może lub nie chce przetworzyć żądania z powodu czegoś, co jest postrzegane jako błąd klienta
-            (np. nieprawidłowa składnia żądania, nieprawidłowe obramowanie wiadomości żądania lub zwodnicze kierowanie
-            żądania).</td>
-        </tr>
-        <tr>
-          <td>401</td>
-          <td>UNAUTHORIZED</td>
-          <td>Podobny do 403 Zabronione, ale przeznaczony do stosowania, gdy wymagane jest uwierzytelnienie, które nie
-            powiodło się lub nie zostało jeszcze dostarczone.</td>
-        </tr>
-        <tr>
-          <td>403</td>
-          <td>FORBIDDEN</td>
-          <td>Serwer zrozumiał żądanie, ale odmawia jego autoryzacji.
-            Serwer, który chce upublicznić, dlaczego żądanie zostało odrzucone, może opisać ten powód w treści
-            odpowiedzi (jeśli istnieje)
-          </td>
-        </tr>
-        <tr>
-          <td>404</td>
-          <td>NOT FOUND</td>
-          <td>Serwer źródłowy nie znalazł aktualnej reprezentacji dla zasobu docelowego lub nie chce ujawnić, że taka
-            istnieje
-          </td>
-        </tr>
-        <tr>
-          <td>422</td>
-          <td>UNPROCESSABLE ENTITY</td>
-          <td>Serwer rozumie typ zawartości encji żądania (stąd kod statusu 415 Unsupported Media Type jest niewłaściwy), a składnia encji żądania jest poprawna (stąd kod statusu 400 Bad Request jest niewłaściwy), ale nie był w stanie przetworzyć zawartych w niej instrukcji
-          </td>
-        </tr>
-      </tbody>
-    </table>
-    <p>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status">lista wszystkich status codes</a>
-    </p>
-    <p>
-      <a href="https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App">fajny artykuł</a>
-    </p>
+  <div class="content fs-4">
+    <p class="title">Na zakończenie garść dobrych praktyk <a
+    href="25.html"
+    type="button"
+    class="btn btn-outline-primary"
+  ><i
+      class="fa fa-arrow-circle-o-left"
+      aria-hidden="true"
+    ></i></a></p>
+    <ul>
+      <li>
+        Zwracaj dane w kopercie
+<pre>
+{
+  "data": []
+}
+{
+    "error": {
+      "code": "",
+      "msg": "",
+      "details": ""
+  }
+}
+</pre>
+      </li>
+      <li>
+        Zwracaj wartościowe odpowiedzi błędów
+      </li>
+      <li>
+        Stosuj paginację z sortowaniem, nie osobno!
+      </li>
+      <li>
+        Open API ala Swaggera
+      </li>
+      <li>
+        Wersjonuj API
+      </li>
+      <li>
+        GET bez body
+      </li>
+      <li>
+        Korzystaj z nagłówków do wysyłania meta-danych
+      </li>
+      <li>
+        Idempotentność (tylko POST nie jest!)
+      </li>
+    </ul>
+    <p>Łamać czy nie łamać</p>
+    <ul>
+      <li>
+        Stworzyć osobne API RPC czy pozwolić na ekstra kontroler który potraktujemy jak zasób?
+      </li>
+    </ul>
   </div>
   <div class="footer">
     <a

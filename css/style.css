@@ -46,6 +46,9 @@
 }
 
 li a.btn {
-  text-indent: 0;
   border: none;
+}
+
+.btn {
+  text-indent: 0;
 }
