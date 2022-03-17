@@ -32,8 +32,8 @@
     <p>Zasadniczo konwencja rest api jest taka zeby uzywac tylko rzeczownikow w nazwach. I w ten sposob dochodzisz to tego ze kazdy enpoint robi cos na zasobach, bo sa wprost zdefinoowane przez twoje uri, czyli URL ma kierować do zasobu,a nie do metody:</p>
 
     <ul>
-      <li><pre>api/get-user-list-by-status</pre> można napisać tak <pre>api/users/statues</pre></li>
-      <li><pre>api/getuserbystatustype</pre> można napisać tak <pre>api/users/statuses/{statusType}</pre></li>
+      <li><pre>api/get-user-list-by-status</pre> można napisać tak <pre>api/users/statues/{statusType}</pre></li>
+      <li><pre>api/getuserbystatustype</pre> można napisać tak <pre>api/users/{userId}/statuses/{statusType}</pre></li>
       <li><pre>api/getelementbyprojectanditemid</pre> można napisać tak <pre>api/projects/{projectId}/elements/{itemId}</pre></li>
     </ul>
   </div>
