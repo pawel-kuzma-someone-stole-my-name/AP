@@ -21,14 +21,11 @@
     href="./css/font-awesome.min.css"
     rel="stylesheet"
   >
-  <title>Co to jest API... aaaaa takie restowe?</title>
+  <title>Quake</title>
 </head>
 
-<body class="content-wrapper">
+<body class="content-wrapper q2-img center-img">
   <div class="content fs-2">
-    <p class="title">
-      REST VS RESTFUL
-    </p>
     <ul>
       <li>
         REST 
@@ -43,27 +40,28 @@
   </div>
   <div class="footer">
     <a
-      href="15.html"
+      href="13.html"
       type="button"
-      class="btn btn-outline-primary"
-    ><i
-        class="fa fa-arrow-circle-o-left"
-        aria-hidden="true"
-      ></i></a>
+      class="btn btn-dark"
+    >&#162</a>
+    <h1 class="mb-5">REST VS RESTFUL</h1>
     <a
       href="17.html"
       type="button"
-      class="btn btn-outline-primary"
-    ><i
-        class="fa fa-arrow-circle-o-right"
-        aria-hidden="true"
-      ></i></a>
+      class="btn btn-dark"
+    >Q</a>
   </div>
-    <!-- <script
-    src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
-    crossorigin="anonymous"
-  ></script> -->
+    <script>
+    document.addEventListener('keydown', function(event) {
+      if (event.key === 'ArrowRight') {
+        
+        window.location.replace('17.html');
+      }
+      if (event.key === 'ArrowLeft') {
+        window.location.replace('13.html');
+      }
+    });
+  </script>
 </body>
 
 </html>

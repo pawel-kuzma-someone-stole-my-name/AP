@@ -21,14 +21,11 @@
     href="./css/font-awesome.min.css"
     rel="stylesheet"
   >
-  <title>Co to jest API... aaaaa takie restowe?</title>
+  <title>Quake</title>
 </head>
 
-<body class="content-wrapper">
+<body class="content-wrapper q1-img center-img">
   <div class="content fs-2">
-    <p class="title">
-      HATEOAS (Hypertext As The Engine Of Application State)
-    </p>
     <ul>
       <li>
         rel – nazwa zasobu/relacji
@@ -41,11 +38,11 @@
       </li>
     </ul>
     <pre>
-  {
-    data: {...},
-    links: [ { rel: "next", method: "GET", href: "http://api.ap" } ]
-  }
-</pre>
+{
+     data: {...},
+     links: [ { rel: "next", method: "GET", href: "http://api.ap" } ]
+   }
+    </pre>
     <p class="title">
       Negocjacje za pomocą nagłówków
     </p>
@@ -64,19 +61,19 @@
   </div>
   <div class="footer">
     <a
-      href="25.html"
-      type="button"
-      class="btn btn-outline-primary"
-    ><i
-        class="fa fa-arrow-circle-o-left"
-        aria-hidden="true"
-      ></i></a>
+    href="25.html"
+    type="button"
+    class="btn btn-dark"
+  >&#162</a>
+  <h1 class="mb-5">HATEOAS (Hypertext As The Engine Of Application State)</h1>
   </div>
-  <!--    <script
-    src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
-    crossorigin="anonymous"
-  ></script>  -->
+  <script>
+    document.addEventListener('keydown', function(event) {
+      if (event.key === 'ArrowLeft') {
+        window.location.replace('25.html');
+      }
+    });
+  </script>
 </body>
 
 </html>

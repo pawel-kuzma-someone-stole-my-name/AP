@@ -21,41 +21,123 @@
     href="./css/font-awesome.min.css"
     rel="stylesheet"
   >
-  <title>Co to jest API... aaaaa takie restowe?</title>
+  <title>Quake</title>
 </head>
 
-<body class="content-wrapper">
+<body class="content-wrapper q2-img center-img">
   <div class="content fs-2">
     <div class="content">
-      <p class="title mb-5">
-        Linia czasu
-      </p>
-      <img src="./images/linia-czasu.jpg" class="img-fluid img-max-height mt-5" alt="no-wiesz-takie-restowe">
+      <table class="table table-borderless font-color rotate">
+        <tbody>
+          <tr>
+            <td></td>
+            <td>|</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>|</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td style="text-align: right; ">1998 XML-RPC &#8250;&#8250;&#8250;</td>
+            <td>|</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>|</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>|</td>
+            <td>&#8249;&#8249;&#8249; SOAP 1999</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>|</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td style="text-align: right; ">2000 REST &#8250;&#8250;&#8250;</td>
+            <td>|</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>|</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>|</td>
+            <td>&#8249;&#8249;&#8249; JSON-RPC 2005</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>|</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td style="text-align: right; ">2007 ODATA &#8250;&#8250;&#8250;</td>
+            <td>|</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>|</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>|</td>
+            <td>&#8249;&#8249;&#8249; graphQL 2015</td>
+          </tr>
+          <tr>
+            <td style="text-align: right; ">2016 gRPC &#8250;&#8250;&#8250;</td>
+            <td>|</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>|</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>|</td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+      <!-- <img src="./images/linia-czasu.jpg" class="img-fluid img-max-height mt-5" alt="no-wiesz-takie-restowe"> -->
     </div>
   </div>
   <div class="footer">
     <a
       href="11.html"
       type="button"
-      class="btn btn-outline-primary"
-    ><i
-        class="fa fa-arrow-circle-o-left"
-        aria-hidden="true"
-      ></i></a>
+      class="btn btn-dark"
+    >&#162</a>
+    <h1 class="mb-5">Linia czasu</h1>
     <a
       href="13.html"
       type="button"
-      class="btn btn-outline-primary"
-    ><i
-        class="fa fa-arrow-circle-o-right"
-        aria-hidden="true"
-      ></i></a>
+      class="btn btn-dark"
+    >Q</a>
   </div>
-    <!-- <script
-    src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
-    crossorigin="anonymous"
-  ></script> -->
+    <script>
+    document.addEventListener('keydown', function(event) {
+      if (event.key === 'ArrowRight') {
+        
+        window.location.replace('13.html');
+      }
+      if (event.key === 'ArrowLeft') {
+        window.location.replace('11.html');
+      }
+    });
+  </script>
 </body>
 
 </html>

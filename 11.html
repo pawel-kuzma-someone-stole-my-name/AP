@@ -21,15 +21,15 @@
     href="./css/font-awesome.min.css"
     rel="stylesheet"
   >
-  <title>Co to jest API... aaaaa takie restowe?</title>
+  <title>Quake</title>
 </head>
 
-<body class="content-wrapper">
+<body class="content-wrapper q2-img center-img">
   <div class="content to-left fs-2">
     <p>
       GraphQL to język zapytań oraz środowisko, który nadaje priorytet dostarczaniu klientom dokładnie tych danych, których żądają, i nic więcej. Jest w stanie ukryć za swoim API złożoność integracji wielu systemów. Gromadząc dane z wielu miejsc, łączy je w jeden globalny schemat.
     </p>
-    <table class="table table-striped">
+    <table class="table table-borderless font-color">
       <thead>
         <tr>
           <th scope="col">Otypuj swoje dane</th>
@@ -66,27 +66,28 @@ type Project {
   </div>
   <div class="footer">
     <a
-      href="10.html"
+      href="9.html"
       type="button"
-      class="btn btn-outline-primary"
-    ><i
-        class="fa fa-arrow-circle-o-left"
-        aria-hidden="true"
-      ></i></a>
+      class="btn btn-dark"
+    >&#162</a>
+    <h1 class="mb-5">GraphQL</h1>
     <a
       href="12.html"
       type="button"
-      class="btn btn-outline-primary"
-    ><i
-        class="fa fa-arrow-circle-o-right"
-        aria-hidden="true"
-      ></i></a>
+      class="btn btn-dark"
+    >Q</a>
   </div>
-    <!-- <script
-    src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
-    crossorigin="anonymous"
-  ></script> -->
+    <script>
+    document.addEventListener('keydown', function(event) {
+      if (event.key === 'ArrowRight') {
+        
+        window.location.replace('12.html');
+      }
+      if (event.key === 'ArrowLeft') {
+        window.location.replace('9.html');
+      }
+    });
+  </script>
 </body>
 
 </html>
